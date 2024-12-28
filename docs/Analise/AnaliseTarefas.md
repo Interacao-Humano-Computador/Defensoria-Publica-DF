@@ -12,7 +12,7 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 
 ---
 
-## **Tarefa 1: Agendamento para solicitar um advogado (não integrado)**
+## **Tarefa 1: Agendamento para uma consulta com um advogado (funcionalidade inexistente no site)**
 
 **Goal 0**: Agendar uma consulta com um advogado no site da Defensoria Pública do Distrito Federal
 
