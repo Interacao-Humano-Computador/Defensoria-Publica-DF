@@ -26,6 +26,6 @@ Figura 1 apresenta um storyboard que ilustra o processo de um usuário acessando
 
 <center>
 
-![Figura 1 - Storyboard agendamento com advogado](../assets/images/storyboard.jpg)<figcaption>Fonte:Mateus Vieira (2024)
+![Figura 1 - Storyboard agendamento com advogado](../assets/images/storyboard.jpg)<figcaption>Fonte: Karolina Vieira (2024)
 
 </center> 
