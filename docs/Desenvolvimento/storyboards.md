@@ -21,6 +21,7 @@ Esses protótipos foram desenvolvidos a partir das tarefas definidas nos cenári
 ## **Tarefa 1: Agendamento para uma consulta com um advogado (funcionalidade inexistente no site)**
 
 Figura 1 apresenta um storyboard que ilustra o processo de um usuário acessando o site da Defensoria Pública do Distrito Federal para agendar uma consulta com um advogado.
+
 **Figura 1** - Storyboard agendamento com advogado
 
 <center>
