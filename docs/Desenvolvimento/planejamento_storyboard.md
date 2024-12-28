@@ -2,7 +2,7 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  27/12/2024    |        27/12/2024          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  |
 
-# Planejamento da Avaliaçãdo do StoryBoard
+# Planejamento da Avaliação do StoryBoard
 
 ## Introdução
 
