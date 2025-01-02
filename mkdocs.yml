@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 site_name: "Defensoria Pública do Distrito Federal"
 repo_url: https://github.com/interacao-humano-computador/Defensoria-Publica-DF/
 repo_name: "Defensoria-Publica-DF"
@@ -131,6 +132,8 @@ nav:
 
 >>>>>>> parent of 73a7eb7 (planejamento)
 =======
+=======
+>>>>>>> parent of bacbdd9 (Mesclando alterações da devel para gh-pages)
 site_name: "Defensoria Pública do Distrito Federal"
 repo_url: https://github.com/interacao-humano-computador/Defensoria-Publica-DF/
 repo_name: "Defensoria-Publica-DF"
@@ -228,6 +231,7 @@ nav:
 #
 # =============================================
 
+<<<<<<< HEAD
 >>>>>>> parent of e76aef4 (Merge pull request #32 from Interacao-Humano-Computador/devel)
 =======
 site_name: "Defensoria Pública do Distrito Federal"
@@ -328,3 +332,5 @@ nav:
 # =============================================
 
 >>>>>>> parent of 41a2d18 (Merge da devel para a main)
+=======
+>>>>>>> parent of bacbdd9 (Mesclando alterações da devel para gh-pages)
