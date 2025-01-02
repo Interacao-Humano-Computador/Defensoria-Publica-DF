@@ -2,6 +2,8 @@
 site_name: "Defensoria Pública do Distrito Federal"
 repo_url: https://github.com/interacao-humano-computador/Defensoria-Publica-DF/
 repo_name: "Defensoria-Publica-DF"
+repo_url: https://github.com/interacao-humano-computador/Defensoria-Publica-DF/
+repo_name: "Defensoria-Publica-DF"
 
 markdown_extensions:
   - admonition
