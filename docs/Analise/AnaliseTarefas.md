@@ -12,37 +12,49 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 
 ---
 
+<<<<<<< HEAD
 ## **Tarefa 1: Agendamento para uma consulta com um advogado (funcionalidade inexistente no site)**
+=======
+## **Tarefa 1: Acompanhar a Resposta de uma Solicitação**
+>>>>>>> parent of 91b09cf (nova analise de tarefas)
 
-**Goal 0**: Agendar uma consulta com um advogado no site da Defensoria Pública do Distrito Federal
+ **Goal 0:** Verificar o status de uma solicitação no site da Defensoria Pública
 
-**Method 1**: Passos para acessar e realizar o agendamento
+ **Method 1:** Passos para acessar e consultar o status da solicitação
 
-**Goal 1**: Acessar o site da Defensoria Pública
+ **Goal 1:** Conectar-se à rede Wi-Fi
+- **OP 1.1:** Ligar o computador.
+- **OP 1.2:** Conectar à rede Wi-Fi desejada.
 
-- **OP 1.1**: Abrir o navegador, digitar www.defensoria.df.gov.br e pressionar Enter.
+ **Goal 2:** Acessar o site da Defensoria Pública
+- **OP 2.1:** Abrir o navegador de internet (ex.: Google Chrome).
+- **OP 2.2:** Digitar o endereço do site.
+- **OP 2.3:** Pressionar *Enter* para carregar o site.
 
-**Goal 2**: Localizar a área de agendamento de consultas
+ **Goal 3:** Localizar a área de acompanhamento de solicitações
+ **Method 1:** Usar o menu principal do site
+- **OP 3.1:** Navegar pelo menu principal.
+- **OP 3.2:** Identificar e clicar na seção "Acompanhamento de Solicitações".
 
-- **OP 2.1**: Navegar pelo menu principal.
-- **OP 2.2**: Identificar e clicar na seção "Agendamento de Consultas".
+ **Method 2:** Usar a barra de busca
+- **OP 3.3:** Localizar a barra de busca no site.
+- **OP 3.4:** Digitar "Acompanhamento de Solicitações" e pressionar *Enter*.
+- **OP 3.5:** Analisar os resultados e clicar no link apropriado.
 
-**Goal 3**: Preencher as informações necessárias para o agendamento
+ **Goal 4:** Verificar o status da solicitação
+- **OP 4.1:** Inserir as informações solicitadas (ex.: número do protocolo ou CPF).
+- **OP 4.2:** Clicar no botão para consultar o status.
+- **OP 4.3:** Aguardar o carregamento da página com as informações.
 
-- **OP 3.1**: Inserir as informações pessoais solicitadas (ex.: nome, CPF, telefone, e-mail).
-- **OP 3.2**: Selecionar o tipo de atendimento desejado (ex.: assistência jurídica, área cível, etc.).
--**OP 3.3**: Escolher a data e o horário disponíveis para o atendimento.
-- **OP 3.4**: Confirmar as informações inseridas e clicar no botão "Agendar".
-**Goal 4**: Finalizar o agendamento
-
-- **OP 4.1**: Anotar o número do protocolo ou capturar a tela - de confirmação.
-- **OP 4.2**: Verificar o e-mail ou mensagens para confirmar o agendamento e receber instruções adicionais, se aplicável.
+ **Goal 5:** Concluir a verificação
+- **OP 5.1:** Ler e interpretar as informações apresentadas.
+- **OP 5.2:** Capturar a tela ou anotar os detalhes relevantes.
 
 ---
 
 ## **Diagrama HTA – Acompanhar a Resposta de uma Solicitação**
 
-![Solicitação](../assets/images/HTA_agendamento.png)
+![Solicitação](../assets/images/HTA.drawio.png)
 
 ---
 ## **Tarefa 2: Utilizar o Chatbot para Assistência**
