@@ -47,3 +47,5 @@ Sugestões de melhorias para o sistema.
 ## Bibliografia
 [1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.
 
+[2] Análise da plataforma Simples Nacional - Características da plataforma, disponível em: [https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas/](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel1/AnaliseDeTarefas/PlanejamentoAvAnaliseDeTarefas/). Acesso em 10 de dezembro de 2024.
+
