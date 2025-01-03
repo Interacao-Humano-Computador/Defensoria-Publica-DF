@@ -45,12 +45,13 @@ O método de pesquisa escolhido foi a entrevista, devido à sua habilidade de ex
 
 ### Participantes
 Os participantes das entrevistas serão escolhidos com base no Perfil de usuário.
+Aqui está a tabela atualizada sem a coluna "Local":
 
-| **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data** | **Local** |
-|------------------------|---------------------|-----------------------|--------------------|----------|-----------|
-| Karolina Vieira        |    Fernanda Alves                 |    15:00                   |          15:30          |    02/01/2024      |           |
-| Lucas Sales            |                     |                       |                    |          |           |
-| Paola Rebeca           |                     |                       |                    |          |           |
+| **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
+|------------------------|---------------------|-----------------------|--------------------|----------------|
+| Karolina Vieira        | Fernanda Alves     | 15:00                | 15:30             | 02/01/2024     |
+| Lucas Sales            |                     |                       |                    |                |
+| Paola Rebeca           |                     |                       |                    |                |
 
 
 ## Aspectos éticos
