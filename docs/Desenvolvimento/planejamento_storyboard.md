@@ -48,7 +48,7 @@ Os participantes das entrevistas serão escolhidos com base no Perfil de usuári
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data** | **Local** |
 |------------------------|---------------------|-----------------------|--------------------|----------|-----------|
-| Karolina Vieira        |                     |                       |                    |          |           |
+| Karolina Vieira        |    Fernanda Alves                 |    15:00                   |          15:30          |    02/01/2024      |           |
 | Lucas Sales            |                     |                       |                    |          |           |
 | Paola Rebeca           |                     |                       |                    |          |           |
 
