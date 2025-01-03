@@ -20,7 +20,7 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 
 **Goal 1**: Acessar o site da Defensoria Pública
 
-- **OP 1.1**: Abrir o navegador, digitar www.defensoria.df.gov.br e pressionar Enter.
+- **OP 1.1**: Abrir o navegador, digitar www.defensoria.df.gov.br e .
 
 **Goal 2**: Localizar a área de agendamento de consultas
 
