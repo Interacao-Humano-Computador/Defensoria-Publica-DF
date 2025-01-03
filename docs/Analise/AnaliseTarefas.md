@@ -5,6 +5,7 @@
 | 01/12/2024 |        02/12/2024        |  1.0   |      Criação do Documento      | [João Victor C. Nobre](https://github.com/Gam13) </br></br>[Karolina Vieira](https://github.com/Karolina91)</br></br>[Paola Nascimento](https://github.com/paolaalim) |   [Lucas Sales](https://github.com/Lux-Sales)    |
 | 02/12/2024 |        02/12/2024        |  1.1   | Adição do histórico de versões |                                                              [Lucas Sales](https://github.com/Lux-Sales)                                                              | [João Victor C. Nobre](https://github.com/Gam13) |
 | 02/12/2024 |        02/12/2024        |  1.2   |      Adição da tarefa 04       |                                                              [Lucas Sales](https://github.com/Lux-Sales)                                                              | [João Victor C. Nobre](https://github.com/Gam13) |
+|28/12/2024| 03/01/2024| 1.3 |Alteração da Análise de Tarefa| [Karolina Vieira](https://github.com/Karolina91) | [Paola Nascimento](https://github.com/paolaalim) |
 
 ## **Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)**
 
