@@ -10,7 +10,7 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 
 ### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Pesquisar por mídia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Pesquisar por mídia" e o fluxo de interações dos utilizadores da Defensoria Publica, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ### Método de avaliação
 
