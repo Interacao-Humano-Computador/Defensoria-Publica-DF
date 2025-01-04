@@ -80,14 +80,15 @@ nav:
       - Planejamento da avaliação da análise de tarefas: Design, Avaliação e Desenvolvimento/analiseDeTarefas.md
       - Planejamento do Relato dos Resultados da Análise de Tarefas: Design, Avaliação e Desenvolvimento/planejamentoRelatoAnaliseTarefas.md
     - Storyboard:
-      - Storyboards: Design, Avaliação e Desenvolvimento\storyboards.md 
-      - Planejamento da avaliação do Storyboard: Design, Avaliação e Desenvolvimento\planejamento_storyboard.md
-      - Relato do Storyboard: Design, Avaliação e Desenvolvimento\Planejamento_relatoStoryboard.md
-      - Resultado do Relato do Storyboard: Design, Avaliação e Desenvolvimento\resultado_Storyboard.md
-    - Nivél 2:
-      - Planejamento do Protótipo de Papel: Design, Avaliação e Desenvolvimento\Planejamento_prototipoPapel.md
-      - Planejamento do Relato do Protótipo de Papel: Design, Avaliação e Desenvolvimento\Planejamento_resultados_prototipoPapel.md
-      - Resultado do Relato do Protótipo de Papel: Design, Avaliação e Desenvolvimento\Relato_prototipoPapel.md
+      - Storyboards: Design, Avaliação e Desenvolvimento/storyboards.md 
+      - Planejamento da avaliação do Storyboard: Design, Avaliação e Desenvolvimento/planejamento_storyboard.md
+      - Relato do Storyboard: Design, Avaliação e Desenvolvimento/Planejamento_relatoStoryboard.md
+      - Resultado do Relato do Storyboard: Design, Avaliação e Desenvolvimento/resultado_Storyboard.md
+    - Nível 2:
+      - Planejamento do Protótipo de Papel: Design, Avaliação e Desenvolvimento/Planejamento_prototipoPapel.md
+      - Planejamento do Relato do Protótipo de Papel: Design, Avaliação e Desenvolvimento/Planejamento_resultados_prototipoPapel.md
+      - Resultado do Relato do Protótipo de Papel: Design, Avaliação e Desenvolvimento/Relato_prototipoPapel.md
+
   - Verificação:
       - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
       - Inspeção 2º etapa: Verificacao/inspecao_etapa2.md
