@@ -8,10 +8,8 @@
 | 02/12/2024 |        02/12/2024        |  1.2   |      Adição da tarefa 04       |                                                              [Lucas Sales](https://github.com/Lux-Sales)     
 | 28/12/2024 |        03/01/2025        |  1.3   | Modificação Tarefa 01 |                                                              [Karolina Vieira](https://github.com/Karolina91)                                                              | [Paola Nascimento](https://github.com/paolaalim) |
 | 03/01/2025 |        03/01/2025        |  1.4   |      Adição da tarefa 05       |                                                              [Paola Nascimento](https://github.com/paolaalim)                                                         | [Karolina Vieira](https://github.com/Karolina91) |
-=======
 | 02/12/2024 |        02/12/2024        |  1.2   |      Adição da tarefa 04       |                                                              [Lucas Sales](https://github.com/Lux-Sales)                                                              | [João Victor C. Nobre](https://github.com/Gam13) |
 |28/12/2024| 03/01/2024| 1.3 |Alteração da Análise de Tarefa| [Karolina Vieira](https://github.com/Karolina91) | [Paola Nascimento](https://github.com/paolaalim) |
->>>>>>> 7e7065e2245bce97bb8398294981251170edcfd1
 
 ## **Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)**
 
@@ -139,14 +137,14 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 ![HTA SUAP](../assets/images/HTA-SUAP.jpg)
 
 ---
-## **Tarefa 5: Se inscrever no Programa de Estágio da DPDF**
+## **Tarefa 5: Inscrever-se no Programa de Estágio da DPDF**
 
 
 **Goal 0:** Buscar informações sobre o Programa de Estágio da DPDF e concluir a inscrição<br/>
 
 **Method 1:** Navegar no site da DPDF para encontrar informações e realizar a inscrição<br/>
 
-**Goal 1: Acessar o site da DPDF**
+**Goal 1: Acessar o site da DPDF**<br/>
 - **Operator 1.1:** Abrir o navegador no notebook<br/>
 - **Operator 1.2:** Digitar o endereço do site da DPDF na barra de endereços<br/>
 - **Operator 1.3:** Pressionar Enter<br/>
@@ -173,11 +171,11 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 **Goal 6: Receber confirmação da inscrição**<br/>
 - **Operator 6.1:** Esperar o carregamento da página de confirmação<br/>
 - **Operator 6.2:** Verificar a mensagem de sucesso exibida na tela ("Inscrição realizada com sucesso!")<br/>
-- **Operator 6.4:** Clicar no botão "Baixar Comprovante" para salvar um recibo da inscrição<br/>
+- **Operator 6.3:** Clicar no botão "Baixar Comprovante" para salvar um recibo da inscrição<br/>
 
 ---
 
-## **Diagrama HTA – Se inscrever no Programa de Estágio da DPDF**
+## **Diagrama HTA – Inscrever-se no Programa de Estágio da DPDF**
 
 ![HTA Estagio](../assets/images/HTA-Estagio.png)
 

@@ -45,6 +45,9 @@ theme:
         name: Mudar para o modo claro
   language: pt-BR
 
+extra_css:
+  - assets/css/extra.css
+
 nav:
   - Home: index.md
   - Planejamento:
