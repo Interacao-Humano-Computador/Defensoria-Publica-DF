@@ -10,7 +10,7 @@ Assim, a avaliação do protótipo de papel será conduzida com base nas tarefas
 | Tarefas a serem executadas no site da DPDF |
 |---------------------------------------------|
 | Agendamento para uma consulta com um advogado (funcionalidade inexistente no site) |
-| Diagrama HTA – Utilizar o Chatbot          |
+|  Inscrever-se no Programa de Estágio da DPDF          |
 | Diagrama HTA – Solicitar atendimento à SUAP|
 
 ## Metodologia

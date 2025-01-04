@@ -49,9 +49,9 @@ Aqui está a tabela atualizada sem a coluna "Local":
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
 |------------------------|---------------------|-----------------------|--------------------|----------------|
-| Karolina Vieira        | Fernanda Alves     | 15:00                | 15:30             | 02/01/2024     |
-| Lucas Sales            |                     |                       |                    |                |
-| Paola Rebeca           |                     |                       |                    |                |
+| Karolina Vieira        | Fernanda Alves      | 15:00                | 15:30             | 02/01/2025     |
+| Lucas Sales            |                     |                      |                   |                |
+| Paola Rebeca           | Vanda Rabelo        |   12:00              |    12:30          |   04/01/2025   |
 
 
 ## Aspectos éticos

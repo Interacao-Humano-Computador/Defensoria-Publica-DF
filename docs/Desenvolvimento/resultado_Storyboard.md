@@ -10,7 +10,7 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 
 ### Objetivo e âmbito da avaliação
 
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Pesquisar por mídia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
+A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Pesquisar por mídia" e o fluxo de interações dos utilizadores da Defensoria Publica, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
 ### Método de avaliação
 
@@ -25,6 +25,7 @@ A Tabela 1 exibe as datas da realização da avaliação.
 | Entrevistador | Entrevistado  | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
 | :-----------: | :-----------: | :---------------: | :------------: | :---: | :--------------: |
 |   Karolina Vieira| Fernanda Alves| 15:30|  16:00 | 02/01/2025 | Residencia|
+|   Paola Nascimento| Vanda Rabelo| 14:00|  14:30 | 04/01/2025 | Residencia|
 
 <font size="2"><p style="text-align: center">Fonte: 
 [Karolina Vieira](https://github.com/Karolina91)

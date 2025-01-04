@@ -45,6 +45,9 @@ theme:
         name: Mudar para o modo claro
   language: pt-BR
 
+extra_css:
+  - assets/css/extra.css
+
 nav:
   - Home: index.md
   - Planejamento:
@@ -73,17 +76,20 @@ nav:
     - Apresentação etapa 2: Apresentacoes/apresentacao2.md
     - Apresentação etapa 3: Apresentacoes/apresentacao3.md
   - Design, Avaliação e Desenvolvimento:
-    - Planejamentos:
-      - Planejamento da avaliação da análise de tarefas: Design, Avaliação e Desenvolvimento/analiseDeTarefas.md
-      - Planejamento do Relato dos Resultados da Análise de Tarefas: Design, Avaliação e Desenvolvimento/planejamentoRelatoAnaliseTarefas.md
-      - Planejamento da avaliação do Storyboard: Design, Avaliação e Desenvolvimento\planejamento_storyboard.md
-    - Storyboard:
-      - Storyboards: Design, Avaliação e Desenvolvimento\storyboards.md 
-      - Storyboard : Design, Avaliação e Desenvolvimento\Planejamento_relatoStoryboard.md
-      - Storyboar : Design, Avaliação e Desenvolvimento
-    - Nivél 2:
-      - Nivél 2: Design, Avaliação e Desenvolvimento\Planejamento_prototipoPapel.md
-      - Nivél 2: Design, Avaliação e Desenvolvimento\Planejamento_prototipoPapel.md
+    - Nível 1:
+        - Análise de Tarefas:
+            - Planejamento da avaliação da análise de tarefas: Desenvolvimento/analiseDeTarefas.md
+            - Planejamento do Relato dos Resultados da Análise de Tarefas: Desenvolvimento/planejamentoRelatoAnaliseTarefas.md
+        - Storyboard:
+            - Storyboards: Desenvolvimento/storyboards.md
+            - Planejamento da avaliação do Storyboard: Desenvolvimento/planejamento_storyboard.md
+            - Planejamento do Relato do Storyboard: Desenvolvimento/Planejamento_relatodoStoryborad.md
+            - Resultado do Relato do Storyboard: Desenvolvimento/resultado_Storyboard.md
+    - Nível 2:
+        - Protótipo de Papel:
+            - Planejamento do Protótipo de Papel: Desenvolvimento/Planejamento_prototipoPapel.md
+            - Planejamento do Relato do Protótipo de Papel: Desenvolvimento/Planejamento_resultados_prototipoPapel.md
+            - Resultado do Relato do Protótipo de Papel: Desenvolvimento/Relato_prototipoPapel.md
   - Verificação:
       - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
       - Inspeção 2º etapa: Verificacao/inspecao_etapa2.md
