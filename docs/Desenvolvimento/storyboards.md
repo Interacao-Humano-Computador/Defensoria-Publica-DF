@@ -29,3 +29,15 @@ Figura 1 apresenta um storyboard que ilustra o processo de um usuário acessando
 ![Figura 1 - Storyboard agendamento com advogado](../assets/images/storyboard.jpg)<figcaption>Fonte: Karolina Vieira (2024)
 
 </center> 
+
+## **Tarefa 5: Se inscrever no Programa de Estágio da DPDF (funcionalidade inexistente no site)**
+
+Figura 2 apresenta um storyboard que ilustra o processo que um usuário faz ao acessar o site da Defensoria Pública do Distrito Federal para se inscrever no Estágio Remunerado da DPDF.
+
+**Figura 2** - Storyboard sobre o processo para se inscrever no Programa 
+
+<center>
+
+![Figura 2 - Storyboard do processo de inscrição](../assets/images/storyboard_estagio.png)<figcaption>Fonte: Paola Nascimento (2025)
+
+</center> 
