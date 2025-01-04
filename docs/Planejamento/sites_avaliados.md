@@ -36,7 +36,7 @@ Responsável: [Karolina Vieira](https://github.com/Karolina91)
 
 O [Meu INSS](https://meu.inss.gov.br/#/login) é um sistema digital do Instituto Nacional do Seguro Social (INSS) do Brasil, que oferece aos cidadãos acesso aos serviços relacionados à Previdência Social de forma online
 
-Ao usar o Meu INSS, você pode:
+Ao usar o Meu INSS, você pode fazer:
 
 - Consultas: Acessar informações sobre benefícios como aposentadoria, pensão por morte, auxílio-doença, entre outros.
 - Solicitações: Fazer solicitações de benefícios, como o pedido de aposentadoria ou de aposentadoria por invalidez.
@@ -51,14 +51,14 @@ Para analisar com profundidade a avaliação heurística realizada, acesse o lin
 
 ## Defensoria Pública do Distrito Federal (DPDF)
 
-O site da Defensoria Pública do Distrito Federal (DPDF) é o portal de acesso online aos serviços e informações oferecidos pela instituição. Através dele, cidadãos residentes no Distrito Federal podem obter orientações jurídicas gratuitas, agendar atendimento, acompanhar processos e ter acesso a uma série de outros recursos.
+Responsável: [Paola Nascimento](https://github.com/paolaalim)
 
-A DPDF, como órgão essencial do sistema de justiça, tem como missão garantir o acesso à justiça e a defesa dos direitos humanos das pessoas. O site da instituição desempenha um papel fundamental nesse contexto, ao disponibilizar informações claras e precisas sobre os serviços oferecidos, facilitando o acesso da população aos direitos que lhe são assegurados por lei.
+O site da Defensoria Pública do Distrito Federal (DPDF) é uma plataforma digital que visa facilitar o acesso dos cidadãos do Distrito Federal aos serviços jurídicos oferecidos pela instituição. A DPDF presta assistência jurídica gratuita a pessoas de baixa renda, atuando em diversas áreas, como direito de família, criminal, cível e direitos humanos.
 
 No site da DPDF, você encontrará informações sobre:
 
 **Serviços:** Quais serviços são oferecidos pela DPDF, como assistência jurídica gratuita em diversas áreas do direito (família, consumidor, criminal etc.).<br/>
-**Atendimento:** Como agendar um atendimento presencial ou online, quais os locais de atendimento e os horários de funcionamento.<br/>
+**Atendimento:** Como agendar um atendimento presencial, quais os locais de atendimento e os horários de funcionamento.<br/>
 **Legislação:** Acesso a leis, normas e outros documentos legais relevantes para a atuação da Defensoria Pública.<br/>
 **Notícias:** Notícias e informações sobre as atividades da DPDF, eventos, concursos públicos e outras novidades.<br/>
 **Ouvidoria:** Canal de comunicação para que a população possa fazer sugestões, reclamações e elogios sobre os serviços prestados.<br/>
