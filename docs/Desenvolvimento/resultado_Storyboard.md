@@ -34,16 +34,13 @@ A Tabela 1 exibe as datas da realização da avaliação.
 ### Registro da avaliação
 
 No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avaliação.
-<center>
+### Video 1: Gravação da avaliação
 
-<font size="2"><p style="text-align: center">Video 1: Gravação da avaliação</p></font>
+[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=jGFW_YZJspA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jGFW_YZJspA" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+#### Fonte:
+[Karolina Vieira](https://github.com/Karolina91)
 
-<font size="2"><p style="text-align: center">Fonte:
-[ Karolina Vieira](https://github.com/Karolina91)
-
-</center>
 
 <font size="2"><p style="text-align: center">Tabela 2: Sumario de perguntas</p></font>
 
