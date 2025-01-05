@@ -32,6 +32,8 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
+  icon:
+    logo: assets/imgages/icon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: claro
@@ -78,8 +80,9 @@ nav:
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
         - Análise de Tarefas:
-            - Planejamento da avaliação da análise de tarefas: Desenvolvimento/analiseDeTarefas.md
+            - Planejamento da avaliação da Análise de Tarefas: Desenvolvimento/analiseDeTarefas.md
             - Planejamento do Relato dos Resultados da Análise de Tarefas: Desenvolvimento/planejamentoRelatoAnaliseTarefas.md
+            - Resultado do Relato da Análise de Tarefas: Desenvolvimento/resultado_analiseTarefas.md
         - Storyboard:
             - Storyboards: Desenvolvimento/storyboards.md
             - Planejamento da avaliação do Storyboard: Desenvolvimento/planejamento_storyboard.md
