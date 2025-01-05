@@ -6,7 +6,7 @@
 
 Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação dos Storyboards. Com isso, serão abordados os tópicos referidos no [Planejamento do Relato dos Resultados dos Storyboards](./Planejamento_relatodoStoryborad.md)
 
-### Tarefa: Pesquisar por mídia
+
 
 ### Objetivo e âmbito da avaliação
 

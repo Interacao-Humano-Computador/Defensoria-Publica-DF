@@ -2,7 +2,7 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  27/12/2024    |        03/01/2025          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 
-# Relato de Resultados do Protótipo de Papel  
+# Resultado do Relato do Protótipo de Papel  
 
 ## Introdução  
 
