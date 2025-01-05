@@ -32,8 +32,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
-  icon:
-    logo: assets/imgages/icon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: claro

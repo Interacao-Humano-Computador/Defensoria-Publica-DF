@@ -1,7 +1,8 @@
 |    Data    | Data Prevista de Revisão | Versão |           Descrição           |                    Autor                    |                     Revisor                      |
 | :--------: | :----------------------: | :----: | :---------------------------: | :-----------------------------------------: | :----------------------------------------------: |
 | 10/12/2024 |        10/12/2024        |  1.0   |     Criação do Documento      | [Lucas Sales](https://github.com/Lux-Sales) | [Karolina Vieira](https://github.com/Karolina91) |
-| 10/12/2024 |        10/12/2024        |  1.1   | Atualizando perfil do usuário | [Lucas Sales](https://github.com/Lux-Sales) |                                                  |
+| 10/12/2024 |        10/12/2024        |  1.1   | Atualizando perfil do usuário | [Lucas Sales](https://github.com/Lux-Sales) |          [Paola Nascimento](https://github.com/paolaalim)                                        |
+| 05/01/2025 |        05/01/2025        |  1.2   | Atualizando perguntas | [Paola Nascimento](https://github.com/paolaalim) |          [Karolina Vieira](https://github.com/Karolina91)   |
 
 ## Introdução
 
@@ -35,23 +36,20 @@ Não é necessário definir um limite de usuários para esse teste.
 
 ## Questões Específicas
 
-<ol>
-<li> De que maneira os usuários utilizam o sistema? Em que difere do planejado?</li>
-<li>Como o sistema interativo afeta o modo como as pessoas se comunicam e se relacionam?</li>
-<li>Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema? E no tempo que levam</li>
-<li>para atingir seus objetivos? E na sua satisfação com o sistema?</li>
-<li>O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?</li>
-<li>Qual das alternativas é a mais eficiente? Mais fácil de aprender?</li>
-<li>Qual delas pode ser construída em menos tempo?</li>
-<li>De qual delas se espera que tenha um impacto negativo menor ao ser adotada?</li>
-<li>O sistema está de acordo com os padrões de acessibilidade do W3C?</li>
-<li>A interface segue o padrão do sistema operacional? E da empresa?</li>
-<li>Os termos na interface seguem convenções estabelecidas no domínio?</li>
-<li>Considerando cada perfil de usuário esperado:</li>
-<li>O usuário consegue operar o sistema?</li>
-<li>Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?</li>
-<li>Que parte da interface e da interação o deixa insatisfeito?</li>
-</ol>
+| Pergunta | Resposta |
+|--------------------------------------------------------------------------------------------------------------|:------:|
+| Os objetivos da tarefa estão claramente definidos no modelo? | Sim / Não |
+| As operações são realistas e compatíveis com a tarefa analisada? | Sim / Não |
+| As análises são de fácil entendimento?| Sim / Não |
+| As operações retratadas estão alinhadas com o título? | Sim / Não |
+| O modelo aborda adequadamente os principais aspectos da realização da tarefa? | Sim / Não |
+| As ações descritas seguem uma sequência lógica e fluida? | Sim / Não |
+| O modelo apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim / Não |
+| O nível de decomposição da tarefa é adequado para a análise proposta? | Sim / Não |
+| O modelo facilita a compreensão dos passos necessários para a realização da tarefa? | Sim / Não |
+| O modelo identifica corretamente decisões e alternativas dentro da tarefa? | Sim / Não |
+| O modelo apresenta alguma falha grave na estruturação da tarefa? | Sim / Não |
+
 
 ## Questões Éticas
 
