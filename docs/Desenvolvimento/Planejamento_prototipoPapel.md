@@ -7,11 +7,12 @@
 ## Introdução
 O Planejamento da Avaliação do Protótipo de Papel envolve a preparação e organização necessárias para avaliar a usabilidade de um design de IHC representado em papel. Esse processo é realizado por meio de simulações de uso com a participação de potenciais usuários, o que possibilita identificar problemas de usabilidade antes mesmo da criação de uma solução de IHC funcional. Importante ressaltar que esse método facilita a avaliação de soluções parciais, que não abrangem toda a interface, e de protótipos de baixa ou média fidelidade, que ainda não possuem todos os detalhes da interface definidos.
 Assim, a avaliação do protótipo de papel será conduzida com base nas tarefas descritas na Tabela 1.
+
+
 | Tarefas a serem executadas no site da DPDF |
 |---------------------------------------------|
 | Agendamento para uma consulta com um advogado (funcionalidade inexistente no site) |
-|  Inscrever-se no Programa de Estágio da DPDF          |
-| Diagrama HTA – Solicitar atendimento à SUAP|
+|  Inscrever-se no Programa de Estágio da DPDF|
 
 ## Metodologia
 O framework DECIDE será utilizado para guiar o planejamento, execução e análise da avaliação do protótipo de papel. Assim, na Tabela 2 estão listadas as etapas a serem realizadas, cada uma correspondente às letras que compõem a palavra DECIDE.
