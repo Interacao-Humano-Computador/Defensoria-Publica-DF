@@ -43,7 +43,7 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 [Karolina Vieira](https://github.com/Karolina91)
 
 
-<font size="2"><p style="text-align: center">Tabela 2: Sumario de perguntas</p></font>
+<font size="2"><p style="text-align: center">Tabela 2: Sumário de perguntas com respostas dos entrevistados</p></font>
 
 | Pergunta                                                                                                      | Resposta |
 | ------------------------------------------------------------------------------------------------------------- | :------: |
@@ -65,6 +65,20 @@ De acordo com a avaliação realizada, o Storyboard mostrou-se funcional e alinh
 
 Embora nenhuma sugestão de melhoria tenha sido formalmente registrada durante a avaliação, podem ser considerados aprimoramentos para agregar valor e ampliar a eficiência do Storyboard, a adição de detalhes Visuais: Incluir elementos visuais mais elaborados, como legendas, setas de fluxo e destaques, pode melhorar a clareza e o impacto visual, especialmente para usuários menos experientes.
 
+
+<font size="2"><p style="text-align: center">Tabela 3: Sumário de perguntas com respostas dos entrevistados</p></font>
+
+| Pergunta                                                                                                      | Resposta |
+| ------------------------------------------------------------------------------------------------------------- | :------: |
+| O storyboard é claro e fácil de entender?|Sim   |                          
+| Os elementos visuais do storyboard ajudam a transmitir a mensagem?   | Sim|
+| As transições entre os quadros estão coerentes?|Sim|
+| O storyboard reflete bem os objetivos do projeto? |Sim|
+| Cada quadro contribui para alcançar os objetivos definidos?|Sim|
+|O storyboard apresenta alguma falha grave na narrativa ou no design?| Não|
+
+<font size="2"><p style="text-align: center">Fonte:
+[Paola Nascimento](https://github.com/paolaalim)
 
 ## Referências Bibliográficas
 BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.
