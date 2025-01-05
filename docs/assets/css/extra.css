@@ -1,12 +1,36 @@
+/* Alterar a cor da barra superior (cabeçalho) */
 .md-header {
-    background-color: #144d2c !important; /* Verde específico */
+    background-color: #144d2c !important; /* Substitua pelo tom de verde desejado */
 }
 
-.md-header .md-navigation .md-nav__link,
-a {
-    color: #144d2c !important; /* Verde específico */
+/* Alterar a cor da barra das abas de navegação */
+.md-tabs {
+    background-color: #144d2c !important; /* Substitua pelo tom de verde desejado */
 }
 
-a:hover {
-    color: #0d3a1f !important; /* Um tom mais escuro de verde para hover */
+/* (Opcional) Alterar cores de hover e itens ativos */
+.md-header a:hover,
+.md-tabs a:hover {
+    color: #32a852 !important; /* Cor do texto no hover */
+}
+
+.md-header a,
+.md-tabs a {
+    color: #ffffff !important; /* Cor do texto padrão */
+}
+
+/* Alterar a cor do texto dos links (inclusive nos destaques) */
+a,
+a:visited,
+a:hover,
+a:active,
+a:focus {
+    color: #32a852 !important; /* Substitua pelo tom desejado */
+    text-decoration: none; /* Remover sublinhado, se necessário */
+}
+
+/* Alterar a cor de fundo de elementos destacados */
+::selection {
+    background-color: #144d2c; /* Fundo ao selecionar texto */
+    color: #ffffff; /* Cor do texto selecionado */
 }

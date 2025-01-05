@@ -62,6 +62,10 @@ nav:
       - Ata 1° reunião - 02/11/2024: Atas/ata_reunião1.md
       - Ata 2° reunião - 09/11/2024: Atas/ata_reunião2.md
       - Ata 3° reunião - 10/11/2024: Atas/ata_reunião3.md
+  - Apresentações:
+    - Apresentação etapa 1: Apresentacoes/apresentacao1.md
+    - Apresentação etapa 2: Apresentacoes/apresentacao2.md
+    - Apresentação etapa 3: Apresentacoes/apresentacao3.md
   - Análise de Requisitos:
     - Perfil de Usuário: Analise/perfilUsuario.md
     - Personas: Analise/personas.md
@@ -71,15 +75,12 @@ nav:
     - Guia de Estilo: Analise/guiaDeEstilo.md
     - Metas de Usabilidade: Analise/metasdeusabilidade.md
     - Principios Gerais: Analise/PrincipiosGerais.md
-  - Apresentações:
-    - Apresentação etapa 1: Apresentacoes/apresentacao1.md
-    - Apresentação etapa 2: Apresentacoes/apresentacao2.md
-    - Apresentação etapa 3: Apresentacoes/apresentacao3.md
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
         - Análise de Tarefas:
-            - Planejamento da avaliação da análise de tarefas: Desenvolvimento/analiseDeTarefas.md
+            - Planejamento da avaliação da Análise de Tarefas: Desenvolvimento/analiseDeTarefas.md
             - Planejamento do Relato dos Resultados da Análise de Tarefas: Desenvolvimento/planejamentoRelatoAnaliseTarefas.md
+            - Resultado do Relato da Análise de Tarefas: Desenvolvimento/resultado_analiseTarefas.md
         - Storyboard:
             - Storyboards: Desenvolvimento/storyboards.md
             - Planejamento da avaliação do Storyboard: Desenvolvimento/planejamento_storyboard.md
@@ -89,7 +90,6 @@ nav:
         - Protótipo de Papel:
             - Planejamento do Protótipo de Papel: Desenvolvimento/Planejamento_prototipoPapel.md
             - Planejamento do Relato do Protótipo de Papel: Desenvolvimento/Planejamento_resultados_prototipoPapel.md
-            - Resultado do Relato do Protótipo de Papel: Desenvolvimento/Relato_prototipoPapel.md
   - Verificação:
       - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
       - Inspeção 2º etapa: Verificacao/inspecao_etapa2.md

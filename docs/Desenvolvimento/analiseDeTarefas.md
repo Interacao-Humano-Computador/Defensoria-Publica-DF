@@ -1,7 +1,8 @@
 |    Data    | Data Prevista de Revisão | Versão |           Descrição           |                    Autor                    |                     Revisor                      |
 | :--------: | :----------------------: | :----: | :---------------------------: | :-----------------------------------------: | :----------------------------------------------: |
 | 10/12/2024 |        10/12/2024        |  1.0   |     Criação do Documento      | [Lucas Sales](https://github.com/Lux-Sales) | [Karolina Vieira](https://github.com/Karolina91) |
-| 10/12/2024 |        10/12/2024        |  1.1   | Atualizando perfil do usuário | [Lucas Sales](https://github.com/Lux-Sales) |                                                  |
+| 10/12/2024 |        10/12/2024        |  1.1   | Atualizando perfil do usuário | [Lucas Sales](https://github.com/Lux-Sales) |          [Paola Nascimento](https://github.com/paolaalim)                                        |
+| 05/01/2025 |        05/01/2025        |  1.2   | Atualizando perguntas | [Paola Nascimento](https://github.com/paolaalim) |          [Karolina Vieira](https://github.com/Karolina91)   |
 
 ## Introdução
 
@@ -21,9 +22,7 @@ Podemos destacar os seguintes pontos como objetivos traçados para esta análise
 
 ## Método de avaliação
 
-Pela falta de informação a respeito de como os usuários se sentem utilizando o produto, e quais erros podem ser abordados com profundidade, o método escolhido para avaliar os objetivos citados acima foi o método de investigação, uma vez que tal abordagem visa ter uma visão geral sobre as funcionalidades, e fornece dados suficientes para orientar uma próxima avaliação caso necessária, pois se houver insatisfação dos usuários, é possível analisar por meio de observação em ambiente controlado, como o mesmo interage com as funcionalidades e o sistema como um todo. 
-
-Dentro do método de investigação, a técnica escolhida para coletar dados sobre o usuário, será o Questionário, utilizando a plataforma da Google para formulários, os mesmos serão criados e distribuídos, inicialmente por meio de grupos sociais dentre estudantes e seus conhecidos, para por fim, atingir maior quantidade de participantes, analisando em primeira instância como os usuários se sentem utilizando o sistema.
+Durante o desenvolvimento do nosso projeto de Interação Humano-Computador, optamos por utilizar a entrevista como método principal de avaliação. Essa escolha se deve à possibilidade de obter informações detalhadas. As entrevistas permitem uma exploração mais rica e flexível das percepções, comportamentos e dificuldades enfrentadas pelos usuários. Assim, conseguimos identificar tanto os aspectos positivos quanto os problemas de usabilidade que precisam ser aprimorados, alinhando o design às necessidades e expectativas reais dos usuários.
 
 ## Perfil do usuário
 
@@ -35,23 +34,20 @@ Não é necessário definir um limite de usuários para esse teste.
 
 ## Questões Específicas
 
-<ol>
-<li> De que maneira os usuários utilizam o sistema? Em que difere do planejado?</li>
-<li>Como o sistema interativo afeta o modo como as pessoas se comunicam e se relacionam?</li>
-<li>Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema? E no tempo que levam</li>
-<li>para atingir seus objetivos? E na sua satisfação com o sistema?</li>
-<li>O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?</li>
-<li>Qual das alternativas é a mais eficiente? Mais fácil de aprender?</li>
-<li>Qual delas pode ser construída em menos tempo?</li>
-<li>De qual delas se espera que tenha um impacto negativo menor ao ser adotada?</li>
-<li>O sistema está de acordo com os padrões de acessibilidade do W3C?</li>
-<li>A interface segue o padrão do sistema operacional? E da empresa?</li>
-<li>Os termos na interface seguem convenções estabelecidas no domínio?</li>
-<li>Considerando cada perfil de usuário esperado:</li>
-<li>O usuário consegue operar o sistema?</li>
-<li>Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?</li>
-<li>Que parte da interface e da interação o deixa insatisfeito?</li>
-</ol>
+| Pergunta | Resposta |
+|--------------------------------------------------------------------------------------------------------------|:------:|
+| Os objetivos da tarefa estão claramente definidos no modelo? | Sim / Não |
+| As operações são realistas e compatíveis com a tarefa analisada? | Sim / Não |
+| As análises são de fácil entendimento?| Sim / Não |
+| As operações retratadas estão alinhadas com o título? | Sim / Não |
+| O modelo aborda adequadamente os principais aspectos da realização da tarefa? | Sim / Não |
+| As ações descritas seguem uma sequência lógica e fluida? | Sim / Não |
+| O modelo apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim / Não |
+| O nível de decomposição da tarefa é adequado para a análise proposta? | Sim / Não |
+| O modelo facilita a compreensão dos passos necessários para a realização da tarefa? | Sim / Não |
+| O modelo identifica corretamente decisões e alternativas dentro da tarefa? | Sim / Não |
+| O modelo apresenta alguma falha grave na estruturação da tarefa? | Sim / Não |
+
 
 ## Questões Éticas
 
@@ -63,7 +59,7 @@ Como grande parte dos dados será quantitativo e objetivo, será possível anali
 
 ## Teste Piloto
 
-Antes de o formulário online ser divulgado, será necessário que a própria equipe o responda, para que seja analisado se as questões abrangem os usuários da plataforma e seus objetivos.
+Antes de realizar as entrevistas principais, conduzimos um teste piloto para validar o roteiro e identificar ajustes necessários. Um participante com perfil semelhante ao público-alvo foi convidado para avaliar a clareza das perguntas, o fluxo da entrevista, o tempo necessário e possíveis dificuldades. Os resultados permitiram otimizar o processo, garantindo maior eficácia nas entrevistas principais.
 
 
 ## Bibliografia
