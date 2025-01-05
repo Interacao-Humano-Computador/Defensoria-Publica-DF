@@ -145,15 +145,14 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 **Goal 1: Acessar o site da DPDF**<br/>
 - **Operator 1.1:** Abrir o navegador no notebook<br/>
 - **Operator 1.2:** Digitar o endereço do site da DPDF na barra de endereços<br/>
-- **Operator 1.3:** Pressionar Enter<br/>
 
 **Goal 2: Navegar até a seção de estágio**<br/>
-- **Operator 2.1:** Identificar o menu de navegação principal no site<br/>
-- **Operator 2.2:** Procurar pela seção "Programa de Estágio" no menu<br/>
-- **Operator 2.3:** Clicar no link "Programa de Estágio"<br/>
+- **Operator 2.1:** Procurar pela seção "Estágio Remunerado" no menu  <br/>
+- **Operator 2.3:** Clicar na opção "Estágio Remunerado"<br/>
 
 **Goal 3: Procurar informações sobre o processo seletivo**<br/>
 - **Operator 3.1:** Ler o conteúdo da página sobre o programa de estágio<br/>
+- **Operator 3.2:** Identificar e clicar em links relevantes para informações adicionais<br/>
 
 **Goal 4: Acessar materiais relevantes**<br/>
 - **Operator 4.1:** Clicar em links para visualizar portarias e materiais relacionados<br/>
@@ -167,9 +166,8 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 - **Operator 5.5:** Clicar no botão "Enviar Inscrição"<br/>
 
 **Goal 6: Receber confirmação da inscrição**<br/>
-- **Operator 6.1:** Esperar o carregamento da página de confirmação<br/>
-- **Operator 6.2:** Verificar a mensagem de sucesso exibida na tela ("Inscrição realizada com sucesso!")<br/>
-- **Operator 6.3:** Clicar no botão "Baixar Comprovante" para salvar um recibo da inscrição<br/>
+- **Operator 6.1:** Verificar a mensagem de sucesso exibida na tela ("Inscrição realizada com sucesso!")<br/>
+- **Operator 6.2:** Clicar no botão "Baixar Comprovante" para salvar um recibo da inscrição<br/>
 
 ---
 
