@@ -32,7 +32,7 @@ A Tabela 1 exibe as datas da realização da avaliação.
 
 </center>
 
-### Registro da avaliação
+### Registros das avaliações
 
 No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avaliação.
 ### Video 1: Gravação da avaliação
@@ -66,6 +66,17 @@ De acordo com a avaliação realizada, o Storyboard mostrou-se funcional e alinh
 Embora nenhuma sugestão de melhoria tenha sido formalmente registrada durante a avaliação, podem ser considerados aprimoramentos para agregar valor e ampliar a eficiência do Storyboard, a adição de detalhes Visuais: Incluir elementos visuais mais elaborados, como legendas, setas de fluxo e destaques, pode melhorar a clareza e o impacto visual, especialmente para usuários menos experientes.
 
 
+No Video 2 e Tabela 3 é possível verificar os registros feitos durante a avaliação.
+### Video 2: Gravação da avaliação
+
+[Assista ao vídeo no YouTube](link)
+
+#### Fonte:
+[Paola Nascimento](https://github.com/paolaalim)
+
+
+
+
 <font size="2"><p style="text-align: center">Tabela 3: Sumário de perguntas com respostas dos entrevistados</p></font>
 
 | Pergunta                                                                                                      | Resposta |
@@ -75,10 +86,19 @@ Embora nenhuma sugestão de melhoria tenha sido formalmente registrada durante a
 | As transições entre os quadros estão coerentes?|Sim|
 | O storyboard reflete bem os objetivos do projeto? |Sim|
 | Cada quadro contribui para alcançar os objetivos definidos?|Sim|
-|O storyboard apresenta alguma falha grave na narrativa ou no design?| Não|
+| O storyboard apresenta alguma falha grave na narrativa ou no design?| Não|
 
 <font size="2"><p style="text-align: center">Fonte:
 [Paola Nascimento](https://github.com/paolaalim)
+
+### Listagem de problemas encontrados
+
+De acordo com a entrevistada e a avaliação realizada, no Storyboard não foram encontrados problemas, por mais que a entrevistada tenha ressaltado que a aparência do boneco não é agradável, mas mesmo assim ela classificou o storyboard como e funcional e alinhado com os objetivos propostos. Com base na avaliação é possível dizer que a estrutura narrativa e visual do Storyboard atende às expectativas.
+
+### Sugestões de melhoria
+
+Nenhuma melhoria foi sugerida na avaliação.
+
 
 ## Referências Bibliográficas
 BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.

@@ -26,6 +26,7 @@ A Tabela 1 exibe as datas da realização da avaliação.
 |   Karolina Vieira|  Fernanda Alves | 15:30  |  16:00  |   02/01/2025 | Residencia |
 |   Paola Nascimento| Vanda Rabelo | 16:00 |  16:30  | 04/01/2025  | Residencia |
 
+## Registros das avaliações
 
 ## Entrevista - Agendamento para uma consulta com um advogado
 
@@ -33,8 +34,6 @@ A Tabela 1 exibe as datas da realização da avaliação.
 [Karolina Vieira](https://github.com/Karolina91)
 
 </center>
-
-## Registro da avaliação
 
 No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avaliação.
 ### Video 1: Gravação da avaliação
@@ -80,7 +79,7 @@ Incluir elementos visuais, como personagens, objetos e cenários, para complemen
 ## Registro da avaliação
 
 No Video 2 e Tabela 3 é possível verificar os registros feitos durante a avaliação.
-### Video 1: Gravação da avaliação
+### Video 2: Gravação da avaliação
 
 [Assista ao vídeo no YouTube](link)
 
@@ -90,26 +89,37 @@ No Video 2 e Tabela 3 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 3: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------: |
-| A história no HTA está alinhada com o título?|Sim                             
-| O HTA em análise reflete de forma precisa a realidade?  | Sim|
-| O HTA aborda adequadamente os principais aspectos da realização da tarefa em questão?|Sim|
-| As ações descritas no HTA seguem uma sêquencia lógica e fluida |Sim
-| O HTA apresenta elementos visuais identificavéis, como personagens, objetos e cenários? |Não|
+| Pergunta | Resposta |
+|--------------------------------------------------------------------------------------------------------------|:------:|
+| Os objetivos da tarefa estão claramente definidos no modelo? | Sim  |
+| As operações são realistas e compatíveis com a tarefa analisada? | Sim   |
+| As análises são de fácil entendimento?| Sim  |
+| As operações retratadas estão alinhadas com o título? | Sim  |
+| O modelo aborda adequadamente os principais aspectos da realização da tarefa? | Sim |
+| As ações descritas seguem uma sequência lógica e fluida? | Sim  |
+| A tarefa cumpre seu propósito? | Sim  |
+| O modelo apresenta elementos visuais identificáveis, como personagens, objetos e cenários? |  Não |
+| O nível de decomposição da tarefa é adequado para a análise proposta? | Sim  |
+| O modelo facilita a compreensão dos passos necessários para a realização da tarefa? | Sim  |
+| O modelo identifica corretamente decisões e alternativas dentro da tarefa? |  Não |
+| O modelo apresenta alguma falha grave na estruturação da tarefa? |  Não |
+| Tem alguma sugestão de melhoria do procesos? | Sim |
 
 <font size="2"><p style="text-align: center">Fonte:
-[ Karolina Vieira](https://github.com/Karolina91)
+[Paola Nascimento](https://github.com/paolaalim)
+
 
 ## Sumário de Avaliadores e Participantes
+A seleção da entrevistada foi baseada em critérios que atendem ao perfil desejado. A participante escolhido está na faixa etária compatível com o perfil do público-alvo que utiliza o sitema, por mais que não realizem a ação específica. Além disso, ela possui uma boa relação com a tecnologia e demonstra familiaridade com a situação apresentada pelo sistema avaliado. 
 
-colocar respostas
 ## Sumário dos Dados Coletados
-colocar respostas
+Os dados obtidos mostram que a análise de tarefas reflete a realidade dos usuários, com baixa frequência de erros, tempo médio eficiente para conclusão das tarefas e alto nível de satisfação. O sistema se mostrou funcional, intuitivo e alinhado às necessidades do público-alvo.
+
 ### Análise dos Dados Coletados
-colocar respostas
+O HTA e o GOMS estão bem estruturados, com ações lógicas e fluídas, títulos e tarefas condizentes com as situações retratadas. 
+
 ### Sugestões de Melhoria
-colocar respostas
+Incluir elementos visuais e as alternativas (se aplicável) dentro de cada tarefa para facilitar a compreensão delas. Isso tornará o HTA mais acessível e as possibilidades mais claras.
 
 
 ## Referências Bibliográficas
