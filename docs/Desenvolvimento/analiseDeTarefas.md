@@ -22,9 +22,7 @@ Podemos destacar os seguintes pontos como objetivos traçados para esta análise
 
 ## Método de avaliação
 
-Pela falta de informação a respeito de como os usuários se sentem utilizando o produto, e quais erros podem ser abordados com profundidade, o método escolhido para avaliar os objetivos citados acima foi o método de investigação, uma vez que tal abordagem visa ter uma visão geral sobre as funcionalidades, e fornece dados suficientes para orientar uma próxima avaliação caso necessária, pois se houver insatisfação dos usuários, é possível analisar por meio de observação em ambiente controlado, como o mesmo interage com as funcionalidades e o sistema como um todo. 
-
-Dentro do método de investigação, a técnica escolhida para coletar dados sobre o usuário, será o Questionário, utilizando a plataforma da Google para formulários, os mesmos serão criados e distribuídos, inicialmente por meio de grupos sociais dentre estudantes e seus conhecidos, para por fim, atingir maior quantidade de participantes, analisando em primeira instância como os usuários se sentem utilizando o sistema.
+Durante o desenvolvimento do nosso projeto de Interação Humano-Computador, optamos por utilizar a entrevista como método principal de avaliação. Essa escolha se deve à possibilidade de obter informações detalhadas. As entrevistas permitem uma exploração mais rica e flexível das percepções, comportamentos e dificuldades enfrentadas pelos usuários. Assim, conseguimos identificar tanto os aspectos positivos quanto os problemas de usabilidade que precisam ser aprimorados, alinhando o design às necessidades e expectativas reais dos usuários.
 
 ## Perfil do usuário
 
@@ -61,7 +59,7 @@ Como grande parte dos dados será quantitativo e objetivo, será possível anali
 
 ## Teste Piloto
 
-Antes de o formulário online ser divulgado, será necessário que a própria equipe o responda, para que seja analisado se as questões abrangem os usuários da plataforma e seus objetivos.
+Antes de realizar as entrevistas principais, conduzimos um teste piloto para validar o roteiro e identificar ajustes necessários. Um participante com perfil semelhante ao público-alvo foi convidado para avaliar a clareza das perguntas, o fluxo da entrevista, o tempo necessário e possíveis dificuldades. Os resultados permitiram otimizar o processo, garantindo maior eficácia nas entrevistas principais.
 
 
 ## Bibliografia
