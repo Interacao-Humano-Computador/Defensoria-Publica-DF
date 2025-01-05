@@ -1,8 +1,12 @@
-/* Mudar a cor da barra de navegação para verde */
 .md-header {
-    background-color: #144d2c !important;  /* Verde específico */
+    background-color: #144d2c !important; /* Verde específico */
 }
 
-.md-header .md-navigation .md-nav__link {
-    color: white !important;  /* Mudar a cor do texto da barra para branco */
+.md-header .md-navigation .md-nav__link,
+a {
+    color: #144d2c !important; /* Verde específico */
+}
+
+a:hover {
+    color: #0d3a1f !important; /* Um tom mais escuro de verde para hover */
 }
