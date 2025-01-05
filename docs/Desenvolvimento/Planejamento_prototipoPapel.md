@@ -53,7 +53,7 @@ A entrevista foi escolhida como método de avaliação adequado para o Protótip
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
 |------------------------|---------------------|-----------------------|--------------------|----------------|
-| Karolina Vieira        | Fernanda Alves     | 15:00                | 15:30             | 02/01/2024     |
+| Karolina Vieira        | Fernanda Alves     | 15:00                | 16:00             | 09/01/2025     |
 | Lucas Sales            |                     |                       |                    |                |
 | Paola Rebeca           |                     |                       |                    |                |
 
