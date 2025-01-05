@@ -59,10 +59,12 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 ### Listagem de problemas encontrados
 
-Não foram identificados problemas no Storyboard de acordo com a avaliação.
+De acordo com a avaliação realizada, o Storyboard mostrou-se funcional e alinhado aos objetivos propostos. Não foram identificados problemas que comprometam a clareza, a execução das tarefas ou a representatividade do processo descrito. A estrutura narrativa e visual do Storyboard atende às expectativas, proporcionando uma boa experiência para análise e interpretação.
 
 ### Sugestões de melhoria
 
-Não foram feitas susgestões de melhoria.
+Embora nenhuma sugestão de melhoria tenha sido formalmente registrada durante a avaliação, podem ser considerados aprimoramentos para agregar valor e ampliar a eficiência do Storyboard, a adição de detalhes Visuais: Incluir elementos visuais mais elaborados, como legendas, setas de fluxo e destaques, pode melhorar a clareza e o impacto visual, especialmente para usuários menos experientes.
 
 
+## Referências Bibliográficas
+BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.

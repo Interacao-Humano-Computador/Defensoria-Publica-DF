@@ -41,3 +41,7 @@ Figura 2 apresenta um storyboard que ilustra o processo que um usuário faz ao a
 ![Figura 2 - Storyboard do processo de inscrição](../assets/images/storyboard_estagio.png)<figcaption>Fonte: Paola Nascimento (2025)
 
 </center> 
+
+
+## Referências Bibliográficas
+BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.
