@@ -3,6 +3,7 @@
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :----------------------------------------------: |
 | 06/01/2025 |        06/01/2025        |  1.0   | Criação do Documento | [Paola Nascimento](https://github.com/paolaalim) |          [Karolina Vieira](https://github.com/Karolina91)   |
 
+ 
 
 ## Inspeção 5 - Próprio grupo (2)
 
@@ -14,6 +15,9 @@
 | 2. Verificação do Relato dos Resultados da Avaliação dos Storyboards         |          [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)                     | 1.0    | 06/01/2025 | 13:00 |
 | 3. Verificação do Planejamento da Avaliação da Prototipação em Papel          |             [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)                  | 1.0    | 06/01/2025 | 13:00 |
 | 4. Verificação do Planejamento do Relato dos Resultados da Avaliação da Prototipação de Papel       |       [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)                        | 1.0    | 06/01/2025 | 13:00 |
+
+<font size="2"><p style="text-align: center">Fonte: 
+[Paola Nascimento](https://github.com/paolaalim) 
 
 # Tabela 2 - Lista de Verificação para os Itens Gerais
 
