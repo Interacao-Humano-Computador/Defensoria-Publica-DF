@@ -29,6 +29,8 @@
 | 8. Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |           | 1.0    | 06/01/2025 | 13:00 |
 | 9. Todos os textos estão na norma padrão?                    |           | 1.0    | 06/01/2025 | 13:00 |
 
+<font size="2"><p style="text-align: center">Fonte: 
+[Karolina Vieira](https://github.com/Karolina91)
 
 # Tabela 3 - Lista de Verificação para o Resultado da Avaliação do Storyboard
 
@@ -47,6 +49,8 @@
 | 11. Considera um planejamento para o reprojeto do sistema?            |           | 1.0    | 06/01/2025 | 13:00 |
 | 12. O relato segue um padrão consolidado para todos os outros relatos? |           | 1.0    | 06/01/2025 | 13:00 |
 
+<font size="2"><p style="text-align: center">Fonte: 
+[Paola Nascimento](https://github.com/paolaalim) 
 
 # Tabela 4 - Lista de Verificação para o Resultado da Avaliação da Análise de Tarefas
 
@@ -64,6 +68,8 @@
 | 10. O resultado relembra quais foram os motivos para a realização do estudo? |           | 1.0    | 06/01/2025 | 13:00 |
 | 11. Considera um planejamento para o reprojeto do sistema?            |           | 1.0    | 06/01/2025 | 13:00 |
 | 12. O relato segue um padrão consolidado para todos os outros relatos? |           | 1.0    | 06/01/2025 | 13:00 |
+<font size="2"><p style="text-align: center">Fonte: 
+[Karolina Vieira](https://github.com/Karolina91)
 
 # Tabela 5 - Lista de Verificação para a Avaliação do Protótipo de Papel.
 
@@ -92,6 +98,8 @@
 |   26    | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? | 1.0    | 06/01/2025 | 13:00 |
 |   27    | O protótipo de papel é apresentado?                                    | 1.0    | 06/01/2025 | 13:00 |
 
+<font size="2"><p style="text-align: center">Fonte: 
+[Paola Nascimento](https://github.com/paolaalim) 
 
 # Tabela 6 - Lista de Verificação para o Planejamento do Relato do Protótipo de Papel
 
@@ -105,7 +113,8 @@
 | 6. O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |           | 1.0    | 06/01/2025 | 13:00 |
 | 7. O documento está estruturado conforme os relatos realizados anteriores?                               |           | 1.0    | 06/01/2025 | 13:00 |
 
-
+<font size="2"><p style="text-align: center">Fonte: 
+[Karolina Vieira](https://github.com/Karolina91)
 
 
 
@@ -127,6 +136,9 @@
 | 8. Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |           | 1.0    | 06/01/2025 | 13:00 |
 | 9. Todos os textos estão na norma padrão?                    |           | 1.0    | 06/01/2025 | 13:00 |
 
+<font size="2"><p style="text-align: center">Fonte: 
+[Paola Nascimento](https://github.com/paolaalim) 
+
 # Tabela 8 - Lista de Verificação para o Resultado da Avaliação do Storyboard
 
 
@@ -145,6 +157,8 @@
 | 11. Considera um planejamento para o reprojeto do sistema?            |           | 1.0    | 06/01/2025 | 13:00 |
 | 12. O relato segue um padrão consolidado para todos os outros relatos? |           | 1.0    | 06/01/2025 | 13:00 |
 
+<font size="2"><p style="text-align: center">Fonte: 
+[Karolina Vieira](https://github.com/Karolina91)
 
 # Tabela 9 - Lista de Verificação para o Resultado da Análise de Tarefas
 
@@ -156,11 +170,14 @@
 | 4. O tempo estimado para as tarefas é realista?           |                               | 1.0    | 06/01/2025 | 13:00 |
 | 5. Foram detectados gargalos durante a execução?          |    
 
+<font size="2"><p style="text-align: center">Fonte: 
+[Paola Nascimento](https://github.com/paolaalim) 
+
 # Tabela 10 - Lista de Verificação para a Avaliação do Protótipo de Papel.
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-|   1. O documento possui os objetivos do planejamento?       |                | 1.0    | 06/01/2025 | 13:00 |
+|   1|  O documento possui os objetivos do planejamento?       |                | 1.0    | 06/01/2025 | 13:00 |
 |    7    | O planejamento segue o framework DECIDE?                               | 1.0    | 06/01/2025 | 13:00 |
 |    8    | O documento está estruturado de acordo com artefatos de planejamento anteriores? | 1.0    | 06/01/2025 | 13:00 |
 |    9    | O documento possui quais são os objetivos da avaliação?                | 1.0    | 06/01/2025 | 13:00 |
@@ -183,6 +200,8 @@
 |   26    | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? | 1.0    | 06/01/2025 | 13:00 |
 |   27    | O protótipo de papel é apresentado?                                    | 1.0    | 06/01/2025 | 13:00 |
 
+<font size="2"><p style="text-align: center">Fonte: 
+[Karolina Vieira](https://github.com/Karolina91)
 
 # Tabela 11 - Lista de Verificação para o Planejamento do Relato do Protótipo de Papel
 
@@ -197,11 +216,12 @@
 | 7. O documento está estruturado conforme os relatos realizados anteriores?                               |           | 1.0    | 06/01/2025 | 13:00 |
 
 
-
-
+<font size="2"><p style="text-align: center">Fonte: 
+[Paola Nascimento](https://github.com/paolaalim) 
 
 ## Referências Bibliográficas
 
-1. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.  
-2. BARROS, A. [Plano de Ensino da Disciplina](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
-3. MACEDO, Lucas. Planejamento da Verificação - PC5. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/>. Acesso em: 04 jan. 2025.
+## Bibliografia
+[1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.
+
+[2] Análise da plataforma Bilheteria Digital - Características da plataforma, disponível em: [https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.md](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.mds/). Acesso em 06 de Janeiro de 2025.
