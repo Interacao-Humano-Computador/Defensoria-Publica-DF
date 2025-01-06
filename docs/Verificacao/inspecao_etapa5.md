@@ -8,13 +8,12 @@
 
 # Tabela 1 - Cronograma das Atividades
 
-| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| Questão | Responsáveis | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Quais são as principais etapas do cronograma? |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. Quem é o responsável por cada etapa?         |                               | 1.0    | 06/01/2025 | 13:00 |
-| 3. Quais são os prazos estabelecidos?          |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. Como será realizado o acompanhamento?       |                               | 1.0    | 06/01/2025 | 13:00 |
-| 5. Há dependências críticas entre etapas?      |                               | 1.0    | 06/01/2025 | 13:00 |
+| 1. Verificação do Relato dos Resultados da Avaliação da Análise de Tarefas |       [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)                        | 1.0    | 06/01/2025 | 13:00 |
+| 2. Verificação do Relato dos Resultados da Avaliação dos Storyboards         |          [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)                     | 1.0    | 06/01/2025 | 13:00 |
+| 3. Verificação do Planejamento da Avaliação da Prototipação em Papel          |             [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)                  | 1.0    | 06/01/2025 | 13:00 |
+| 4. Verificação do Planejamento do Relato dos Resultados da Avaliação da Prototipação de Papel       |       [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)                        | 1.0    | 06/01/2025 | 13:00 |
 
 # Tabela 2 - Lista de Verificação para os Itens Gerais
 
@@ -87,17 +86,8 @@
 
 ## Inspeção 5 - Grupo + 1
 
-# Tabela 1 - Cronograma das Atividades
 
-| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
-| :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Quais são as principais etapas do cronograma? |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. Quem é o responsável por cada etapa?         |                               | 1.0    | 06/01/2025 | 13:00 |
-| 3. Quais são os prazos estabelecidos?          |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. Como será realizado o acompanhamento?       |                               | 1.0    | 06/01/2025 | 13:00 |
-| 5. Há dependências críticas entre etapas?      |                               | 1.0    | 06/01/2025 | 13:00 |
-
-# Tabela 2 - Lista de Verificação para os Itens Gerais
+# Tabela 1 - Lista de Verificação para os Itens Gerais
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
@@ -107,7 +97,7 @@
 | 4. Há critérios de sucesso bem definidos?                |                               | 1.0    | 06/01/2025 | 13:00 |
 | 5. Existe um plano de comunicação eficaz?                |                               | 1.0    | 06/01/2025 | 13:00 |
 
-# Tabela 3 - Lista de Verificação para o Resultado da Avaliação do Storyboard
+# Tabela 2 - Lista de Verificação para o Resultado da Avaliação do Storyboard
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
@@ -117,7 +107,7 @@
 | 4. Os objetivos do usuário são alcançáveis no protótipo? |                               | 1.0    | 06/01/2025 | 13:00 |
 | 5. Há sugestões de melhorias baseadas no storyboard?     |                               | 1.0    | 06/01/2025 | 13:00 |
 
-# Tabela 4 - Lista de Verificação para o Resultado da Análise de Tarefas
+# Tabela 3 - Lista de Verificação para o Resultado da Análise de Tarefas
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
