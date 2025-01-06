@@ -23,15 +23,15 @@
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Os objetivos do projeto estão claramente definidos?   |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. Há uma descrição detalhada do público-alvo?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 3. A equipe tem todos os recursos necessários?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. Há critérios de sucesso bem definidos?                |                               | 1.0    | 06/01/2025 | 13:00 |
-| 5. O artefato possui introdução?                              |           | 1.0    | 06/01/2025 | 13:00 |
-| 6. O artefato possui uma bibliografia/referência bibliográfica? |           | 1.0    | 06/01/2025 | 13:00 |
-| 7. O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |           | 1.0    | 06/01/2025 | 13:00 |
-| 8. Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |           | 1.0    | 06/01/2025 | 13:00 |
-| 9. Todos os textos estão na norma padrão?                    |           | 1.0    | 06/01/2025 | 13:00 |
+| 1. Os objetivos do projeto estão claramente definidos?   |        Sim                       | 1.0    | 06/01/2025 | 13:00 |
+| 2. Há uma descrição detalhada do público-alvo?           |      Sim                         | 1.0    | 06/01/2025 | 13:00 |
+| 3. A equipe tem todos os recursos necessários?           |   Sim                            | 1.0    | 06/01/2025 | 13:00 |
+| 4. Há critérios de sucesso bem definidos?                |           Sim                    | 1.0    | 06/01/2025 | 13:00 |
+| 5. O artefato possui introdução?                              |   Sim        | 1.0    | 06/01/2025 | 13:00 |
+| 6. O artefato possui uma bibliografia/referência bibliográfica? |    Sim   | 1.0    | 06/01/2025 | 13:00 |
+| 7. O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 8. Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |    Incompleto       | 1.0    | 06/01/2025 | 13:00 |
+| 9. Todos os textos estão na norma padrão?                    |    Sim       | 1.0    | 06/01/2025 | 13:00 |
 
 <font size="2"><p style="text-align: center">Fonte: 
 [Karolina Vieira](https://github.com/Karolina91)
@@ -40,18 +40,18 @@
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Define objetivo e escopo de avaliação dos resultados?               |           | 1.0    | 06/01/2025 | 13:00 |
-| 2. Define o método de avaliação dos resultados?                       |           | 1.0    | 06/01/2025 | 13:00 |
-| 3. O relato apresenta os participantes selecionados?                  |           | 1.0    | 06/01/2025 | 13:00 |
-| 4. O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? |           | 1.0    | 06/01/2025 | 13:00 |
-| 5. Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? |           | 1.0    | 06/01/2025 | 13:00 |
-| 6. Apresenta as sugestões de melhorias?                               |           | 1.0    | 06/01/2025 | 13:00 |
-| 7. Apresenta uma seção para o feedback dos usuários?                  |           | 1.0    | 06/01/2025 | 13:00 |
-| 8. Aborda como foi realizada a análise da interação do usuário com o artefato? |           | 1.0    | 06/01/2025 | 13:00 |
-| 9. Define um tópico para sumarizar os principais resultados?          |           | 1.0    | 06/01/2025 | 13:00 |
-| 10. O resultado relembra quais foram os motivos para a realização do estudo? |           | 1.0    | 06/01/2025 | 13:00 |
-| 11. Considera um planejamento para o reprojeto do sistema?            |           | 1.0    | 06/01/2025 | 13:00 |
-| 12. O relato segue um padrão consolidado para todos os outros relatos? |           | 1.0    | 06/01/2025 | 13:00 |
+| 1. Define objetivo e escopo de avaliação dos resultados?               |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 2. Define o método de avaliação dos resultados?                       |     Sim      | 1.0    | 06/01/2025 | 13:00 |
+| 3. O relato apresenta os participantes selecionados?                  |   Sim        | 1.0    | 06/01/2025 | 13:00 |
+| 4. O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 5. Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? |      Sim     | 1.0    | 06/01/2025 | 13:00 |
+| 6. Apresenta as sugestões de melhorias?                               |   Sim        | 1.0    | 06/01/2025 | 13:00 |
+| 7. Apresenta uma seção para o feedback dos usuários?                  |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 8. Aborda como foi realizada a análise da interação do usuário com o artefato? |   Sim        | 1.0    | 06/01/2025 | 13:00 |
+| 9. Define um tópico para sumarizar os principais resultados?          |     Sim      | 1.0    | 06/01/2025 | 13:00 |
+| 10. O resultado relembra quais foram os motivos para a realização do estudo? |   Sim        | 1.0    | 06/01/2025 | 13:00 |
+| 11. Considera um planejamento para o reprojeto do sistema?            |     Não      | 1.0    | 06/01/2025 | 13:00 |
+| 12. O relato segue um padrão consolidado para todos os outros relatos? |    Sim       | 1.0    | 06/01/2025 | 13:00 |
 
 <font size="2"><p style="text-align: center">Fonte: 
 [Paola Nascimento](https://github.com/paolaalim) 
@@ -60,18 +60,18 @@
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Define objetivo e escopo de avaliação dos resultados?               |           | 1.0    | 06/01/2025 | 13:00 |
-| 2. Define o método de avaliação dos resultados?                       |           | 1.0    | 06/01/2025 | 13:00 |
-| 3. O relato apresenta os participantes selecionados?                  |           | 1.0    | 06/01/2025 | 13:00 |
-| 4. O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? |           | 1.0    | 06/01/2025 | 13:00 |
-| 5. Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? |           | 1.0    | 06/01/2025 | 13:00 |
-| 6. Apresenta as sugestões de melhorias?                               |           | 1.0    | 06/01/2025 | 13:00 |
-| 7. Apresenta uma seção para o feedback dos usuários?                  |           | 1.0    | 06/01/2025 | 13:00 |
-| 8. Aborda como foi realizada a análise da interação do usuário com o artefato? |           | 1.0    | 06/01/2025 | 13:00 |
-| 9. Define um tópico para sumarizar os principais resultados?          |           | 1.0    | 06/01/2025 | 13:00 |
-| 10. O resultado relembra quais foram os motivos para a realização do estudo? |           | 1.0    | 06/01/2025 | 13:00 |
-| 11. Considera um planejamento para o reprojeto do sistema?            |           | 1.0    | 06/01/2025 | 13:00 |
-| 12. O relato segue um padrão consolidado para todos os outros relatos? |           | 1.0    | 06/01/2025 | 13:00 |
+| 1. Define objetivo e escopo de avaliação dos resultados?               |      Sim     | 1.0    | 06/01/2025 | 13:00 |
+| 2. Define o método de avaliação dos resultados?                       |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 3. O relato apresenta os participantes selecionados?                  |  Sim         | 1.0    | 06/01/2025 | 13:00 |
+| 4. O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 5. Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 6. Apresenta as sugestões de melhorias?                               |   Sim        | 1.0    | 06/01/2025 | 13:00 |
+| 7. Apresenta uma seção para o feedback dos usuários?                  |  Sim         | 1.0    | 06/01/2025 | 13:00 |
+| 8. Aborda como foi realizada a análise da interação do usuário com o artefato? |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 9. Define um tópico para sumarizar os principais resultados?          |   Sim        | 1.0    | 06/01/2025 | 13:00 |
+| 10. O resultado relembra quais foram os motivos para a realização do estudo? |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 11. Considera um planejamento para o reprojeto do sistema?            |    Não       | 1.0    | 06/01/2025 | 13:00 |
+| 12. O relato segue um padrão consolidado para todos os outros relatos? |     Não     | 1.0    | 06/01/2025 | 13:00 |
 <font size="2"><p style="text-align: center">Fonte: 
 [Karolina Vieira](https://github.com/Karolina91)
 
@@ -79,28 +79,21 @@
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-|   1. O documento possui os objetivos do planejamento?       |                | 1.0    | 06/01/2025 | 13:00 |
-|    7    | O planejamento segue o framework DECIDE?                               | 1.0    | 06/01/2025 | 13:00 |
-|    8    | O documento está estruturado de acordo com artefatos de planejamento anteriores? | 1.0    | 06/01/2025 | 13:00 |
-|    9    | O documento possui quais são os objetivos da avaliação?                | 1.0    | 06/01/2025 | 13:00 |
-|   10    | O documento possui quais são as perguntas a serem respondidas com a avaliação? | 1.0    | 06/01/2025 | 13:00 |
-|   11    | As perguntas selecionadas possuem fontes indicando de onde foram baseadas? | 1.0    | 06/01/2025 | 13:00 |
-|   12    | O documento possui quais são os métodos a serem utilizados na avaliação? | 1.0    | 06/01/2025 | 13:00 |
-|   13    | O documento possui os participantes da avaliação?                      | 1.0    | 06/01/2025 | 13:00 |
-|   14    | O documento apresenta o motivo do número da escolha dos participantes? | 1.0    | 06/01/2025 | 13:00 |
-|   15    | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário? | 1.0    | 06/01/2025 | 13:00 |
-|   16    | O documento apresenta o papel desempenhado por cada participante?      | 1.0    | 06/01/2025 | 13:00 |
-|   17    | O documento possui um cronograma com data, hora e local da realização da avaliação? | 1.0    | 06/01/2025 | 13:00 |
-|   18    | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação? | 1.0    | 06/01/2025 | 13:00 |
-|   19    | O documento apresenta quais são os custos?                             | 1.0    | 06/01/2025 | 13:00 |
-|   20    | O documento apresenta quais são os recursos de mão de obra necessários? | 1.0    | 06/01/2025 | 13:00 |
-|   21    | O documento possui uma seção sobre como as questões éticas são lidadas? | 1.0    | 06/01/2025 | 13:00 |
-|   22    | O documento possui uma seção sobre os dados (interpretação e apresentação)? | 1.0    | 06/01/2025 | 13:00 |
-|   23    | O documento apresenta tarefas de como deve ser realizada a avaliação?  | 1.0    | 06/01/2025 | 13:00 |
-|   24    | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? | 1.0    | 06/01/2025 | 13:00 |
-|   25    | Possui uma gravação do teste piloto?                                   | 1.0    | 06/01/2025 | 13:00 |
-|   26    | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? | 1.0    | 06/01/2025 | 13:00 |
-|   27    | O protótipo de papel é apresentado?                                    | 1.0    | 06/01/2025 | 13:00 |
+|   1|  O documento possui os objetivos do planejamento?       |      Sim          | 1.0    | 06/01/2025 | 13:00 |
+|    2    | O planejamento segue o framework DECIDE?  |                  Sim           | 1.0    | 06/01/2025 | 13:00 |
+|    8    | O documento está estruturado de acordo com artefatos de planejamento anteriores? |Sim| 1.0    | 06/01/2025 | 13:00 |
+|    9    | O documento possui quais são os objetivos da avaliação?   |       Sim      | 1.0    | 06/01/2025 | 13:00 |
+|   10    | O documento possui quais são as perguntas a serem respondidas com a avaliação? | Sim | 1.0    | 06/01/2025 | 13:00 |
+|   11    | As perguntas selecionadas possuem fontes indicando de onde foram baseadas? | Não | 1.0    | 06/01/2025 | 13:00 |
+|   12    | O documento possui quais são os métodos a serem utilizados na avaliação? | Sim| 1.0    | 06/01/2025 | 13:00 |
+|   13    | O documento possui os participantes da avaliação?     | Não                 | 1.0    | 06/01/2025 | 13:00 |
+|   14    | O documento apresenta o motivo do número da escolha dos participantes? | Não| 1.0    | 06/01/2025 | 13:00 |
+|   15    | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?| Não | 1.0    | 06/01/2025 | 13:00 |
+|   17    | O documento possui um cronograma com data, hora e local da realização da avaliação?| Sim | 1.0 | 06/01/2025| 13:00
+|   24    | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? |Sim | 1.0    | 06/01/2025 | 13:00 |
+|   25    | Possui uma gravação do teste piloto?                  | Não                 | 1.0    | 06/01/2025 | 13:00 |
+|   26    | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação?| Sim | 1.0    | 06/01/2025 | 13:00 |
+|   27    | O protótipo de papel é apresentado?        | Não                            | 1.0    | 06/01/2025 | 13:00 |
 
 <font size="2"><p style="text-align: center">Fonte: 
 [Paola Nascimento](https://github.com/paolaalim) 
@@ -109,13 +102,13 @@
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. O documento possui um tópico sobre quais são os objetivos do relato?                                  |           | 1.0    | 06/01/2025 | 13:00 |
-| 2. O documento possui um tópico sobre a metodologia de prototipação de papel?                            |           | 1.0    | 06/01/2025 | 13:00 |
-| 3. O documento possui um tópico sobre quais foram os participantes e os seus perfis?                     |           | 1.0    | 06/01/2025 | 13:00 |
-| 4. O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                 |           | 1.0    | 06/01/2025 | 13:00 |
-| 5. O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?         |           | 1.0    | 06/01/2025 | 13:00 |
-| 6. O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |           | 1.0    | 06/01/2025 | 13:00 |
-| 7. O documento está estruturado conforme os relatos realizados anteriores?                               |           | 1.0    | 06/01/2025 | 13:00 |
+| 1. O documento possui um tópico sobre quais são os objetivos do relato?                                  |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 2. O documento possui um tópico sobre a metodologia de prototipação de papel?                            |  Sim         | 1.0    | 06/01/2025 | 13:00 |
+| 3. O documento possui um tópico sobre quais foram os participantes e os seus perfis?                     |   Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 4. O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                 |     Não      | 1.0    | 06/01/2025 | 13:00 |
+| 5. O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?         |      Não     | 1.0    | 06/01/2025 | 13:00 |
+| 6. O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |     Não      | 1.0    | 06/01/2025 | 13:00 |
+| 7. O documento está estruturado conforme os relatos realizados anteriores?                               |   Sim        | 1.0    | 06/01/2025 | 13:00 |
 
 <font size="2"><p style="text-align: center">Fonte: 
 [Karolina Vieira](https://github.com/Karolina91)
@@ -123,22 +116,22 @@
 
 
 
-## Inspeção 5 - Grupo + 1
+# Inspeção 5 - Grupo + 1
 
 
 # Tabela 7 - Lista de Verificação para os Itens Gerais
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Os objetivos do projeto estão claramente definidos?   |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. Há uma descrição detalhada do público-alvo?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 3. A equipe tem todos os recursos necessários?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. Há critérios de sucesso bem definidos?                |                               | 1.0    | 06/01/2025 | 13:00 |
-| 5. O artefato possui introdução?                              |           | 1.0    | 06/01/2025 | 13:00 |
-| 6. O artefato possui uma bibliografia/referência bibliográfica? |           | 1.0    | 06/01/2025 | 13:00 |
-| 7. O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |           | 1.0    | 06/01/2025 | 13:00 |
-| 8. Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |           | 1.0    | 06/01/2025 | 13:00 |
-| 9. Todos os textos estão na norma padrão?                    |           | 1.0    | 06/01/2025 | 13:00 |
+| 1. Os objetivos do projeto estão claramente definidos?   |               Sim                | 1.0    | 06/01/2025 | 13:00 |
+| 2. Há uma descrição detalhada do público-alvo?           |    Sim                           | 1.0    | 06/01/2025 | 13:00 |
+| 3. A equipe tem todos os recursos necessários?           |     Não                         | 1.0    | 06/01/2025 | 13:00 |
+| 4. Há critérios de sucesso bem definidos?                |           Incompleto                    | 1.0    | 06/01/2025 | 13:00 |
+| 5. O artefato possui introdução?                              |   Incompleto       | 1.0    | 06/01/2025 | 13:00 |
+| 6. O artefato possui uma bibliografia/referência bibliográfica? |    Incompleto       | 1.0    | 06/01/2025 | 13:00 |
+| 7. O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |      Sim     | 1.0    | 06/01/2025 | 13:00 |
+| 8. Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |     Incompleto      | 1.0    | 06/01/2025 | 13:00 |
+| 9. Todos os textos estão na norma padrão?                    |      Sim     | 1.0    | 06/01/2025 | 13:00 |
 
 <font size="2"><p style="text-align: center">Fonte: 
 [Paola Nascimento](https://github.com/paolaalim) 
@@ -148,64 +141,61 @@
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Define objetivo e escopo de avaliação dos resultados?               |           | 1.0    | 06/01/2025 | 13:00 |
-| 2. Define o método de avaliação dos resultados?                       |           | 1.0    | 06/01/2025 | 13:00 |
-| 3. O relato apresenta os participantes selecionados?                  |           | 1.0    | 06/01/2025 | 13:00 |
-| 4. O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? |           | 1.0    | 06/01/2025 | 13:00 |
-| 5. Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? |           | 1.0    | 06/01/2025 | 13:00 |
-| 6. Apresenta as sugestões de melhorias?                               |           | 1.0    | 06/01/2025 | 13:00 |
-| 7. Apresenta uma seção para o feedback dos usuários?                  |           | 1.0    | 06/01/2025 | 13:00 |
-| 8. Aborda como foi realizada a análise da interação do usuário com o artefato? |           | 1.0    | 06/01/2025 | 13:00 |
-| 9. Define um tópico para sumarizar os principais resultados?          |           | 1.0    | 06/01/2025 | 13:00 |
-| 10. O resultado relembra quais foram os motivos para a realização do estudo? |           | 1.0    | 06/01/2025 | 13:00 |
-| 11. Considera um planejamento para o reprojeto do sistema?            |           | 1.0    | 06/01/2025 | 13:00 |
-| 12. O relato segue um padrão consolidado para todos os outros relatos? |           | 1.0    | 06/01/2025 | 13:00 |
+| 1. Define objetivo e escopo de avaliação dos resultados?               |     Não      | 1.0    | 06/01/2025 | 13:00 |
+| 2. Define o método de avaliação dos resultados?                       |     Não         | 1.0    | 06/01/2025 | 13:00 |
+| 3. O relato apresenta os participantes selecionados?                  |     Não         | 1.0    | 06/01/2025 | 13:00 |
+| 4. O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? |     Não         | 1.0    | 06/01/2025 | 13:00 |
+| 5. Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? |      Não        | 1.0    | 06/01/2025 | 13:00 |
+| 6. Apresenta as sugestões de melhorias?                               |      Não        | 1.0    | 06/01/2025 | 13:00 |
+| 7. Apresenta uma seção para o feedback dos usuários?                  |    Não          | 1.0    | 06/01/2025 | 13:00 |
+| 8. Aborda como foi realizada a análise da interação do usuário com o artefato? |     Não         | 1.0    | 06/01/2025 | 13:00 |
+| 9. Define um tópico para sumarizar os principais resultados?          |      Não        | 1.0    | 06/01/2025 | 13:00 |
+| 10. O resultado relembra quais foram os motivos para a realização do estudo? |      Não        | 1.0    | 06/01/2025 | 13:00 |
+| 11. Considera um planejamento para o reprojeto do sistema?            |       Não       | 1.0    | 06/01/2025 | 13:00 |
+| 12. O relato segue um padrão consolidado para todos os outros relatos? |       Não       | 1.0    | 06/01/2025 | 13:00 |
 
 <font size="2"><p style="text-align: center">Fonte: 
 [Karolina Vieira](https://github.com/Karolina91)
 
-# Tabela 9 - Lista de Verificação para o Resultado da Análise de Tarefas
+# Tabela 4 - Lista de Verificação para o Resultado da Avaliação da Análise de Tarefas
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Todas as tarefas principais foram identificadas?       |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. As tarefas refletem os objetivos do usuário?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 3. Existem tarefas desnecessárias ou redundantes?         |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. O tempo estimado para as tarefas é realista?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 5. Foram detectados gargalos durante a execução?          |    
+| 1. Define objetivo e escopo de avaliação dos resultados?               |      Não     | 1.0    | 06/01/2025 | 13:00 |
+| 2. Define o método de avaliação dos resultados?                       |   Não      | 1.0    | 06/01/2025 | 13:00 |
+| 3. O relato apresenta os participantes selecionados?                  |  Não      | 1.0    | 06/01/2025 | 13:00 |
+| 4. O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário? |    Não      | 1.0    | 06/01/2025 | 13:00 |
+| 5. Apresenta como foram abordados os problemas e dificuldades presentes nos resultados? |    Não      | 1.0    | 06/01/2025 | 13:00 |
+| 6. Apresenta as sugestões de melhorias?                               |   Não      | 1.0    | 06/01/2025 | 13:00 |
+| 7. Apresenta uma seção para o feedback dos usuários?                  |  Não        | 1.0    | 06/01/2025 | 13:00 |
+| 8. Aborda como foi realizada a análise da interação do usuário com o artefato? |    Não       | 1.0    | 06/01/2025 | 13:00 |
+| 9. Define um tópico para sumarizar os principais resultados?          |  Não       | 1.0    | 06/01/2025 | 13:00 |
+| 10. O resultado relembra quais foram os motivos para a realização do estudo? |    Não      | 1.0    | 06/01/2025 | 13:00 |
+| 11. Considera um planejamento para o reprojeto do sistema?            |    Não       | 1.0    | 06/01/2025 | 13:00 |
+| 12. O relato segue um padrão consolidado para todos os outros relatos? |     Não     | 1.0    | 06/01/2025 | 13:00 |
 
 <font size="2"><p style="text-align: center">Fonte: 
 [Paola Nascimento](https://github.com/paolaalim) 
 
 # Tabela 10 - Lista de Verificação para a Avaliação do Protótipo de Papel.
 
-# Tabela - Checklist para o Planejamento da Avaliação
-
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. O documento possui os objetivos do planejamento?             |           | 1.0    | 06/01/2025 | 13:00 |
-| 2. O planejamento segue o framework DECIDE?                    |           | 1.0    | 06/01/2025 | 13:00 |
-| 3. O documento está estruturado de acordo com artefatos de planejamento anteriores? |           | 1.0    | 06/01/2025 | 13:00 |
-| 4. O documento possui quais são os objetivos da avaliação?      |           | 1.0    | 06/01/2025 | 13:00 |
-| 5. O documento possui quais são as perguntas a serem respondidas com a avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
-| 6. As perguntas selecionadas possuem fontes indicando de onde foram baseadas? |           | 1.0    | 06/01/2025 | 13:00 |
-| 7. O documento possui quais são os métodos a serem utilizados na avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
-| 8. O documento possui os participantes da avaliação?          |           | 1.0    | 06/01/2025 | 13:00 |
-| 9. O documento apresenta o motivo do número da escolha dos participantes? |           | 1.0    | 06/01/2025 | 13:00 |
-| 10. O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário? |           | 1.0    | 06/01/2025 | 13:00 |
-| 11. O documento apresenta o papel desempenhado por cada participante? |           | 1.0    | 06/01/2025 | 13:00 |
-| 12. O documento possui um cronograma com data, hora e local da realização da avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
-| 13. O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
-| 14. O documento apresenta quais são os custos?                 |           | 1.0    | 06/01/2025 | 13:00 |
-| 15. O documento apresenta quais são os recursos de mão de obra necessários? |           | 1.0    | 06/01/2025 | 13:00 |
-| 16. O documento possui uma seção sobre como as questões éticas são lidadas? |           | 1.0    | 06/01/2025 | 13:00 |
-| 17. O documento possui uma seção sobre os dados (interpretação e apresentação)? |           | 1.0    | 06/01/2025 | 13:00 |
-| 18. O documento apresenta tarefas de como deve ser realizada a avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
-| 19. O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? |           | 1.0    | 06/01/2025 | 13:00 |
-| 20. Possui uma gravação do teste piloto?                       |           | 1.0    | 06/01/2025 | 13:00 |
-| 21. O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
-| 22. O protótipo de papel é apresentado?                        |           | 1.0    | 06/01/2025 | 13:00 |
-
+|   1|  O documento possui os objetivos do planejamento?       |      Sim          | 1.0    | 06/01/2025 | 13:00 |
+|    2    | O planejamento segue o framework DECIDE?  |                  Sim           | 1.0    | 06/01/2025 | 13:00 |
+|    8    | O documento está estruturado de acordo com artefatos de planejamento anteriores? |Sim| 1.0    | 06/01/2025 | 13:00 |
+|    9    | O documento possui quais são os objetivos da avaliação?   |       Sim      | 1.0    | 06/01/2025 | 13:00 |
+|   10    | O documento possui quais são as perguntas a serem respondidas com a avaliação? | Sim | 1.0    | 06/01/2025 | 13:00 |
+|   11    | As perguntas selecionadas possuem fontes indicando de onde foram baseadas? | Sim | 1.0    | 06/01/2025 | 13:00 |
+|   12    | O documento possui quais são os métodos a serem utilizados na avaliação? | Não| 1.0    | 06/01/2025 | 13:00 |
+|   13    | O documento possui os participantes da avaliação?     | Não         | 1.0    | 06/01/2025 | 13:00 |
+|   14    | O documento apresenta o motivo do número da escolha dos participantes? | Não| 1.0    | 06/01/2025 | 13:00 |
+|   15    | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?| Sim | 1.0    | 06/01/2025 | 13:00 |
+|   17    | O documento possui um cronograma com data, hora e local da realização da avaliação?| Não | 1.0 | 06/01/2025| 13:00
+|   24    | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? |Sim | 1.0    | 06/01/2025 | 13:00 |
+|   25    | Possui uma gravação do teste piloto?                  | Não                 | 1.0    | 06/01/2025 | 13:00 |
+|   26    | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação?| Sim | 1.0    | 06/01/2025 | 13:00 |
+|   27    | O protótipo de papel é apresentado?        | Não                            | 1.0    | 06/01/2025 | 13:00 |
 
 <font size="2"><p style="text-align: center">Fonte: 
 [Karolina Vieira](https://github.com/Karolina91)
@@ -214,13 +204,13 @@
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. O documento possui um tópico sobre quais são os objetivos do relato?                                  |           | 1.0    | 06/01/2025 | 13:00 |
-| 2. O documento possui um tópico sobre a metodologia de prototipação de papel?                            |           | 1.0    | 06/01/2025 | 13:00 |
-| 3. O documento possui um tópico sobre quais foram os participantes e os seus perfis?                     |           | 1.0    | 06/01/2025 | 13:00 |
-| 4. O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                 |           | 1.0    | 06/01/2025 | 13:00 |
-| 5. O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?         |           | 1.0    | 06/01/2025 | 13:00 |
-| 6. O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |           | 1.0    | 06/01/2025 | 13:00 |
-| 7. O documento está estruturado conforme os relatos realizados anteriores?                               |           | 1.0    | 06/01/2025 | 13:00 |
+| 1. O documento possui um tópico sobre quais são os objetivos do relato?                                  |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 2. O documento possui um tópico sobre a metodologia de prototipação de papel?                            |    Não       | 1.0    | 06/01/2025 | 13:00 |
+| 3. O documento possui um tópico sobre quais foram os participantes e os seus perfis?                     |    Sim       | 1.0    | 06/01/2025 | 13:00 |
+| 4. O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                 |     Não      | 1.0    | 06/01/2025 | 13:00 |
+| 5. O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?         |    Não       | 1.0    | 06/01/2025 | 13:00 |
+| 6. O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |     Sim      | 1.0    | 06/01/2025 | 13:00 |
+| 7. O documento está estruturado conforme os relatos realizados anteriores?                               |    Não       | 1.0    | 06/01/2025 | 13:00 |
 
 
 <font size="2"><p style="text-align: center">Fonte: 
