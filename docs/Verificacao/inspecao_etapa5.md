@@ -4,133 +4,165 @@
 | 06/01/2025 |        06/01/2025        |  1.0   | Criação do Documento | [Paola Nascimento](https://github.com/paolaalim) |          [Karolina Vieira](https://github.com/Karolina91)   |
 
 
-## Inspeção 5 - Próprio grupo
+## Inspeção 5 - Próprio grupo (2)
 
-### Tabela 1: Checklist para Planejamento de Avaliações
+# Tabela 1 - Cronograma das Atividades
 
-| Questão | Pergunta                                                                                        | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora       |
-| :-----: | :---------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :--------: |
-|    1    | O planejamento define claramente os objetivos da avaliação?                                     |                               |  1.0   | 06/01/2025 | 13:00      |
-|    2    | Existe um método especificado para conduzir a avaliação?                                        |                               |  1.0   | 06/01/2025 | 13:00      |
-|    3    | Os participantes foram identificados e estão alinhados com o público-alvo definido?             |                               |  1.0   | 06/01/2025 | 13:00      |
-|    4    | Foi elaborado um cronograma com datas, horários e locais para a realização da avaliação?        |                               |  1.0   | 06/01/2025 | 13:00      |
-|    5    | Existe uma seção destinada a ferramentas e recursos necessários para a avaliação?               |                               |  1.0   | 06/01/2025 | 13:00      |
-|    6    | O planejamento aborda como os dados obtidos serão analisados e apresentados?                    |                               |  1.0   | 06/01/2025 | 13:00      |
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. Quais são as principais etapas do cronograma? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. Quem é o responsável por cada etapa?         |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. Quais são os prazos estabelecidos?          |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. Como será realizado o acompanhamento?       |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Há dependências críticas entre etapas?      |                               | 1.0    | 06/01/2025 | 13:00 |
 
----
+# Tabela 2 - Lista de Verificação para os Itens Gerais
 
-### Tabela 2: Checklist para Execução de Avaliações
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. Os objetivos do projeto estão claramente definidos?   |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. Há uma descrição detalhada do público-alvo?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. A equipe tem todos os recursos necessários?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. Há critérios de sucesso bem definidos?                |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Existe um plano de comunicação eficaz?                |                               | 1.0    | 06/01/2025 | 13:00 |
 
-| Questão | Pergunta                                                                                        | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora       |
-| :-----: | :---------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :--------: |
-|    1    | Os objetivos e escopo dos resultados foram definidos de forma clara?                           |                               |  1.0   | 06/01/2025 | 13:00      |
-|    2    | O método de avaliação foi implementado conforme o planejamento?                                 |                               |  1.0   | 06/01/2025 | 13:00      |
-|    3    | Os participantes selecionados foram documentados com seus respectivos perfis?                   |                               |  1.0   | 06/01/2025 | 13:00      |
-|    4    | As dificuldades encontradas foram devidamente registradas durante a execução?                   |                               |  1.0   | 06/01/2025 | 13:00      |
-|    5    | As sugestões de melhorias foram apresentadas com base nos resultados obtidos?                   |                               |  1.0   | 06/01/2025 | 13:00      |
-|    6    | Houve um feedback registrado pelos usuários participantes da avaliação?                         |                               |  1.0   | 06/01/2025 | 13:00      |
+# Tabela 3 - Lista de Verificação para o Resultado da Avaliação do Storyboard
 
----
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. O storyboard representa claramente o fluxo do sistema? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. Os usuários conseguem entender as tarefas propostas?  |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. Há elementos visuais que causam confusão?             |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. Os objetivos do usuário são alcançáveis no protótipo? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Há sugestões de melhorias baseadas no storyboard?     |                               | 1.0    | 06/01/2025 | 13:00 |
 
-### Tabela 3: Checklist para Relato de Avaliações
+# Tabela 4 - Lista de Verificação para o Resultado da Análise de Tarefas
 
-| Questão | Pergunta                                                                                        | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora       |
-| :-----: | :---------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :--------: |
-|    1    | O relato apresenta os principais resultados da avaliação de forma clara?                        |                               |  1.0   | 06/01/2025 | 13:00      |
-|    2    | Há um tópico que sumariza os problemas identificados durante a avaliação?                       |                               |  1.0   | 06/01/2025 | 13:00      |
-|    3    | As partes do sistema que necessitam de melhorias estão destacadas no relato?                    |                               |  1.0   | 06/01/2025 | 13:00      |
-|    4    | Existe uma seção sobre como os dados obtidos foram tratados e analisados?                       |                               |  1.0   | 06/01/2025 | 13:00      |
-|    5    | O relato aborda o planejamento para possíveis reprojetos do sistema?                            |                               |  1.0   | 06/01/2025 | 13:00      |
-|    6    | Há uma estrutura consolidada que garante padronização para os relatos subsequentes?             |                               |  1.0   | 06/01/2025 | 13:00      |
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. Todas as tarefas principais foram identificadas?       |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. As tarefas refletem os objetivos do usuário?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. Existem tarefas desnecessárias ou redundantes?         |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. O tempo estimado para as tarefas é realista?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Foram detectados gargalos durante a execução?          |    
 
-### Tabela 4: Checklist para Feedback e Revisões
+# Tabela 5 - Lista de Verificação para o Planejamento da Avaliação do Protótipo de Papel
 
-| Questão | Pergunta                                                                                          | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora       |
-| :-----: | :-----------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :--------: |
-|    1    | Foram realizadas reuniões de revisão para discutir os resultados da avaliação?                   |                               |  1.0   | 06/01/2025 | 13:00      |
-|    2    | Os responsáveis pelo sistema receberam um feedback estruturado e documentado?                    |                               |  1.0   | 06/01/2025 | 13:00      |
-|    3    | Foram identificadas ações específicas para resolver os problemas levantados?                      |                               |  1.0   | 06/01/2025 | 13:00      |
-|    4    | As melhorias sugeridas foram priorizadas conforme a criticidade e impacto no sistema?             |                               |  1.0   | 06/01/2025 | 13:00      |
-|    5    | As revisões foram documentadas para uso em futuras avaliações ou ciclos de desenvolvimento?       |                               |  1.0   | 06/01/2025 | 13:00      |
-|    6    | Houve validação das melhorias implementadas com base no feedback coletado?                        |                               |  1.0   | 06/01/2025 | 13:00      |
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. O protótipo cobre todas as funcionalidades esperadas? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. O design do protótipo facilita a navegação?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. As interações refletem o sistema final?               |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. O feedback do usuário é consistente com os objetivos? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Há algum elemento do protótipo que possa ser removido?|                               | 1.0    | 06/01/2025 | 13:00 |
+| 6. O protótipo foi testado com usuários representativos? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 7. O ambiente de teste foi devidamente preparado?        |                               | 1.0    | 06/01/2025 | 13:00 |
 
----
+# Tabela 6 - Lista de Verificação para a Avaliação do Sistema Final
 
-### Tabela 5: Checklist para Encerramento e Aprendizados
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. O sistema atende aos requisitos do projeto?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. Os usuários estão satisfeitos com o desempenho do sistema?|                             | 1.0    | 06/01/2025 | 13:00 |
+| 3. Há algum erro crítico identificado na interface?      |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. A documentação do sistema está completa e compreensível?|                            | 1.0    | 06/01/2025 | 13:00 |
+| 5. O sistema foi validado em diferentes cenários de uso? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 6. O sistema suporta os objetivos de negócios?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 7. Os feedbacks dos testes foram implementados?          |                               | 1.0    | 06/01/2025 | 13:00 |
 
-| Questão | Pergunta                                                                                          | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora       |
-| :-----: | :-----------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :--------: |
-|    1    | Os resultados finais da avaliação foram compartilhados com todos os stakeholders envolvidos?      |                               |  1.0   | 06/01/2025 | 13:00      |
-|    2    | Foi realizado um documento de lições aprendidas para registrar os pontos positivos e negativos?   |                               |  1.0   | 06/01/2025 | 13:00      |
-|    3    | Houve uma análise retrospectiva para identificar melhorias no processo de avaliação?              |                               |  1.0   | 06/01/2025 | 13:00      |
-|    4    | As decisões de encerramento foram tomadas com base nos dados e feedback coletados?                |                               |  1.0   | 06/01/2025 | 13:00      |
-|    5    | Todos os registros e dados das avaliações foram devidamente arquivados e organizados?             |                               |  1.0   | 06/01/2025 | 13:00      |
-|    6    | Foram identificados pontos para incluir em futuras avaliações e processos relacionados?           |                               |  1.0   | 06/01/2025 | 13:00      |
+# Tabela 7 - Lista de Verificação para a Entrega Final
+
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. Todos os entregáveis foram enviados ao cliente?      |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. O cliente recebeu uma apresentação do sistema?       |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. O cliente assinou o termo de aceite?                 |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. O treinamento dos usuários foi realizado?            |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Há um plano de suporte pós-implantação?              |                               | 1.0    | 06/01/2025 | 13:00 |
+| 6. Os resultados foram documentados adequadamente?      |                               | 1.0    | 06/01/2025 | 13:00 |
+| 7. A equipe realizou uma reunião de encerramento do projeto?|                           | 1.0    | 06/01/2025 | 13:00 |
+
 
 
 
 ## Inspeção 5 - Grupo + 1
 
-### Tabela 1: Checklist para Planejamento de Avaliações
+# Tabela 1 - Cronograma das Atividades
 
-| Questão | Pergunta                                                                                        | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora       |
-| :-----: | :---------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :--------: |
-|    1    | O planejamento define claramente os objetivos da avaliação?                                     |                               |  1.0   | 06/01/2025 | 13:00      |
-|    2    | Existe um método especificado para conduzir a avaliação?                                        |                               |  1.0   | 06/01/2025 | 13:00      |
-|    3    | Os participantes foram identificados e estão alinhados com o público-alvo definido?             |                               |  1.0   | 06/01/2025 | 13:00      |
-|    4    | Foi elaborado um cronograma com datas, horários e locais para a realização da avaliação?        |                               |  1.0   | 06/01/2025 | 13:00      |
-|    5    | Existe uma seção destinada a ferramentas e recursos necessários para a avaliação?               |                               |  1.0   | 06/01/2025 | 13:00      |
-|    6    | O planejamento aborda como os dados obtidos serão analisados e apresentados?                    |                               |  1.0   | 06/01/2025 | 13:00      |
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. Quais são as principais etapas do cronograma? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. Quem é o responsável por cada etapa?         |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. Quais são os prazos estabelecidos?          |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. Como será realizado o acompanhamento?       |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Há dependências críticas entre etapas?      |                               | 1.0    | 06/01/2025 | 13:00 |
 
----
+# Tabela 2 - Lista de Verificação para os Itens Gerais
 
-### Tabela 2: Checklist para Execução de Avaliações
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. Os objetivos do projeto estão claramente definidos?   |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. Há uma descrição detalhada do público-alvo?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. A equipe tem todos os recursos necessários?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. Há critérios de sucesso bem definidos?                |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Existe um plano de comunicação eficaz?                |                               | 1.0    | 06/01/2025 | 13:00 |
 
-| Questão | Pergunta                                                                                        | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora       |
-| :-----: | :---------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :--------: |
-|    1    | Os objetivos e escopo dos resultados foram definidos de forma clara?                           |                               |  1.0   | 06/01/2025 | 13:00      |
-|    2    | O método de avaliação foi implementado conforme o planejamento?                                 |                               |  1.0   | 06/01/2025 | 13:00      |
-|    3    | Os participantes selecionados foram documentados com seus respectivos perfis?                   |                               |  1.0   | 06/01/2025 | 13:00      |
-|    4    | As dificuldades encontradas foram devidamente registradas durante a execução?                   |                               |  1.0   | 06/01/2025 | 13:00      |
-|    5    | As sugestões de melhorias foram apresentadas com base nos resultados obtidos?                   |                               |  1.0   | 06/01/2025 | 13:00      |
-|    6    | Houve um feedback registrado pelos usuários participantes da avaliação?                         |                               |  1.0   | 06/01/2025 | 13:00      |
+# Tabela 3 - Lista de Verificação para o Resultado da Avaliação do Storyboard
 
----
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. O storyboard representa claramente o fluxo do sistema? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. Os usuários conseguem entender as tarefas propostas?  |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. Há elementos visuais que causam confusão?             |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. Os objetivos do usuário são alcançáveis no protótipo? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Há sugestões de melhorias baseadas no storyboard?     |                               | 1.0    | 06/01/2025 | 13:00 |
 
-### Tabela 3: Checklist para Relato de Avaliações
+# Tabela 4 - Lista de Verificação para o Resultado da Análise de Tarefas
 
-| Questão | Pergunta                                                                                        | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora       |
-| :-----: | :---------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :--------: |
-|    1    | O relato apresenta os principais resultados da avaliação de forma clara?                        |                               |  1.0   | 06/01/2025 | 13:00      |
-|    2    | Há um tópico que sumariza os problemas identificados durante a avaliação?                       |                               |  1.0   | 06/01/2025 | 13:00      |
-|    3    | As partes do sistema que necessitam de melhorias estão destacadas no relato?                    |                               |  1.0   | 06/01/2025 | 13:00      |
-|    4    | Existe uma seção sobre como os dados obtidos foram tratados e analisados?                       |                               |  1.0   | 06/01/2025 | 13:00      |
-|    5    | O relato aborda o planejamento para possíveis reprojetos do sistema?                            |                               |  1.0   | 06/01/2025 | 13:00      |
-|    6    | Há uma estrutura consolidada que garante padronização para os relatos subsequentes?             |                               |  1.0   | 06/01/2025 | 13:00      |
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. Todas as tarefas principais foram identificadas?       |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. As tarefas refletem os objetivos do usuário?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. Existem tarefas desnecessárias ou redundantes?         |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. O tempo estimado para as tarefas é realista?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Foram detectados gargalos durante a execução?          |    
 
-### Tabela 4: Checklist para Feedback e Revisões
+# Tabela 5 - Lista de Verificação para o Planejamento da Avaliação do Protótipo de Papel
 
-| Questão | Pergunta                                                                                          | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora       |
-| :-----: | :-----------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :--------: |
-|    1    | Foram realizadas reuniões de revisão para discutir os resultados da avaliação?                   |                               |  1.0   | 06/01/2025 | 13:00      |
-|    2    | Os responsáveis pelo sistema receberam um feedback estruturado e documentado?                    |                               |  1.0   | 06/01/2025 | 13:00      |
-|    3    | Foram identificadas ações específicas para resolver os problemas levantados?                      |                               |  1.0   | 06/01/2025 | 13:00      |
-|    4    | As melhorias sugeridas foram priorizadas conforme a criticidade e impacto no sistema?             |                               |  1.0   | 06/01/2025 | 13:00      |
-|    5    | As revisões foram documentadas para uso em futuras avaliações ou ciclos de desenvolvimento?       |                               |  1.0   | 06/01/2025 | 13:00      |
-|    6    | Houve validação das melhorias implementadas com base no feedback coletado?                        |                               |  1.0   | 06/01/2025 | 13:00      |
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. O protótipo cobre todas as funcionalidades esperadas? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. O design do protótipo facilita a navegação?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. As interações refletem o sistema final?               |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. O feedback do usuário é consistente com os objetivos? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Há algum elemento do protótipo que possa ser removido?|                               | 1.0    | 06/01/2025 | 13:00 |
+| 6. O protótipo foi testado com usuários representativos? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 7. O ambiente de teste foi devidamente preparado?        |                               | 1.0    | 06/01/2025 | 13:00 |
 
----
+# Tabela 6 - Lista de Verificação para a Avaliação do Sistema Final
 
-### Tabela 5: Checklist para Encerramento e Aprendizados
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. O sistema atende aos requisitos do projeto?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. Os usuários estão satisfeitos com o desempenho do sistema?|                             | 1.0    | 06/01/2025 | 13:00 |
+| 3. Há algum erro crítico identificado na interface?      |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. A documentação do sistema está completa e compreensível?|                            | 1.0    | 06/01/2025 | 13:00 |
+| 5. O sistema foi validado em diferentes cenários de uso? |                               | 1.0    | 06/01/2025 | 13:00 |
+| 6. O sistema suporta os objetivos de negócios?           |                               | 1.0    | 06/01/2025 | 13:00 |
+| 7. Os feedbacks dos testes foram implementados?          |                               | 1.0    | 06/01/2025 | 13:00 |
 
-| Questão | Pergunta                                                                                          | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora       |
-| :-----: | :-----------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :--------: |
-|    1    | Os resultados finais da avaliação foram compartilhados com todos os stakeholders envolvidos?      |                               |  1.0   | 06/01/2025 | 13:00      |
-|    2    | Foi realizado um documento de lições aprendidas para registrar os pontos positivos e negativos?   |                               |  1.0   | 06/01/2025 | 13:00      |
-|    3    | Houve uma análise retrospectiva para identificar melhorias no processo de avaliação?              |                               |  1.0   | 06/01/2025 | 13:00      |
-|    4    | As decisões de encerramento foram tomadas com base nos dados e feedback coletados?                |                               |  1.0   | 06/01/2025 | 13:00      |
-|    5    | Todos os registros e dados das avaliações foram devidamente arquivados e organizados?             |                               |  1.0   | 06/01/2025 | 13:00      |
-|    6    | Foram identificados pontos para incluir em futuras avaliações e processos relacionados?           |                               |  1.0   | 06/01/2025 | 13:00      |
+# Tabela 7 - Lista de Verificação para a Entrega Final
+
+| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-----: | :---------------------------: | :----: | :--------: | :---: |
+| 1. Todos os entregáveis foram enviados ao cliente?      |                               | 1.0    | 06/01/2025 | 13:00 |
+| 2. O cliente recebeu uma apresentação do sistema?       |                               | 1.0    | 06/01/2025 | 13:00 |
+| 3. O cliente assinou o termo de aceite?                 |                               | 1.0    | 06/01/2025 | 13:00 |
+| 4. O treinamento dos usuários foi realizado?            |                               | 1.0    | 06/01/2025 | 13:00 |
+| 5. Há um plano de suporte pós-implantação?              |                               | 1.0    | 06/01/2025 | 13:00 |
+| 6. Os resultados foram documentados adequadamente?      |                               | 1.0    | 06/01/2025 | 13:00 |
+| 7. A equipe realizou uma reunião de encerramento do projeto?|                           | 1.0    | 06/01/2025 | 13:00 |
+
 
 
 ## Referências Bibliográficas
@@ -138,4 +170,3 @@
 1. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.  
 2. BARROS, A. [Plano de Ensino da Disciplina](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
 3. MACEDO, Lucas. Planejamento da Verificação - PC5. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/>. Acesso em: 04 jan. 2025.
-4. 
