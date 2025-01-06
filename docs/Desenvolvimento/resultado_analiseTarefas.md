@@ -72,7 +72,7 @@ Incluir elementos visuais, como personagens, objetos e cenários, para complemen
 ## Entrevista - Inscrever-se no Programa de Estágio da DPDF
 
 <font size="2"><p style="text-align: center">Fonte: 
-[Paola Nascimento] (https://github.com/)
+[Paola Nascimento](https://github.com/paolaalim)
 
 </center>
 
@@ -84,7 +84,7 @@ No Video 2 e Tabela 3 é possível verificar os registros feitos durante a avali
 [Assista ao vídeo no YouTube](https://youtu.be/0PMKlVTV8w8)
 
 #### Fonte:
-[Paola Nascimento ](https://github.com/)
+[Paola Nascimento ](https://github.com/paolaalim)
 
 
 <font size="2"><p style="text-align: center">Tabela 3: Sumario de perguntas</p></font>

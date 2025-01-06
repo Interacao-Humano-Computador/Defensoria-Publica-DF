@@ -28,15 +28,16 @@ O framework DECIDE será utilizado para guiar o planejamento, execução e anál
 
 O método de avaliação escolhido para lidar com o protótipo de papel foi a entrevista. Esse método irá promover dados a partir do ponto de vista do usuário.
 
-## Objetivos
+## D - Objetivos
 Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, são:
 Apropriação de tecnologia pelos usuários;
 Ideias e alternativas de design;
 Conformidade com um padrão;
 Problemas na interação e na interface.
 
-## Método de Avaliação
-A entrevista foi escolhida como método de avaliação adequado para o Protótipo de Papel. Esse método será realizado de forma presencial. Para iniciar a avaliação, deverá ser apresentado ao usuário um termo de consentimento e, em seguida e caso o termo seja aceito, será apresentada a proposta do projeto, a apresentação do protótipo e das tarefas a serem realizadas; por fim, haverá a realização de um questionário. 
+## E - Explorar Perguntas
+
+As perguntas selecionadas foram planejadas para serem respondidas no contexto desta avaliação e são as seguintes: 
 
 | ID  | Descrição                                                                                      | Objetivo                               |
 |-----|------------------------------------------------------------------------------------------------|---------------------------------------|
@@ -49,6 +50,16 @@ A entrevista foi escolhida como método de avaliação adequado para o Protótip
 | 07  | O usuário consegue operar o sistema?                                                          | Identificar problemas na interação e interface |
 | 08  | O usuário entende para que serve cada elemento de interface?                                  | Identificar problemas na interação e interface |
 
+## C - Método de Avaliação
+A entrevista foi escolhida como método de avaliação adequado para o Protótipo de Papel. Esse método será realizado de forma presencial. Para iniciar a avaliação, deverá ser apresentado ao usuário um termo de consentimento e, em seguida e caso o termo seja aceito, será apresentada a proposta do projeto, a apresentação do protótipo e das tarefas a serem realizadas. 
+
+## I - Identificar e administrar as questões práticas da avaliação
+
+Recrutaremos participantes que se encaixem no perfil de usuários da Defensoria Pública do Distrito Federal (DPDF), considerando fatores como idade, nível de instrução, frequência de interação com serviços públicos, e familiaridade com o uso de plataformas digitais. Esses critérios garantirão que os participantes representem adequadamente o público-alvo da DPDF, incluindo pessoas que buscam assistência jurídica gratuita e que utilizam o site ou outros canais digitais da instituição.
+
+## Aspectos Éticos
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o Termo de Consentimento. O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel sendo elaborado considerando os Aspectos Éticos para garantir o bem-estar e o respeito ao voluntário participante.
+
 ## Cronograma
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
@@ -57,10 +68,10 @@ A entrevista foi escolhida como método de avaliação adequado para o Protótip
 | Lucas Sales            |                     |                       |                    |                |
 | Paola Rebeca           |                     |                       |                    |                |
 
-## Aspectos Éticos
+## D - Aspectos Éticos
 Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o Termo de Consentimento. O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel sendo elaborado considerando os Aspectos Éticos para garantir o bem-estar e o respeito ao voluntário participante.
 
-## Avaliação dos Resultados
+## E - Avaliação dos Resultados
 Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados como disposto no documento de Planejamento do Relato de Resultados. Caso necessário, o protótipo sofrerá modificações após a avaliação dos resultados, adequando-se às melhorias necessárias.
 
 
