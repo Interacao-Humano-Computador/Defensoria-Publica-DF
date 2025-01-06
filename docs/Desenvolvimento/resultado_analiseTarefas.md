@@ -81,7 +81,7 @@ Incluir elementos visuais, como personagens, objetos e cenários, para complemen
 No Video 2 e Tabela 3 é possível verificar os registros feitos durante a avaliação.
 ### Video 2: Gravação da avaliação
 
-[Assista ao vídeo no YouTube](link)
+[Assista ao vídeo no YouTube](https://youtu.be/0PMKlVTV8w8)
 
 #### Fonte:
 [Paola Nascimento ](https://github.com/)
