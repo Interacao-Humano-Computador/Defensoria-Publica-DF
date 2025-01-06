@@ -45,12 +45,12 @@
 | 4. O tempo estimado para as tarefas é realista?           |        Sim                       | 1.0    | 06/01/2025 | 13:00 |
 | 5. Foram detectados gargalos durante a execução?          |    Não
 
-### Tabela 5 - Checklist para a Avaliação do Protótipo de Papel
+### Tabela 5 - Lista de Verificação para a Avaliação do Protótipo de Papel
 
 | ID  | Descrição                                                                                                                                                                                                                                                                        | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :---: |
-| 6   | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                               |                               |        |            |       |
-| 7   | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                       |                               |        |            |       |
+| 1   | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                               |                               |        |            |       |
+| 2   | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                       |                               |        |            |       |
 | 8   | O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)?                                                                                                                          |                               |        |            |       |
 | 9   | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                        |                               |        |            |       |
 | 10  | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                 |                               |        |            |       |
@@ -73,7 +73,7 @@
 | 27  | O protótipo de papel é apresentado?                                                                                                                                                                                                                                           |                               |        |            |       |
 
 
-### Tabela 6 - Checklist para o Planejamento do Relato do Protótipo de Papel
+### Tabela 6 - Lista de Verificação para o Planejamento do Relato do Protótipo de Papel
 
 | ID  | Descrição                                                                                              | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-: | :---------------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :---: |
@@ -160,3 +160,9 @@
 | 10  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?         |                               |        |            |       |
 | 11  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |                               |        |            |       |
 | 12  | O documento está estruturado conforme os relatos realizados anteriores?                               |                               |        |            |       |
+
+
+## Bibliografia
+[1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.
+
+[2] Análise da plataforma Bilheteria Digital - Características da plataforma, disponível em: [https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.md](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.mds/). Acesso em 06 de Janeiro de 2025.
