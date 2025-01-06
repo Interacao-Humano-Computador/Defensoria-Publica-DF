@@ -45,81 +45,118 @@
 | 4. O tempo estimado para as tarefas é realista?           |        Sim                       | 1.0    | 06/01/2025 | 13:00 |
 | 5. Foram detectados gargalos durante a execução?          |    Não
 
+### Tabela 5 - Checklist para a Avaliação do Protótipo de Papel
+
+| ID  | Descrição                                                                                                                                                                                                                                                                        | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :---: |
+| 6   | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                               |                               |        |            |       |
+| 7   | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                       |                               |        |            |       |
+| 8   | O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)?                                                                                                                          |                               |        |            |       |
+| 9   | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                        |                               |        |            |       |
+| 10  | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                 |                               |        |            |       |
+| 11  | As perguntas selecionadas possuem fontes indicando de onde foram baseadas?                                                                                                                                                                                                     |                               |        |            |       |
+| 12  | O documento possui quais são os métodos a serem utilizados na avaliação?                                                                                                                                                                                                       |                               |        |            |       |
+| 13  | O documento possui os participantes da avaliação?                                                                                                                                                                                                                              |                               |        |            |       |
+| 14  | O documento apresenta o motivo do número da escolha dos participantes?                                                                                                                                                                                                         |                               |        |            |       |
+| 15  | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?                                                                                                                                                                                   |                               |        |            |       |
+| 16  | O documento apresenta o papel desempenhado por cada participante?                                                                                                                                                                                                              |                               |        |            |       |
+| 17  | O documento possui um cronograma com data, hora e local da realização da avaliação?                                                                                                                                                                                            |                               |        |            |       |
+| 18  | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?                                                                                                                                                                                    |                               |        |            |       |
+| 19  | O documento apresenta quais são os custos?                                                                                                                                                                                                                                     |                               |        |            |       |
+| 20  | O documento apresenta quais são os recursos de mão de obra necessários?                                                                                                                                                                                                        |                               |        |            |       |
+| 21  | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                        |                               |        |            |       |
+| 22  | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                    |                               |        |            |       |
+| 23  | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                          |                               |        |            |       |
+| 24  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                          |                               |        |            |       |
+| 25  | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                           |                               |        |            |       |
+| 26  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |                               |        |            |       |
+| 27  | O protótipo de papel é apresentado?                                                                                                                                                                                                                                           |                               |        |            |       |
+
+
+### Tabela 6 - Checklist para o Planejamento do Relato do Protótipo de Papel
+
+| ID  | Descrição                                                                                              | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-: | :---------------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :---: |
+| 6   | O documento possui um tópico sobre quais são os objetivos do relato?                                  |                               |        |            |       |
+| 7   | O documento possui um tópico sobre a metodologia de prototipação de papel?                            |                               |        |            |       |
+| 8   | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                     |                               |        |            |       |
+| 9   | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                 |                               |        |            |       |
+| 10  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?         |                               |        |            |       |
+| 11  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |                               |        |            |       |
+| 12  | O documento está estruturado conforme os relatos realizados anteriores?                               |                               |        |            |       |
+
+
 
 
 ## Inspeção 5 - Grupo + 1
 
 
-# Tabela 1 - Lista de Verificação para os Itens Gerais
+# Tabela 2 - Lista de Verificação para os Itens Gerais
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Os objetivos do projeto estão claramente definidos?   |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. Há uma descrição detalhada do público-alvo?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 3. A equipe tem todos os recursos necessários?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. Há critérios de sucesso bem definidos?                |                               | 1.0    | 06/01/2025 | 13:00 |
-| 5. Existe um plano de comunicação eficaz?                |                               | 1.0    | 06/01/2025 | 13:00 |
+| 1. Os objetivos do projeto estão claramente definidos?   |        Sim                       | 1.0    | 06/01/2025 | 13:00 | 
+| 2. Há uma descrição detalhada do público-alvo?           |    Sim                           | 1.0    | 06/01/2025 | 13:00 |
+| 3. A equipe tem todos os recursos necessários?           |   Sim                            | 1.0    | 06/01/2025 | 13:00 | 
+| 4. Há critérios de sucesso bem definidos?                |     Sim                          | 1.0    | 06/01/2025 | 13:00 | 
+| 5. Existe um plano de comunicação eficaz?                |       Simm                        | 1.0    | 06/01/2025 | 13:00 | 
 
-# Tabela 2 - Lista de Verificação para o Resultado da Avaliação do Storyboard
-
-| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
-| :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. O storyboard representa claramente o fluxo do sistema? |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. Os usuários conseguem entender as tarefas propostas?  |                               | 1.0    | 06/01/2025 | 13:00 |
-| 3. Há elementos visuais que causam confusão?             |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. Os objetivos do usuário são alcançáveis no protótipo? |                               | 1.0    | 06/01/2025 | 13:00 |
-| 5. Há sugestões de melhorias baseadas no storyboard?     |                               | 1.0    | 06/01/2025 | 13:00 |
-
-# Tabela 3 - Lista de Verificação para o Resultado da Análise de Tarefas
+# Tabela 3 - Lista de Verificação para o Resultado da Avaliação do Storyboard
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Todas as tarefas principais foram identificadas?       |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. As tarefas refletem os objetivos do usuário?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 3. Existem tarefas desnecessárias ou redundantes?         |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. O tempo estimado para as tarefas é realista?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 5. Foram detectados gargalos durante a execução?          |    
+| 1. O storyboard representa claramente o fluxo do sistema? |       Sim                        | 1.0    | 06/01/2025 | 13:00 |
+| 2. Os usuários conseguem entender as tarefas propostas?  |     Sim                          | 1.0    | 06/01/2025 | 13:00 |
+| 3. Há elementos visuais que causam confusão?             |    Não                           | 1.0    | 06/01/2025 | 13:00 |
+| 4. Os objetivos do usuário são alcançáveis no protótipo? |          Sim                     | 1.0    | 06/01/2025 | 13:00 |
+| 5. Há sugestões de melhorias baseadas no storyboard?     |          Não                     | 1.0    | 06/01/2025 | 13:00 |
 
-# Tabela 5 - Lista de Verificação para o Planejamento da Avaliação do Protótipo de Papel
-
-| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
-| :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. O protótipo cobre todas as funcionalidades esperadas? |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. O design do protótipo facilita a navegação?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 3. As interações refletem o sistema final?               |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. O feedback do usuário é consistente com os objetivos? |                               | 1.0    | 06/01/2025 | 13:00 |
-| 5. Há algum elemento do protótipo que possa ser removido?|                               | 1.0    | 06/01/2025 | 13:00 |
-| 6. O protótipo foi testado com usuários representativos? |                               | 1.0    | 06/01/2025 | 13:00 |
-| 7. O ambiente de teste foi devidamente preparado?        |                               | 1.0    | 06/01/2025 | 13:00 |
-
-# Tabela 6 - Lista de Verificação para a Avaliação do Sistema Final
+# Tabela 4 - Lista de Verificação para o Resultado da Análise de Tarefas
 
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. O sistema atende aos requisitos do projeto?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. Os usuários estão satisfeitos com o desempenho do sistema?|                             | 1.0    | 06/01/2025 | 13:00 |
-| 3. Há algum erro crítico identificado na interface?      |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. A documentação do sistema está completa e compreensível?|                            | 1.0    | 06/01/2025 | 13:00 |
-| 5. O sistema foi validado em diferentes cenários de uso? |                               | 1.0    | 06/01/2025 | 13:00 |
-| 6. O sistema suporta os objetivos de negócios?           |                               | 1.0    | 06/01/2025 | 13:00 |
-| 7. Os feedbacks dos testes foram implementados?          |                               | 1.0    | 06/01/2025 | 13:00 |
+| 1. Todas as tarefas principais foram identificadas?       |       Sim                        | 1.0    | 06/01/2025 | 13:00 |
+| 2. As tarefas refletem os objetivos do usuário?           |    Sim                           | 1.0    | 06/01/2025 | 13:00 |
+| 3. Existem tarefas desnecessárias ou redundantes?         |     Não                          | 1.0    | 06/01/2025 | 13:00 |
+| 4. O tempo estimado para as tarefas é realista?           |        Sim                       | 1.0    | 06/01/2025 | 13:00 |
+| 5. Foram detectados gargalos durante a execução?          |    Não
 
-# Tabela 7 - Lista de Verificação para a Entrega Final
+### Tabela 5 - Checklist para a Avaliação do Protótipo de Papel
 
-| Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
-| :-----: | :---------------------------: | :----: | :--------: | :---: |
-| 1. Todos os entregáveis foram enviados ao cliente?      |                               | 1.0    | 06/01/2025 | 13:00 |
-| 2. O cliente recebeu uma apresentação do sistema?       |                               | 1.0    | 06/01/2025 | 13:00 |
-| 3. O cliente assinou o termo de aceite?                 |                               | 1.0    | 06/01/2025 | 13:00 |
-| 4. O treinamento dos usuários foi realizado?            |                               | 1.0    | 06/01/2025 | 13:00 |
-| 5. Há um plano de suporte pós-implantação?              |                               | 1.0    | 06/01/2025 | 13:00 |
-| 6. Os resultados foram documentados adequadamente?      |                               | 1.0    | 06/01/2025 | 13:00 |
-| 7. A equipe realizou uma reunião de encerramento do projeto?|                           | 1.0    | 06/01/2025 | 13:00 |
+| ID  | Descrição                                                                                                                                                                                                                                                                        | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :---: |
+| 6   | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                               |                               |        |            |       |
+| 7   | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                       |                               |        |            |       |
+| 8   | O documento do planejamento está estruturado de acordo com artefatos de planejamento anteriores (Ex: Utilizando o Framework DECIDE com seus tópicos)?                                                                                                                          |                               |        |            |       |
+| 9   | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                        |                               |        |            |       |
+| 10  | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                 |                               |        |            |       |
+| 11  | As perguntas selecionadas possuem fontes indicando de onde foram baseadas?                                                                                                                                                                                                     |                               |        |            |       |
+| 12  | O documento possui quais são os métodos a serem utilizados na avaliação?                                                                                                                                                                                                       |                               |        |            |       |
+| 13  | O documento possui os participantes da avaliação?                                                                                                                                                                                                                              |                               |        |            |       |
+| 14  | O documento apresenta o motivo do número da escolha dos participantes?                                                                                                                                                                                                         |                               |        |            |       |
+| 15  | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?                                                                                                                                                                                   |                               |        |            |       |
+| 16  | O documento apresenta o papel desempenhado por cada participante?                                                                                                                                                                                                              |                               |        |            |       |
+| 17  | O documento possui um cronograma com data, hora e local da realização da avaliação?                                                                                                                                                                                            |                               |        |            |       |
+| 18  | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?                                                                                                                                                                                    |                               |        |            |       |
+| 19  | O documento apresenta quais são os custos?                                                                                                                                                                                                                                     |                               |        |            |       |
+| 20  | O documento apresenta quais são os recursos de mão de obra necessários?                                                                                                                                                                                                        |                               |        |            |       |
+| 21  | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                        |                               |        |            |       |
+| 22  | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                    |                               |        |            |       |
+| 23  | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                          |                               |        |            |       |
+| 24  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                          |                               |        |            |       |
+| 25  | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                           |                               |        |            |       |
+| 26  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |                               |        |            |       |
+| 27  | O protótipo de papel é apresentado?                                                                                                                                                                                                                                           |                               |        |            |       |
 
 
+### Tabela 6 - Checklist para o Planejamento do Relato do Protótipo de Papel
 
-## Referências Bibliográficas
-
-1. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.  
-2. BARROS, A. [Plano de Ensino da Disciplina](https://aprender3.unb.br/pluginfile.php/2972625/mod_resource/content/58/Plano_de_Ensino%20FIHC%20022024%20Turma%2001%20v2.pdf)
-3. MACEDO, Lucas. Planejamento da Verificação - PC5. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/verificacao_validacao/pc5-planejamento/>. Acesso em: 04 jan. 2025.
+| ID  | Descrição                                                                                              | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
+| :-: | :---------------------------------------------------------------------------------------------------: | :---------------------------: | :----: | :--------: | :---: |
+| 6   | O documento possui um tópico sobre quais são os objetivos do relato?                                  |                               |        |            |       |
+| 7   | O documento possui um tópico sobre a metodologia de prototipação de papel?                            |                               |        |            |       |
+| 8   | O documento possui um tópico sobre quais foram os participantes e os seus perfis?                     |                               |        |            |       |
+| 9   | O documento possui um tópico sobre as tarefas a serem executadas pelos participantes?                 |                               |        |            |       |
+| 10  | O documento possui um tópico sobre a lista dos problemas de usabilidade ainda não corrigidos?         |                               |        |            |       |
+| 11  | O documento possui um tópico sobre indicações de partes do sistema que podem ser mais bem elaboradas? |                               |        |            |       |
+| 12  | O documento está estruturado conforme os relatos realizados anteriores?                               |                               |        |            |       |
