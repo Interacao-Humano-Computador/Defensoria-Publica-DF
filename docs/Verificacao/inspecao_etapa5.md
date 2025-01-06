@@ -179,30 +179,33 @@
 
 # Tabela 10 - Lista de Verificação para a Avaliação do Protótipo de Papel.
 
+# Tabela - Checklist para o Planejamento da Avaliação
+
 | Questão | Resposta (Sim/Não/Incompleto) | Versão | Data       | Hora  |
 | :-----: | :---------------------------: | :----: | :--------: | :---: |
-|   1|  O documento possui os objetivos do planejamento?       |                | 1.0    | 06/01/2025 | 13:00 |
-|    7    | O planejamento segue o framework DECIDE?                               | 1.0    | 06/01/2025 | 13:00 |
-|    8    | O documento está estruturado de acordo com artefatos de planejamento anteriores? | 1.0    | 06/01/2025 | 13:00 |
-|    9    | O documento possui quais são os objetivos da avaliação?                | 1.0    | 06/01/2025 | 13:00 |
-|   10    | O documento possui quais são as perguntas a serem respondidas com a avaliação? | 1.0    | 06/01/2025 | 13:00 |
-|   11    | As perguntas selecionadas possuem fontes indicando de onde foram baseadas? | 1.0    | 06/01/2025 | 13:00 |
-|   12    | O documento possui quais são os métodos a serem utilizados na avaliação? | 1.0    | 06/01/2025 | 13:00 |
-|   13    | O documento possui os participantes da avaliação?                      | 1.0    | 06/01/2025 | 13:00 |
-|   14    | O documento apresenta o motivo do número da escolha dos participantes? | 1.0    | 06/01/2025 | 13:00 |
-|   15    | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário? | 1.0    | 06/01/2025 | 13:00 |
-|   16    | O documento apresenta o papel desempenhado por cada participante?      | 1.0    | 06/01/2025 | 13:00 |
-|   17    | O documento possui um cronograma com data, hora e local da realização da avaliação? | 1.0    | 06/01/2025 | 13:00 |
-|   18    | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação? | 1.0    | 06/01/2025 | 13:00 |
-|   19    | O documento apresenta quais são os custos?                             | 1.0    | 06/01/2025 | 13:00 |
-|   20    | O documento apresenta quais são os recursos de mão de obra necessários? | 1.0    | 06/01/2025 | 13:00 |
-|   21    | O documento possui uma seção sobre como as questões éticas são lidadas? | 1.0    | 06/01/2025 | 13:00 |
-|   22    | O documento possui uma seção sobre os dados (interpretação e apresentação)? | 1.0    | 06/01/2025 | 13:00 |
-|   23    | O documento apresenta tarefas de como deve ser realizada a avaliação?  | 1.0    | 06/01/2025 | 13:00 |
-|   24    | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? | 1.0    | 06/01/2025 | 13:00 |
-|   25    | Possui uma gravação do teste piloto?                                   | 1.0    | 06/01/2025 | 13:00 |
-|   26    | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? | 1.0    | 06/01/2025 | 13:00 |
-|   27    | O protótipo de papel é apresentado?                                    | 1.0    | 06/01/2025 | 13:00 |
+| 1. O documento possui os objetivos do planejamento?             |           | 1.0    | 06/01/2025 | 13:00 |
+| 2. O planejamento segue o framework DECIDE?                    |           | 1.0    | 06/01/2025 | 13:00 |
+| 3. O documento está estruturado de acordo com artefatos de planejamento anteriores? |           | 1.0    | 06/01/2025 | 13:00 |
+| 4. O documento possui quais são os objetivos da avaliação?      |           | 1.0    | 06/01/2025 | 13:00 |
+| 5. O documento possui quais são as perguntas a serem respondidas com a avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
+| 6. As perguntas selecionadas possuem fontes indicando de onde foram baseadas? |           | 1.0    | 06/01/2025 | 13:00 |
+| 7. O documento possui quais são os métodos a serem utilizados na avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
+| 8. O documento possui os participantes da avaliação?          |           | 1.0    | 06/01/2025 | 13:00 |
+| 9. O documento apresenta o motivo do número da escolha dos participantes? |           | 1.0    | 06/01/2025 | 13:00 |
+| 10. O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário? |           | 1.0    | 06/01/2025 | 13:00 |
+| 11. O documento apresenta o papel desempenhado por cada participante? |           | 1.0    | 06/01/2025 | 13:00 |
+| 12. O documento possui um cronograma com data, hora e local da realização da avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
+| 13. O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
+| 14. O documento apresenta quais são os custos?                 |           | 1.0    | 06/01/2025 | 13:00 |
+| 15. O documento apresenta quais são os recursos de mão de obra necessários? |           | 1.0    | 06/01/2025 | 13:00 |
+| 16. O documento possui uma seção sobre como as questões éticas são lidadas? |           | 1.0    | 06/01/2025 | 13:00 |
+| 17. O documento possui uma seção sobre os dados (interpretação e apresentação)? |           | 1.0    | 06/01/2025 | 13:00 |
+| 18. O documento apresenta tarefas de como deve ser realizada a avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
+| 19. O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? |           | 1.0    | 06/01/2025 | 13:00 |
+| 20. Possui uma gravação do teste piloto?                       |           | 1.0    | 06/01/2025 | 13:00 |
+| 21. O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? |           | 1.0    | 06/01/2025 | 13:00 |
+| 22. O protótipo de papel é apresentado?                        |           | 1.0    | 06/01/2025 | 13:00 |
+
 
 <font size="2"><p style="text-align: center">Fonte: 
 [Karolina Vieira](https://github.com/Karolina91)
@@ -228,4 +231,4 @@
 ## Bibliografia
 [1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.
 
-[2] Análise da plataforma Bilheteria Digital - Características da plataforma, disponível em: [https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.md](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.mds/). Acesso em 06 de Janeiro de 2025.
+[2] Análise da plataforma Bilheteria Digital - Características da plataforma, disponível em: [https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.md](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.mds/). Acesso em 06 de Janeiro de 2025. 
