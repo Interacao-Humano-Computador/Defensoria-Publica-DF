@@ -33,30 +33,13 @@ O teste piloto é essencial para identificar possíveis falhas no processo de av
 
 ### Agendar uma consulta com o advogado 
 
-<p align="center">
-  <img src = "..\assets\images\dpdf 1.jpg"/>
-  <br />
-  <em>Figura 1: Tela incial.</em>
-</p>
+![Figura 1 - Tela Inicial](../assets/images/dpdf%201.jpg)<figcaption>Fonte: Karolina Vieira (2024)
 
-<p align="center">
-  <img src = "..\assets\images\protoripo2.jpg"/>
-  <br />
-  <em>Figura 2: Inserir seus dados.</em>
-</p>
+![Figura 2 - Inserir Dados](../assets/images/protoripo2.jpg)<figcaption>Fonte: Karolina Vieira (2024)
 
-<p align="center">
-  <img src = "..\assets\images\protoripo3.jpg"/>
-  <br />
-  <em>Figura 3: Selecionar Atendimento.</em>
-</p>
+![Figura 3 - Selecionar Tipo de Atendimento](../assets/images/protoripo3.jpg)<figcaption>Fonte: Karolina Vieira (2024)
 
-<p align="center">
-  <img src = "..\assets\images\protoripo2.jpg"/>
-  <br />
-  <em>Figura 4: Concluir agendamento.</em>
-</p>
-
+![Figura 4 - Concluir Agendamento](../assets/images/protoripo4.jpg)<figcaption>Fonte: Karolina Vieira (2024)
 ### Registro da avaliação
 
 No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avaliação.
