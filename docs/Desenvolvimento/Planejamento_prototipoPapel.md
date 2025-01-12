@@ -72,6 +72,8 @@ Os resultados obtidos a partir das avaliações propostas no cronograma serão a
 | 07  | O usuário consegue operar o sistema?                                                          | Identificar problemas na interação e interface |
 | 08  | O usuário entende para que serve cada elemento de interface?                                  | Identificar problemas na interação e interface |
 
+<font size="2"><p style="text-align: center">Fonte:
+[Karolina Vieira](https://github.com/Karolina91)
 
 ## Cronograma
 

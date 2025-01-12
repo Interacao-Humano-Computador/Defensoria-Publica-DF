@@ -46,13 +46,21 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 <font size="2"><p style="text-align: center">Tabela 2: Sumario de perguntas</p></font>
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------: |
-| A história no HTA está alinhada com o título?|Sim                             
-| O HTA em análise reflete de forma precisa a realidade?  | Sim|
-| O HTA aborda adequadamente os principais aspectos da realização da tarefa em questão?|Sim|
-| As ações descritas no HTA seguem uma sêquencia lógica e fluida |Sim
-| O HTA apresenta elementos visuais identificavéis, como personagens, objetos e cenários? |Não|
+| Pergunta | Resposta |
+|--------------------------------------------------------------------------------------------------------------|:------:|
+| Os objetivos da tarefa estão claramente definidos no modelo? | Sim  |
+| As operações são realistas e compatíveis com a tarefa analisada? | Sim   |
+| As análises são de fácil entendimento?| Sim  |
+| As operações retratadas estão alinhadas com o título? | Sim  |
+| O modelo aborda adequadamente os principais aspectos da realização da tarefa? | Sim |
+| As ações descritas seguem uma sequência lógica e fluida? | Sim  |
+| A tarefa cumpre seu propósito? | Sim  |
+| O modelo apresenta elementos visuais identificáveis, como personagens, objetos e cenários? |  Não |
+| O nível de decomposição da tarefa é adequado para a análise proposta? | Sim  |
+| O modelo facilita a compreensão dos passos necessários para a realização da tarefa? | Sim  |
+| O modelo identifica corretamente decisões e alternativas dentro da tarefa? |  Não |
+| O modelo apresenta alguma falha grave na estruturação da tarefa? |  Não |
+| Tem alguma sugestão de melhoria do procesos? | Sim |
 
 <font size="2"><p style="text-align: center">Fonte:
 [ Karolina Vieira](https://github.com/Karolina91)

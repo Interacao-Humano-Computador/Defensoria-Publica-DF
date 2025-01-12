@@ -50,6 +50,8 @@ Não é necessário definir um limite de usuários para esse teste.
 | O modelo apresenta alguma falha grave na estruturação da tarefa? | Sim / Não |
 | Tem alguma sugestão de melhoria do procesos? | Sim / Não |
 
+<font size="2"><p style="text-align: center">Fonte:
+[Paola Nascimento](https://github.com/paolaalim)
 
 ## Questões Éticas
 
