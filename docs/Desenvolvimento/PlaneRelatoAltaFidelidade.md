@@ -66,12 +66,6 @@ Resumir os dados coletados em tabelas, gráficos ou outros formatos visuais, des
 ### **Planejamento de Reprojeto**
 Basear o reprojeto nas mudanças sugeridas e nos problemas encontrados durante a análise. Manter a essência do projeto original, ajustando apenas os elementos necessários.
 
-**Tabela 3 - Cronograma do Reprojeto**
-
-| Data                  | Horário   | Atividade                  |
-|-----------------------|-----------|----------------------------|
-| 3 dias após avaliação | Flexível  | Ajustes e refinamento do protótipo |
-
 
 ## Referências Bibliográficas
 BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.
