@@ -93,9 +93,9 @@ nav:
             - Planejamento do Relato dos Resultados do Protótipo de Papel: Desenvolvimento/Planejamento_resultados_prototipoPapel.md
             - Resultado do Relato do Protótipo de Papel: Desenvolvimento/Relato_prototipoPapel.md
     - Nível 3:
-        -Protótipo de Alta Fidelidade
-            - Planejamento do Protótipo de Alta Fidelidade: Desenvolvimento/
-            - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: Desenvolvimento/ PlaneRelatoAltaFidelidade.md
+        - Protótipo de Alta Fidelidade:
+            - Planejamento do Protótipo de Alta Fidelidade: Desenvolvimento/PlanejamentoAltaFidelidade.md
+            - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: Desenvolvimento/PlaneRelatoAltaFidelidade.md
   - Verificação:
       - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
       - Inspeção 2º etapa: Verificacao/inspecao_etapa2.md
