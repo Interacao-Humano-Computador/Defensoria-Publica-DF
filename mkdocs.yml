@@ -85,13 +85,17 @@ nav:
         - Storyboard:
             - Storyboards: Desenvolvimento/storyboards.md
             - Planejamento da avaliação do Storyboard: Desenvolvimento/planejamento_storyboard.md
-            - Planejamento do Relato do Storyboard: Desenvolvimento/Planejamento_relatodoStoryborad.md
+            - Planejamento do Relato dos Resultados do Storyboard: Desenvolvimento/Planejamento_relatodoStoryborad.md
             - Resultado do Relato do Storyboard: Desenvolvimento/resultado_Storyboard.md
     - Nível 2:
         - Protótipo de Papel:
             - Planejamento do Protótipo de Papel: Desenvolvimento/Planejamento_prototipoPapel.md
-            - Planejamento do Relato do Protótipo de Papel: Desenvolvimento/Planejamento_resultados_prototipoPapel.md
+            - Planejamento do Relato dos Resultados do Protótipo de Papel: Desenvolvimento/Planejamento_resultados_prototipoPapel.md
             - Resultado do Relato do Protótipo de Papel: Desenvolvimento/Relato_prototipoPapel.md
+    - Nível 3:
+        -Protótipo de Alta Fidelidade
+            - Planejamento do Protótipo de Alta Fidelidade: Desenvolvimento/
+            - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: Desenvolvimento/ PlaneRelatoAltaFidelidade.md
   - Verificação:
       - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
       - Inspeção 2º etapa: Verificacao/inspecao_etapa2.md
