@@ -69,10 +69,8 @@ O avaliador fornecerá um contexto breve e explicará os objetivos de cada taref
 
 | Data       | Atividade                              | Responsável         | Revisor        |
 |------------|----------------------------------------|---------------------|----------------|
-| 20/01/2025 | Entrega do protótipo de alta fidelidade | Equipe de Design    | Paola Nascimento |
-| 21/01/2025 | Aplicação do teste piloto              | Paola e João Pedro  | Bruno          |
-| 22-23/01/2025 | Realização da avaliação com participantes | Toda a equipe       | -              |
-| 24/01/2025 | Análise dos dados e elaboração do relatório | Paola e Bruno       | Ane Carolina   |
+|  |  |     | |
+
 
 ## Questões Éticas (D)
 
