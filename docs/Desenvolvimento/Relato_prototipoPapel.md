@@ -84,7 +84,7 @@ No Video 2 e Tabela 2 é possível verificar os registros feitos durante a avali
 [Assista ao vídeo no YouTube](https://youtu.be/0BaKN-wVO3Y)
 
 #### Fonte:
-[Karolina Vieira](https://github.com/Karolina91)
+[Paola Nascimento](https://github.com/paolaalim)
 
 <font size="2"><p style="text-align: center">Tabela 2: Sumário de perguntas</p></font>
 
