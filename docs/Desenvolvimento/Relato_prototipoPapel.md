@@ -33,13 +33,22 @@ O teste piloto é essencial para identificar possíveis falhas no processo de av
 
 ### Agendar uma consulta com o advogado 
 
-![Figura 1 - Tela Inicial](../assets/images/dpdf%201.jpg)<figcaption>Fonte: Karolina Vieira (2025)
+### Figura 1 - Tela Inicial
+![Figura 1 - Tela Inicial](../assets/images/dpdf%201.jpg)
+<figcaption>Fonte: Karolina Vieira (2025)</figcaption>
 
-![Figura 2 - Inserir Dados](../assets/images/protoripo2.jpg)<figcaption>Fonte: Karolina Vieira (2025)
+### Figura 2 - Inserir Dados
+![Figura 2 - Inserir Dados](../assets/images/protoripo2.jpg)
+<figcaption>Fonte: Karolina Vieira (2025)</figcaption>
 
-![Figura 3 - Selecionar Tipo de Atendimento](../assets/images/protoripo3.jpg)<figcaption>Fonte: Karolina Vieira (2025)
+### Figura 3 - Selecionar Tipo de Atendimento
+![Figura 3 - Selecionar Tipo de Atendimento](../assets/images/protoripo3.jpg)
+<figcaption>Fonte: Karolina Vieira (2025)</figcaption>
 
-![Figura 4 - Concluir Agendamento](../assets/images/protoripo4.jpg)<figcaption>Fonte: Karolina Vieira (2025)
+### Figura 4 - Concluir Agendamento
+![Figura 4 - Concluir Agendamento](../assets/images/protoripo4.jpg)
+<figcaption>Fonte: Karolina Vieira (2025)</figcaption>
+
 ### Registro da avaliação
 
 No Video 1 e Tabela 1 é possível verificar os registros feitos durante a avaliação.
@@ -54,12 +63,12 @@ No Video 1 e Tabela 1 é possível verificar os registros feitos durante a avali
 
 | Pergunta                                                                                                      | Resposta |
 | ------------------------------------------------------------------------------------------------------------- | :------: |
-| Que parte da interface e da interação deixa o usuário insatisfeito?|Nenhuma                           
-| O usuário entende para que sereve cada elemento de interface?  | Sim|
-| Há alternativas de desing mais efcientes? Mais fáceis de aprender? |Sim|
+| Que parte da interface e da interação te deixa insatisfeito?|Nenhuma                           
+| Você entende para que sereve cada elemento de interface?  | Sim|
+| Há alternativas de desing mais efcientes? Mais fáceis de aprender? |Não|
 | Os objetivos dos usuários podem ser alcançados facilmente através do sistema?|Sim
 | O protótipo apresenta uma sêquencia de tarefas condizente com a realidade? |Sim|
-|O usuário consegue operar o sistema?| Não|
+| Você consegue operar o sistema?| Sim|
 
 <font size="2"><p style="text-align: center">Fonte:
 [ Karolina Vieira](https://github.com/Karolina91)
@@ -69,13 +78,22 @@ No Video 1 e Tabela 1 é possível verificar os registros feitos durante a avali
 
 ### Inscrever-se no programa de estágio 
 
-![Figura 1 - Tela Inicial](../assets/images/telainicial.jpg)<figcaption>Fonte: Paola Nascimento (2025)
+### Figura 1 - Tela Inicial
+![Figura 1 - Tela Inicial](../assets/images/telainicial.jpg)
+<figcaption>Fonte: Paola Nascimento (2025)</figcaption>
 
-![Figura 2 - Tela de inscrição para o estágio](../assets/images/estagioremunerado.jpg)<figcaption>Fonte: Paola Nascimento (2025)
+### Figura 2 - Tela de Inscrição para o Estágio
+![Figura 2 - Tela de inscrição para o estágio](../assets/images/estagioremunerado.jpg)
+<figcaption>Fonte: Paola Nascimento (2025)</figcaption>
 
-![Figura 3 - Formulário de inscrição](../assets/images/formulario.jpg)<figcaption>Fonte: Paola Nascimento (2025)
+### Figura 3 - Formulário de Inscrição
+![Figura 3 - Formulário de inscrição](../assets/images/formulario.jpg)
+<figcaption>Fonte: Paola Nascimento (2025)</figcaption>
 
-![Figura 4 - Confirmação de envio do formulário](../assets/images/confirmacao.jpg)<figcaption>Fonte: Paola Nascimento (2025)
+### Figura 4 - Confirmação de Envio do Formulário
+![Figura 4 - Confirmação de envio do formulário](../assets/images/confirmacao.jpg)
+<figcaption>Fonte: Paola Nascimento (2025)</figcaption>
+
 ### Registro da avaliação
 
 No Video 2 e Tabela 2 é possível verificar os registros feitos durante a avaliação.
