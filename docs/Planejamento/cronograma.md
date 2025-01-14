@@ -156,6 +156,14 @@
 
 | Tarefa | Responsáveis | Início |  Fim  | Revisão Início | Revisão Fim | Revisor |
 | :----: | :----------: | :----: | :---: | :------------: | :---------: | :-----: |
+|           Planejamento da avaliação - Storyboard           |   Karolina Vieira   | 27/12/2024 | 27/12/2024 |   03/01/2025   | 03/01/2025  |   Paola Lima   |
+|       Planejamento da avaliação - Ánalise de Tarefas       |   Lucas Sales   | 05/12/2024 | 05/12/2024 |   06/12/2024   | 08/12/2024  |  Karolina Vieira   |
+|     Planejamento do relato dos resultados - Storyboard     | Karolina Vieira | 27/12/2024 | 27/12/2024 |   03/01/2025   | 03/01/2025  |   Paola Lima    |
+| Planejamento do relato dos resultados - Ánalise de Tarefas |   Paola Lima    | 06/12/2024 | 07/12/2024 |   08/12/2024   | 10/12/2024  | Karolina Vieira |
+|                      Entrega Parcial                       |      Paola Lima e Lucas Sales      | 07/12/2024 | 07/12/2024 |   08/12/2024   | 10/12/2024  |      Karolina Vieira e Paola Lima      |
+|                 Revisão da Entrega Parcial                 |      Paola Lima e Lucas Sales      | 08/12/2024 | 08/12/2024 |   09/12/2024   | 10/12/2024  |      Karolina Vieira      |
+|                       Revisão Final                        |      Paola Lima e Lucas Sales      | 09/12/2024 | 09/12/2024 |   10/12/2024   | 10/12/2024  |      Karolina Vieira e Paola Lima      |
+|                          Entrega                           |   Lucas Sales   | 10/12/2024 | 10/12/2024 |   10/12/2024   | 10/12/2024  |      Karolina Vieira      |
 
 <div id="etapa5" align="center" color="yellow"><h2>Etapa 5</h2></div>
 
@@ -178,7 +186,15 @@
 
 | Tarefa | Responsáveis | Início |  Fim  | Revisão Início | Revisão Fim | Revisor |
 | :----: | :----------: | :----: | :---: | :------------: | :---------: | :-----: |
-
+|                      Analise de Tarefas                      |   Paola Lima e Karolina Vieira   | 12/12/2024 | 13/12/2024 |   14/12/2024   | 16/12/2024  |   Paola Lima e Karolina Vieira   |
+|       Planejamento da avaliação do Protótipo de Papel        |   Karolina Vieira    | 14/12/2024 | 15/12/2024 |   16/12/2024   | 18/12/2024  | Paola Lima |
+| Resultado do Planejamento da Avaliação do Protótipo de Papel |   Paola Lima e Karolina Vieira   | 16/12/2024 | 17/12/2024 |   18/12/2024   | 20/12/2024  | Paola Lima e Karolina Vieira |
+|              StoryBoard - Relato dos Resultados              | Karolina Vieira e Paola Lima | 18/12/2024 | 19/12/2024 |   20/12/2024   | 24/12/2024  |   Karolina Vieira e Paola Lima    |
+| Protótipo de Papel -  Planejamento do relato dos resultados  |   Karolina Vieira   | 20/12/2024 | 23/12/2024 |   24/12/2024   | 28/12/2024  |   Lucas Sales   |
+|                       Entrega Parcial                        |      Paola Lima e Karolina Vieira      | 27/12/2024 | 27/12/2024 |   28/12/2024   | 03/01/2025  |      Karolina Vieira e Paola Lima      |
+|                  Revisão da Entrega Pacial                   |      Paola Lima e Karolina Vieira      | 28/12/2024 | 29/12/2024 |   03/01/2025   | 03/01/2025  |      Karolina Vieira e Paola Lima      |
+|                        Revisão Final                         |      Paola Lima e Karolina Vieira      | 03/01/2025 | 03/01/2025 |   04/01/2025   | 04/01/2025  |      Karolina Vieira e Paola Lima      |
+|                       Entrega Parcial                        |      Paola Lima      | 04/01/2025 | 04/01/2025 |   04/01/2025   | 04/01/2025  |      Todos      |
 
 <div id="etapa6" align="center" color="yellow"><h2>Etapa 6</h2></div>
 
@@ -197,6 +213,11 @@
 
 | Tarefa | Responsáveis | Início |  Fim  | Revisão Início | Revisão Fim | Revisor |
 | :----: | :----------: | :----: | :---: | :------------: | :---------: | :-----: |
+|     Relato dos resultados do Protótipo de Papel      |   Karolina Vieira e Paola Lima    | 08/01/2025 | 09/01/2025 |   09/01/2025   | 10/01/2025  | Karolina Vieira e Paola Lima |
+| Planejamento de relato de resultados do protótipo de Alta Fidelidade |   Karolina Vieira    | 08/01/2025 | 09/01/2025 |   09/01/2025   | 10/01/2025  |   Paola Lima  |
+|      Planejamento da Avaliação do protótipo de alta fidelidade       | Paola Lima | 10/01/2025 | 11/01/2025 |   11/01/2025   | 12/01/2025  |   Karolina Vieira    |
+|           Desenvolvimento do protótipo de alta fidelidade            |   Paola Lima e Karolina Vieira    | 11/01/2025 | 12/01/2025 |   12/01/2025   | 12/01/2025  | Karolina Vieira e Paola Lima |
+|          Gravação da apresentação dos resultados da etapa 6          |      Paola Lima e Karolina Vieira      | 12/01/2025 | 12/01/2025 |   12/01/2025   | 12/01/2025  |      Paola Lima e Karolina Vieira      |
 
 <div id="etapa7" align="center" color="yellow"><h2>Etapa 7</h2></div>
 
