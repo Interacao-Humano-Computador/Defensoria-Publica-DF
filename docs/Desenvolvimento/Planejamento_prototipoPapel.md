@@ -61,16 +61,14 @@ Os resultados obtidos a partir das avaliações propostas no cronograma serão a
 
 ## Roteiro de Perguntas
 
-| ID  | Descrição                                                                                      | Objetivo                               |
-|-----|------------------------------------------------------------------------------------------------|---------------------------------------|
-| 01  | O protótipo de papel apresenta tarefas condizentes com a realidade?                            | Verificar a conformidade com um padrão |
-| 02  | O protótipo apresenta uma sequência de tarefas condizente com a realidade?                     | Verificar a conformidade com um padrão |
-| 03  | De que maneira o usuário utiliza o sistema? Em que difere do planejado?                        | Analisar a apropriação da tecnologia   |
-| 04  | O quanto os usuários são motivados ou desejam explorar novas funcionalidades?                  | Analisar a apropriação da tecnologia   |
-| 05  | Há alternativas de design mais eficientes? Mais fáceis de aprender?                           | Comparar ideias e alternativas de design |
-| 06  | Qual das alternativas de design os usuários preferem (atual ou proposta no protótipo)? Por quê?| Comparar ideias e alternativas de design |
-| 07  | O usuário consegue operar o sistema?                                                          | Identificar problemas na interação e interface |
-| 08  | O usuário entende para que serve cada elemento de interface?                                  | Identificar problemas na interação e interface |
+| Pergunta                                                                                                      | Resposta |
+| ------------------------------------------------------------------------------------------------------------- | :------: |
+| Que parte da interface e da interação te deixa insatisfeito?|                           
+| Você entende para que sereve cada elemento de interface?  | |
+| Há alternativas de desing mais efcientes? Mais fáceis de aprender? ||
+| Os objetivos dos usuários podem ser alcançados facilmente através do sistema?|
+| O protótipo apresenta uma sêquencia de tarefas condizente com a realidade? ||
+| Você consegue operar o sistema?||
 
 <font size="2"><p style="text-align: center">**Fonte**:
 Barbosa, S. D. J., & Silva, B. S. (2011). Interação humano-computador. Rio de Janeiro: Elsevier. Capítulo 11, p. 266.
@@ -80,8 +78,8 @@ Barbosa, S. D. J., & Silva, B. S. (2011). Interação humano-computador. Rio de 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
 |------------------------|---------------------|-----------------------|--------------------|----------------|
 | Karolina Vieira        | Fernanda Alves     | 15:00                | 16:00             | 09/01/2025     |
-| Lucas Sales            |                     |                       |                    |                |
-| Paola Rebeca           |                     |                       |                    |                |
+| Paola Nascimento       |    Dayene          |         17:00        |    17:30          | 10/01/2025     |
+
 
 
 ## Bibliografia
