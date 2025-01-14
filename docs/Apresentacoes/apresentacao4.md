@@ -7,14 +7,14 @@
 ## Artefatos realizados:  
 
 <ol>
-<li>Relato dos resultados do Storyboard</li>
-<li>Relato dos resultados da Análise de tarefas </li>
-<li>Planejamento da Avaliação do Protótipo de Papel</li>
-<li>Planejamento do relato dos resultados da avaliação do Protótipo de Papel</li>
+<li>Planejamento da Avaliação do Storyboard</li>
+<li>Planejamento da Avaliação da Análise de tarefas </li>
+<li>Planejamento do relato dos resultados da avaliação do Storyboard</li>
+<li>Planejamento do relato dos resultados da avaliação da Análise de tarefas </li>
 </ol>
 
 Link para o vídeo da apresentação:
-[Apresentação](link)
+[Apresentação]([link](https://unbbr.sharepoint.com/:v:/s/IHC_reunies/ETWx55-M5oFPiLY80peypIIBbOg6DGeC959SFDxenNIYgg?e=QI1Xfp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
 
 ## Referências Bibliográficas
 
