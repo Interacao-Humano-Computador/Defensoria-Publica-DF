@@ -2,7 +2,7 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  27/12/2024    |        03/01/2025          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 
-# Planejamento do Relato do Protótipo de Papel
+# Planejamento do Relato Dos Resultados do Protótipo de Papel
 
 ## Introdução
 Este documento tem como objetivo detalhar o planejamento para o tratamento dos dados coletados durante a avaliação, bem como levantar informações e demandas relacionadas ao sistema avaliado.
@@ -33,6 +33,9 @@ Todos os problemas encontrados pelo usuário devem ser listados, seja na aplica�
 
 ## Sugestões
 Sugestões de melhorias ou correções de problemas mencionadas pelos usuários durante a avaliação devem ser documentadas.
+
+### Planejamento de Reprojeto
+Basear o reprojeto nas mudanças sugeridas e nos problemas encontrados durante a análise. Manter a essência do projeto original, ajustando apenas os elementos necessários.
 
 ## Conclusão
 Os avaliadores devem consolidar suas constatações em um documento contendo:

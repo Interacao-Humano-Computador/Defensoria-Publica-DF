@@ -28,40 +28,58 @@ O framework DECIDE será utilizado para guiar o planejamento, execução e anál
 
 O método de avaliação escolhido para lidar com o protótipo de papel foi a entrevista. Esse método irá promover dados a partir do ponto de vista do usuário.
 
-## Objetivos
+## D - Objetivos
 Os principais pontos a serem avaliados, seguindo o modelo proposto pelo DECIDE, são:
 Apropriação de tecnologia pelos usuários;
 Ideias e alternativas de design;
 Conformidade com um padrão;
 Problemas na interação e na interface.
 
-## Método de Avaliação
-A entrevista foi escolhida como método de avaliação adequado para o Protótipo de Papel. Esse método será realizado de forma presencial. Para iniciar a avaliação, deverá ser apresentado ao usuário um termo de consentimento e, em seguida e caso o termo seja aceito, será apresentada a proposta do projeto, a apresentação do protótipo e das tarefas a serem realizadas; por fim, haverá a realização de um questionário. 
+## E - Explorar Perguntas
 
-| ID  | Descrição                                                                                      | Objetivo                               |
-|-----|------------------------------------------------------------------------------------------------|---------------------------------------|
-| 01  | O protótipo de papel apresenta tarefas condizentes com a realidade?                            | Verificar a conformidade com um padrão |
-| 02  | O protótipo apresenta uma sequência de tarefas condizente com a realidade?                     | Verificar a conformidade com um padrão |
-| 03  | De que maneira o usuário utiliza o sistema? Em que difere do planejado?                        | Analisar a apropriação da tecnologia   |
-| 04  | O quanto os usuários são motivados ou desejam explorar novas funcionalidades?                  | Analisar a apropriação da tecnologia   |
-| 05  | Há alternativas de design mais eficientes? Mais fáceis de aprender?                           | Comparar ideias e alternativas de design |
-| 06  | Qual das alternativas de design os usuários preferem (atual ou proposta no protótipo)? Por quê?| Comparar ideias e alternativas de design |
-| 07  | O usuário consegue operar o sistema?                                                          | Identificar problemas na interação e interface |
-| 08  | O usuário entende para que serve cada elemento de interface?                                  | Identificar problemas na interação e interface |
+Com base no objetivo da avaliação foram preparadas perguntas baseadas nos seguintes tópicos:
+
+- Verificar a conformidade com um padrão;
+- Comparar ideias e alternativas de design;
+- Identificar problemas na interação e interface.
+
+
+## C - Método de Avaliação
+
+A entrevista foi escolhida como método de avaliação adequado para o Protótipo de Papel. Esse método será realizado de forma presencial. Para iniciar a avaliação, deverá ser apresentado ao usuário um termo de consentimento e, em seguida e caso o termo seja aceito, será apresentada a proposta do projeto, a apresentação do protótipo e das tarefas a serem realizadas. 
+
+## I - Identificar e administrar as questões práticas da avaliação
+
+Recrutaremos participantes que se encaixem no perfil de usuários da Defensoria Pública do Distrito Federal (DPDF), considerando fatores como idade, nível de instrução, frequência de interação com serviços públicos, e familiaridade com o uso de plataformas digitais. Esses critérios garantirão que os participantes representem adequadamente o público-alvo da DPDF, incluindo pessoas que buscam assistência jurídica gratuita e que utilizam o site ou outros canais digitais da instituição.
+
+## D - Aspectos Éticos
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o Termo de Consentimento. O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel sendo elaborado considerando os Aspectos Éticos para garantir o bem-estar e o respeito ao voluntário participante.
+
+## E - Avaliação dos Resultados
+
+Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados como disposto no documento de Planejamento do Relato de Resultados. Caso necessário, o protótipo sofrerá modificações após a avaliação dos resultados, adequando-se às melhorias necessárias.
+
+## Roteiro de Perguntas
+
+| Pergunta                                                                                                      | Resposta |
+| ------------------------------------------------------------------------------------------------------------- | :------: |
+| Que parte da interface e da interação te deixa insatisfeito?|                           
+| Você entende para que sereve cada elemento de interface?  | |
+| Há alternativas de desing mais efcientes? Mais fáceis de aprender? ||
+| Os objetivos dos usuários podem ser alcançados facilmente através do sistema?|
+| O protótipo apresenta uma sêquencia de tarefas condizente com a realidade? ||
+| Você consegue operar o sistema?||
+
+<font size="2"><p style="text-align: center">**Fonte**:
+Barbosa, S. D. J., & Silva, B. S. (2011). Interação humano-computador. Rio de Janeiro: Elsevier. Capítulo 11, p. 266.
 
 ## Cronograma
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
 |------------------------|---------------------|-----------------------|--------------------|----------------|
 | Karolina Vieira        | Fernanda Alves     | 15:00                | 16:00             | 09/01/2025     |
-| Lucas Sales            |                     |                       |                    |                |
-| Paola Rebeca           |                     |                       |                    |                |
+| Paola Nascimento       |    Dayene          |         17:00        |    17:30          | 10/01/2025     |
 
-## Aspectos Éticos
-Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o Termo de Consentimento. O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel sendo elaborado considerando os Aspectos Éticos para garantir o bem-estar e o respeito ao voluntário participante.
-
-## Avaliação dos Resultados
-Os resultados obtidos a partir das avaliações propostas no cronograma serão analisados como disposto no documento de Planejamento do Relato de Resultados. Caso necessário, o protótipo sofrerá modificações após a avaliação dos resultados, adequando-se às melhorias necessárias.
 
 
 ## Bibliografia

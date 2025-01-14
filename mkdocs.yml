@@ -66,6 +66,7 @@ nav:
     - Apresentação etapa 1: Apresentacoes/apresentacao1.md
     - Apresentação etapa 2: Apresentacoes/apresentacao2.md
     - Apresentação etapa 3: Apresentacoes/apresentacao3.md
+    - Apresentação etapa 5: Apresentacoes/apresentacao5.md
   - Análise de Requisitos:
     - Perfil de Usuário: Analise/perfilUsuario.md
     - Personas: Analise/personas.md
@@ -84,17 +85,23 @@ nav:
         - Storyboard:
             - Storyboards: Desenvolvimento/storyboards.md
             - Planejamento da avaliação do Storyboard: Desenvolvimento/planejamento_storyboard.md
-            - Planejamento do Relato do Storyboard: Desenvolvimento/Planejamento_relatodoStoryborad.md
+            - Planejamento do Relato dos Resultados do Storyboard: Desenvolvimento/Planejamento_relatodoStoryborad.md
             - Resultado do Relato do Storyboard: Desenvolvimento/resultado_Storyboard.md
     - Nível 2:
         - Protótipo de Papel:
             - Planejamento do Protótipo de Papel: Desenvolvimento/Planejamento_prototipoPapel.md
-            - Planejamento do Relato do Protótipo de Papel: Desenvolvimento/Planejamento_resultados_prototipoPapel.md
+            - Planejamento do Relato dos Resultados do Protótipo de Papel: Desenvolvimento/Planejamento_resultados_prototipoPapel.md
+            - Resultado do Relato do Protótipo de Papel: Desenvolvimento/Relato_prototipoPapel.md
+    - Nível 3:
+        - Protótipo de Alta Fidelidade:
+            - Planejamento do Protótipo de Alta Fidelidade: Desenvolvimento/PlanejamentoAltaFidelidade.md
+            - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: Desenvolvimento/PlaneRelatoAltaFidelidade.md
   - Verificação:
       - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
       - Inspeção 2º etapa: Verificacao/inspecao_etapa2.md
       - Inspeção 3º etapa: Verificacao/inspecao_etapa3.md
       - Inspeção 4ª etapa: Verificacao/inpecao_etapa4.md 
+      - Inspeção 5º etapa: Verificacao/inspecao_etapa5.md
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
     - Como contribuir?: Contribuição/Tutorial.md

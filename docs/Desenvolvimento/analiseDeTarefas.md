@@ -42,12 +42,16 @@ Não é necessário definir um limite de usuários para esse teste.
 | As operações retratadas estão alinhadas com o título? | Sim / Não |
 | O modelo aborda adequadamente os principais aspectos da realização da tarefa? | Sim / Não |
 | As ações descritas seguem uma sequência lógica e fluida? | Sim / Não |
+| A tarefa cumpre seu propósito? | Sim / Não |
 | O modelo apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim / Não |
 | O nível de decomposição da tarefa é adequado para a análise proposta? | Sim / Não |
 | O modelo facilita a compreensão dos passos necessários para a realização da tarefa? | Sim / Não |
 | O modelo identifica corretamente decisões e alternativas dentro da tarefa? | Sim / Não |
 | O modelo apresenta alguma falha grave na estruturação da tarefa? | Sim / Não |
+| Tem alguma sugestão de melhoria do procesos? | Sim / Não |
 
+<font size="2"><p style="text-align: center">Fonte:
+[Paola Nascimento](https://github.com/paolaalim)
 
 ## Questões Éticas
 

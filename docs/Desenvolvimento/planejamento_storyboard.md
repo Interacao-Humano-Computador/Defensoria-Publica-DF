@@ -37,6 +37,9 @@ O Framework DECIDE Preece et al. (2002) propõem um framework chamado DECIDE par
 | Há alguma parte do storyboard que parece confusa ou desnecessária?              |   ⬜    |   ⬜    |
 | O storyboard apresenta alguma falha grave na narrativa ou no design?            |   ⬜    |   ⬜    |
 
+<font size="2"><p style="text-align: center">Fonte:
+[Karolina Vieira](https://github.com/Karolina91)
+
 ## Método de avaliação 
 
 O método de pesquisa escolhido foi a entrevista, devido à sua habilidade de extrair percepções profundas e completas diretamente dos participantes. Esta metodologia é perfeita para avaliar estratégias de narrativa, pois possibilita compreender não somente a performance técnica do material, mas também as ideias, emoções e expectativas do público-alvo ou do grupo envolvido no projeto.
