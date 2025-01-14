@@ -7,10 +7,9 @@
 ## Artefatos realizados:  
 
 <ol>
-<li>Relato dos resultados do Storyboard</li>
-<li>Relato dos resultados da Análise de tarefas </li>
-<li>Planejamento da Avaliação do Protótipo de Papel</li>
-<li>Planejamento do relato dos resultados da avaliação do Protótipo de Papel</li>
+<li>Relato dos resultados do Protótipo de Papel</li>
+<li>Planejamento da Avaliação do protótipo de alta fidelidade</li>
+<li>Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</li>
 </ol>
 
 Link para o vídeo da apresentação:
