@@ -118,6 +118,12 @@ No Video 2 e Tabela 2 é possível verificar os registros feitos durante a avali
 <font size="2"><p style="text-align: center">Fonte:
 [Paola Nascimento](https://github.com/paolaalim)
 
+## Conclusão
+
+A partir da análise dos relato dos resultados do protótipo de papel sobre e inscrever no estágio da DPDF, é possivel perceber que a entrevistada não apresentou dificuldades ao interagir com o protótipo, não tendo ocorrido erros ao longo do processo, nem sugestões de melhoraria de design ou modo de acessar operações. 
+
+
+
 
 
 
