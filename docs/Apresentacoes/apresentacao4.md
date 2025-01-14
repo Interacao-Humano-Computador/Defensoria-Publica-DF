@@ -4,7 +4,7 @@
 | 14/01/2025 |        14/01/2025        |  1.0   | Criação do Documento | [Paola Nascimento](https://github.com/paolaalim) |          [Karolina Vieira](https://github.com/Karolina91)   |
 
 
-##Artefatos realizados:  
+## Artefatos realizados:  
 
 <ol>
 <li>Relato dos resultados do Storyboard</li>
