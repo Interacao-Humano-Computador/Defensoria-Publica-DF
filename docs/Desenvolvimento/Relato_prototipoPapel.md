@@ -37,13 +37,16 @@ O teste piloto é essencial para identificar possíveis falhas no processo de av
 ![Figura 1 - Tela Inicial](../assets/images/dpdf%201.jpg)
 <figcaption>Fonte: Karolina Vieira (2025)</figcaption>
 
+
 ### Figura 2 - Inserir Dados
 ![Figura 2 - Inserir Dados](../assets/images/protoripo2.jpg)
 <figcaption>Fonte: Karolina Vieira (2025)</figcaption>
 
+
 ### Figura 3 - Selecionar Tipo de Atendimento
 ![Figura 3 - Selecionar Tipo de Atendimento](../assets/images/protoripo3.jpg)
 <figcaption>Fonte: Karolina Vieira (2025)</figcaption>
+
 
 ### Figura 4 - Concluir Agendamento
 ![Figura 4 - Concluir Agendamento](../assets/images/protoripo4.jpg)
