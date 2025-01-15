@@ -13,7 +13,7 @@
 </ol>
 
 Link para o vídeo da apresentação:
-[Apresentação](link)
+[Apresentação](https://unbbr.sharepoint.com/:v:/r/sites/IHC_reunies/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20250114_232320-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?csf=1&web=1&e=WOfKam)
 
 ## Referências Bibliográficas
 
