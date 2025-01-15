@@ -123,7 +123,9 @@ No Video 2 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 ## Análise da avaliação
 
-A partir da análise dos relato dos resultados do protótipo de papel sobre e inscrever no estágio da DPDF, é possivel perceber que a entrevistada não apresentou dificuldades ao interagir com o protótipo, não tendo ocorrido erros ao longo do processo, nem sugestões de melhoraria de design ou modo de acessar operações. 
+A partir da análise dos relato dos resultados do protótipo de papel sobre e inscrever no estágio da DPDF, é possivel perceber que a entrevistada não apresentou dificuldades ao interagir com o protótipo, não tendo ocorrido erros ao longo do processo, nem sugestões de melhoraria de design ou modo de acessar operações.
+ 
+A análise dos relatos sobre os resultados do protótipo de papel para inscrição no estágio da DPDF revela que a entrevistada não apresentou dificuldades durante a interação com o protótipo. Não foram identificados erros ao longo do processo, tampouco foram feitas sugestões de melhorias no design ou na forma de acessar as operações.
 
 
 
