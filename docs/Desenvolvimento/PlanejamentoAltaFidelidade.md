@@ -37,7 +37,7 @@ A avaliação deverá responder às seguintes perguntas:
 | 03  | Qual o seu nível de escolaridade?                                         |
 | 04  | Quantos anos o sr(a). tem?                                                |
 | 05  | Já precisou de algum tipo de ajuda para utilizar o sistema?               |
-| 06  | Você (usuário) utiliza o Simples Nacional com qual frequência?            |
+| 06  | Você (usuário) utiliza o site da DPDF com qual frequência?            |
 | 07  | Você (usuário) acredita que o site atual tem um design agradável?         |
 | 08  | Você (usuário) acredita que o site atual é intuitivo?                     |
 | 09  | Você (usuário) possui necessidades e/ou desejos não atendidos pelo site atual? |
