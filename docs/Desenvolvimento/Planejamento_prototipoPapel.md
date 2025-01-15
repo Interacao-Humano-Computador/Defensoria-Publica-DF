@@ -73,6 +73,14 @@ Os resultados obtidos a partir das avaliações propostas no cronograma serão a
 <font size="2"><p style="text-align: center">Fonte:
 [ Karolina Vieira](https://github.com/Karolina91)
 
+## Teste Piloto
+
+Antes de realizar as entrevistas principais, conduzimos um teste piloto para validar o roteiro e identificar ajustes necessários. Um participante com perfil semelhante ao público-alvo foi convidado para avaliar a clareza das perguntas, o fluxo da entrevista, o tempo necessário e possíveis dificuldades. Os resultados permitiram otimizar o processo, garantindo maior eficácia nas entrevistas principais.
+
+### Video 1: Gravação do teste
+
+[Assista ao vídeo no YouTube](https://youtu.be/LzxcdZf7QRA)
+
 
 ## Cronograma
 
