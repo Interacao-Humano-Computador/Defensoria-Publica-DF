@@ -7,14 +7,13 @@
 ## Artefatos realizados:  
 
 <ol>
-<li>Relato dos resultados do Storyboard</li>
-<li>Relato dos resultados da Análise de tarefas </li>
-<li>Planejamento da Avaliação do Protótipo de Papel</li>
-<li>Planejamento do relato dos resultados da avaliação do Protótipo de Papel</li>
+<li>Relato dos resultados do Protótipo de Papel</li>
+<li>Planejamento da Avaliação do protótipo de alta fidelidade</li>
+<li>Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</li>
 </ol>
 
 Link para o vídeo da apresentação:
-[Apresentação](https://unbbr.sharepoint.com/sites/IHC_reunies/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20250106_132158-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)
+[Apresentação](link)
 
 ## Referências Bibliográficas
 
