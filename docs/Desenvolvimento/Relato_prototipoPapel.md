@@ -29,6 +29,11 @@ Antes de realizar as entrevistas, duas etapas fundamentais devem ser concluídas
 
 O teste piloto é essencial para identificar possíveis falhas no processo de avaliação e ajustar aspectos que possam comprometer a coleta de dados. Caso essa etapa seja ignorada, há um risco significativo de invalidar as informações obtidas durante a entrevista definitiva.  
 
+## Seleção dos Participantes 
+
+Selecionamos os participantes com base em um alinhamento cuidadoso ao nosso perfil de usuário. Essa seleção é feita para garantir que as experiências, interações e resultados estejam sempre de acordo com nossos objetivos.
+
+
 ## Prototipo de Papel
 
 ### Agendar uma consulta com o advogado 
@@ -77,6 +82,10 @@ No Video 1 e Tabela 1 é possível verificar os registros feitos durante a avali
 [ Karolina Vieira](https://github.com/Karolina91)
 
 
+## Sugestão de Melhorias 
+
+Após a análise do protótipo de papel, não foram identificadas sugestões de melhorias. O material foi considerado adequado para os objetivos propostos, atendendo às expectativas iniciais e alinhado aos requisitos estabelecidos
+
 ## Prototipo de Papel
 
 ### Inscrever-se no programa de estágio 
@@ -121,11 +130,12 @@ No Video 2 e Tabela 2 é possível verificar os registros feitos durante a avali
 <font size="2"><p style="text-align: center">Fonte:
 [Paola Nascimento](https://github.com/paolaalim)
 
+
 ## Análise da avaliação
 
 A partir da análise dos relato dos resultados do protótipo de papel sobre e inscrever no estágio da DPDF, é possivel perceber que a entrevistada não apresentou dificuldades ao interagir com o protótipo, não tendo ocorrido erros ao longo do processo, nem sugestões de melhoraria de design ou modo de acessar operações.
  
-A análise dos relatos sobre os resultados do protótipo de papel para inscrição no estágio da DPDF revela que a entrevistada não apresentou dificuldades durante a interação com o protótipo. Não foram identificados erros ao longo do processo, tampouco foram feitas sugestões de melhorias no design ou na forma de acessar as operações.
+A análise dos relatos sobre os resultados do protótipo de papel para uma consulta com advogado da DPDF revela que a entrevistada não apresentou dificuldades durante a interação com o protótipo. Não foram identificados erros ao longo do processo, tampouco foram feitas sugestões de melhorias no design ou na forma de acessar as operações.
 
 
 
