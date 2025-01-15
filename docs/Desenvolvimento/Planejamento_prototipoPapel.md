@@ -63,15 +63,24 @@ Os resultados obtidos a partir das avaliações propostas no cronograma serão a
 
 | Pergunta                                                                                                      | Resposta |
 | ------------------------------------------------------------------------------------------------------------- | :------: |
-| Que parte da interface e da interação te deixa insatisfeito?|                           
-| Você entende para que sereve cada elemento de interface?  | |
-| Há alternativas de desing mais efcientes? Mais fáceis de aprender? ||
-| Os objetivos dos usuários podem ser alcançados facilmente através do sistema?|
-| O protótipo apresenta uma sêquencia de tarefas condizente com a realidade? ||
-| Você consegue operar o sistema?||
+| Que parte da interface e da interação te deixa insatisfeito?|sim/não                          
+| Você entende para que sereve cada elemento de interface?  | Sim/não |
+| Há alternativas de desing mais efcientes? Mais fáceis de aprender? |Sim/Não|
+| Os objetivos dos usuários podem ser alcançados facilmente através do sistema?|Sim/Não
+| O protótipo apresenta uma sêquencia de tarefas condizente com a realidade? |Sim/Não|
+| Você consegue operar o sistema?| Sim/Não|
 
-<font size="2"><p style="text-align: center">**Fonte**:
-Barbosa, S. D. J., & Silva, B. S. (2011). Interação humano-computador. Rio de Janeiro: Elsevier. Capítulo 11, p. 266.
+<font size="2"><p style="text-align: center">Fonte:
+[ Karolina Vieira](https://github.com/Karolina91)
+
+## Teste Piloto
+
+Antes de realizar as entrevistas principais, conduzimos um teste piloto para validar o roteiro e identificar ajustes necessários. Um participante com perfil semelhante ao público-alvo foi convidado para avaliar a clareza das perguntas, o fluxo da entrevista, o tempo necessário e possíveis dificuldades. Os resultados permitiram otimizar o processo, garantindo maior eficácia nas entrevistas principais.
+
+### Video 1: Gravação do teste
+
+[Assista ao vídeo no YouTube](https://youtu.be/LzxcdZf7QRA)
+
 
 ## Cronograma
 

@@ -70,6 +70,16 @@ Diante das explicações, você acha que está suficientemente informado(a) a re
 
 Sim
 Não
+
+## Teste Piloto
+
+Antes de realizar as entrevistas principais, conduzimos um teste piloto para validar o roteiro e identificar ajustes necessários. Um participante com perfil semelhante ao público-alvo foi convidado para avaliar a clareza das perguntas, o fluxo da entrevista, o tempo necessário e possíveis dificuldades. Os resultados permitiram otimizar o processo, garantindo maior eficácia nas entrevistas principais.
+
+### Video 1: Gravação do teste
+
+[Assista ao vídeo no YouTube](https://youtu.be/QlN9-J9gJVA)
+
+
 ## Bibliografia
 
 [1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.

@@ -134,6 +134,14 @@ O relatório final incluirá:
 
 Este planejamento segue uma abordagem sistemática e ética, garantindo que os dados coletados sejam representativos e úteis para melhorias na interface do site da DPDF.
 
+## Teste Piloto
+
+Antes de realizar as entrevistas principais, conduzimos um teste piloto para validar o roteiro e identificar ajustes necessários. Um participante com perfil semelhante ao público-alvo foi convidado para avaliar a clareza das perguntas, o fluxo da entrevista, o tempo necessário e possíveis dificuldades. Os resultados permitiram otimizar o processo, garantindo maior eficácia nas entrevistas principais.
+
+### Video 1: Gravação do teste
+
+[Assista ao vídeo no YouTube](link)
+
 
 ## Bibliografia
 [1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.
