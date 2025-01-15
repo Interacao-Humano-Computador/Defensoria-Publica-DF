@@ -28,16 +28,6 @@ O objetivo principal da avaliação é verificar a usabilidade do site da DPDF p
 
 A avaliação deverá responder às seguintes perguntas:
 
-- Os usuários conseguem realizar as tarefas designadas com sucesso?
-- Quais elementos de interface geram dúvidas ou dificuldades?
-- O sistema atende às expectativas e necessidades dos usuários?
-- Há padrões de acessibilidade sendo respeitados?
-- Quais problemas dificultam a navegação e como eles se manifestam?
-
-## Metodologia (C)
-
-A avaliação será conduzida por meio de testes de usabilidade realizados em um ambiente controlado. Esse método foi escolhido por possibilitar a observação direta dos participantes, garantindo dados detalhados sobre o uso do protótipo. Em seguida, o entrevistador realizará um questionário e ao final dele, o usuário terá um momento para que faça comentários sobre problemas e sugestões de melhorias acerca do protótipo e suas atividades.
-
 <font size="2"><p style="text-align: center">Tabela 1: Questionário</p></font>
 
 | ID  | Descrição                                                                 |
@@ -61,6 +51,10 @@ A avaliação será conduzida por meio de testes de usabilidade realizados em um
 
 <font size="2"><p style="text-align: center">Fonte:
 [Simples Nacional](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoProtAlta/)
+
+## Metodologia (C)
+
+A avaliação será conduzida por meio de testes de usabilidade realizados em um ambiente controlado. Esse método foi escolhido por possibilitar a observação direta dos participantes, garantindo dados detalhados sobre o uso do protótipo. Em seguida, o entrevistador realizará um questionário e ao final dele, o usuário terá um momento para que faça comentários sobre problemas e sugestões de melhorias acerca do protótipo e suas atividades.
 
 Os testes seguirão um roteiro estruturado e envolverão tarefas representativas do uso cotidiano do site. Durante a avaliação, serão coletados dados qualitativos (observações e feedback verbal) e quantitativos (tempo de execução e número de erros).
 
