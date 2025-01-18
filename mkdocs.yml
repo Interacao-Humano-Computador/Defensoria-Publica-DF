@@ -90,11 +90,13 @@ nav:
             - Resultado do Relato do Storyboard: Desenvolvimento/resultado_Storyboard.md
     - Nível 2:
         - Protótipo de Papel:
+            - Protótipos de Papel: Desenvolvimento/ProtiposdePapel.md
             - Planejamento do Protótipo de Papel: Desenvolvimento/Planejamento_prototipoPapel.md
             - Planejamento do Relato dos Resultados do Protótipo de Papel: Desenvolvimento/Planejamento_resultados_prototipoPapel.md
             - Resultado do Relato do Protótipo de Papel: Desenvolvimento/Relato_prototipoPapel.md
     - Nível 3:
         - Protótipo de Alta Fidelidade:
+            - Protótipos de Alta Fidelidade: Desenvolvimento/PrototipoAlta.md
             - Planejamento do Protótipo de Alta Fidelidade: Desenvolvimento/PlanejamentoAltaFidelidade.md
             - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: Desenvolvimento/PlaneRelatoAltaFidelidade.md
   - Verificação:

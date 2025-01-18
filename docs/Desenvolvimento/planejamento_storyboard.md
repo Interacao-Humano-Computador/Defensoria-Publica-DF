@@ -22,20 +22,15 @@ O Framework DECIDE Preece et al. (2002) propõem um framework chamado DECIDE par
 | **E**     | Avaliar (Evaluate), interpretar e apresentar os dados.                      |
 
 ### Roteiro de Perguntas:
+| **Objetivo**                                             | **Pergunta**                                                                    | **Resposta** |
+|----------------------------------------------------------|---------------------------------------------------------------------------------|:------------:|
+| **Identificação de Problemas de Interação e Interface**  | O storyboard é claro e fácil de entender?                                       | Sim          |
+| **Identificação de Problemas de Interação e Interface**  | Os elementos visuais do storyboard ajudam a transmitir a mensagem?              | Sim/Não      |
+| **Identificação de Problemas de Interação e Interface**  | As transições entre os quadros estão coerentes?                                 | Sim/Não      |
+| **Apropriação da Tecnologia**                            | O storyboard reflete bem os objetivos do projeto?                               | Sim/Não      |
+| **Apropriação da Tecnologia**                            | Cada quadro contribui para alcançar os objetivos definidos?                     | Sim/Não      |
+| **Identificação de Problemas de Interação e Interface**  | O storyboard apresenta alguma falha grave na narrativa ou no design?            | Sim/Não      |
 
-| **Pergunta**                                                                    | **Sim** | **Não** |
-|---------------------------------------------------------------------------------|:-------:|:-------:|
-| O storyboard é claro e fácil de entender?                                       |   ⬜    |   ⬜    |
-| Os elementos visuais do storyboard ajudam a transmitir a mensagem?              |   ⬜    |   ⬜    |
-| As transições entre os quadros estão coerentes?                                 |   ⬜    |   ⬜    |
-| O storyboard atende às expectativas do público-alvo?                            |   ⬜    |   ⬜    |
-| As ações ou comportamentos dos personagens são realistas para o contexto?       |   ⬜    |   ⬜    |
-| O storyboard reflete bem os objetivos do projeto?                               |   ⬜    |   ⬜    |
-| Cada quadro contribui para alcançar os objetivos definidos?                     |   ⬜    |   ⬜    |
-| O layout dos quadros é organizado e consistente?                                |   ⬜    |   ⬜    |
-| As cores e os elementos visuais são adequados ao propósito?                     |   ⬜    |   ⬜    |
-| Há alguma parte do storyboard que parece confusa ou desnecessária?              |   ⬜    |   ⬜    |
-| O storyboard apresenta alguma falha grave na narrativa ou no design?            |   ⬜    |   ⬜    |
 
 <font size="2"><p style="text-align: center">Fonte:
 [Karolina Vieira](https://github.com/Karolina91)
@@ -53,7 +48,6 @@ Aqui está a tabela atualizada sem a coluna "Local":
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
 |------------------------|---------------------|-----------------------|--------------------|----------------|
 | Karolina Vieira        | Fernanda Alves      | 15:00                | 15:30             | 02/01/2025     |
-| Lucas Sales            |                     |                      |                   |                |
 | Paola Rebeca           | Vanda Rabelo        |   12:00              |    12:30          |   04/01/2025   |
 
 

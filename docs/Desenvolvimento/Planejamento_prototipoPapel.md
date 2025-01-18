@@ -53,6 +53,7 @@ A entrevista foi escolhida como método de avaliação adequado para o Protótip
 Recrutaremos participantes que se encaixem no perfil de usuários da Defensoria Pública do Distrito Federal (DPDF), considerando fatores como idade, nível de instrução, frequência de interação com serviços públicos, e familiaridade com o uso de plataformas digitais. Esses critérios garantirão que os participantes representem adequadamente o público-alvo da DPDF, incluindo pessoas que buscam assistência jurídica gratuita e que utilizam o site ou outros canais digitais da instituição.
 
 ## D - Aspectos Éticos
+
 Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o Termo de Consentimento. O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel sendo elaborado considerando os Aspectos Éticos para garantir o bem-estar e o respeito ao voluntário participante.
 
 ## E - Avaliação dos Resultados
@@ -61,14 +62,15 @@ Os resultados obtidos a partir das avaliações propostas no cronograma serão a
 
 ## Roteiro de Perguntas
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------: |
-| Que parte da interface e da interação te deixa insatisfeito?|sim/não                          
-| Você entende para que sereve cada elemento de interface?  | Sim/não |
-| Há alternativas de desing mais efcientes? Mais fáceis de aprender? |Sim/Não|
-| Os objetivos dos usuários podem ser alcançados facilmente através do sistema?|Sim/Não
-| O protótipo apresenta uma sêquencia de tarefas condizente com a realidade? |Sim/Não|
-| Você consegue operar o sistema?| Sim/Não|
+| Objetivo                                                                                                     | Pergunta                                                                                                      | Resposta |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | :------: |
+| Ideias e Alternativas de Design | Que parte da interface e da interação te deixa insatisfeito?                                                 | Sim/Não  |
+| Ideias e Alternativas de Design| Você entende para que serve cada elemento de interface?                                                      | Sim/Não  |
+| Ideias e Alternativas de Design | Há alternativas de design mais eficientes? Mais fáceis de aprender?                                          | Sim/Não  |
+|Problemas na Interação e Interface | Os objetivos dos usuários podem ser alcançados facilmente através do sistema?                                | Sim/Não  |
+| Problemas na Interação e Interface | O protótipo apresenta uma sequência de tarefas condizente com a realidade?                                   | Sim/Não  |
+| Problemas na Interação e Interface| Você consegue operar o sistema?| Sim/Não  |
+
 
 <font size="2"><p style="text-align: center">Fonte:
 [ Karolina Vieira](https://github.com/Karolina91)

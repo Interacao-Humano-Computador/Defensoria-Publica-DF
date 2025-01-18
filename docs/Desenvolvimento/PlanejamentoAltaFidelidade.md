@@ -3,30 +3,37 @@
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    | Revisor |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :-----: |
 | 10/01/2025 |        10/01/2025        |  1.0   | Criação do Documento | [Paola Lima](https://github.com/paolaalim) |    [Karolina Vieira](https://github.com/Karolina91)     |
+| 18/01/2025| 18/01/2025| 1.2| Atualização|[Karolina Vieira](https://github.com/Karolina91)     |[Paola Lima](https://github.com/paolaalim)
+
+# Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
 ## Introdução
+A avaliação de Interação Humano-Computador (IHC) é um componente crucial no desenvolvimento de sistemas interativos, pois permite avaliar a qualidade de uso da solução e identificar problemas na interação e na interface que possam prejudicar a experiência do usuário. Esse processo orienta as melhorias necessárias, garantindo que o sistema atenda às necessidades dos usuários e promova uma interação eficiente e satisfatória (Barbosa, 2021). Assim, no contexto do desenvolvimento de um protótipo de alta fidelidade, é fundamental planejar a avaliação para assegurar que a solução proposta esteja alinhada com os requisitos de usabilidade e experiência do usuário.
 
-A avaliação é uma etapa essencial para o desenvolvimento de uma interface de qualidade para o site da Defensoria Pública do Distrito Federal (DPDF). Este documento apresenta o planejamento da avaliação do protótipo de alta fidelidade, com base no framework DECIDE, que organiza o processo em etapas claras e estruturadas:
+## Objetivo
+Este documento tem como propósito apresentar o planejamento da avaliação do protótipo de alta fidelidade, detalhando as etapas, métodos e técnicas que serão empregadas para avaliar a interação e a interface do site proposto.
 
-- **D**: Determinar os objetivos gerais da avaliação;
-- **E**: Explorar perguntas a serem respondidas na avaliação;
-- **C**: Escolher os métodos de avaliação a serem utilizados;
-- **I**: Identificar e administrar questões práticas da avaliação;
-- **D**: Decidir como lidar com questões éticas;
-- **E**: Avaliar, interpretar e apresentar os dados.
+## Metodologia
+A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021), uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais: 
+- (D) Determinar os objetivos da avaliação
+- (E) Explorar perguntas a serem respondidas
+- (C) Escolher os métodos de avaliação
+- (I) Identificar e administrar questões práticas
+- (D) Decidir como lidar com questões éticas
+- (E) Avaliar, interpretar e apresentar os dados
 
-## Objetivos Gerais (D)
+Essa metodologia permite um planejamento claro e detalhado, assegurando que a avaliação aborde tanto alternativas de design quanto a identificação de problemas na interação e na interface.
 
-O objetivo principal da avaliação é verificar a usabilidade do site da DPDF por meio da experiência de uso dos participantes. Mais especificamente, busca-se:
+## D - Determinar os objetivos da avaliação de IHC
+Os objetivos da avaliação são essenciais para identificar os pontos do protótipo de alta fidelidade que necessitam de melhorias, dado que ele já está mais próximo do produto final. Os objetivos definidos para essa avaliação, conforme Barbosa (2021), são:
 
-- Identificar problemas de interação e interface;
-- Avaliar a eficiência na realização de tarefas;
-- Medir a satisfação dos usuários com o sistema proposto;
-- Propor melhorias com base no feedback dos participantes.
+1. **Explorar alternativas de design**: Identificar qual alternativa proporciona a melhor experiência de interação, considerando aspectos como clareza, eficácia e satisfação do usuário.
+2. **Verificar conformidade com padrões**: Avaliar se o protótipo de alta fidelidade atende aos padrões de usabilidade e acessibilidade estabelecidos, assegurando que a solução seja eficiente e acessível a todos os usuários.
+3. **Identificar problemas na interação e na interface**: Detectar pontos de confusão, erros de navegação ou inconsistências na interface para garantir uma experiência de uso mais fluida e eficiente.
 
-## Exploração de Perguntas (E)
+## E - Explorar perguntas a serem respondidas com a avaliação
+Baseando-se nos objetivos da avaliação, as perguntas que precisam ser respondidas durante a avaliação do protótipo de alta fidelidade foram definidas e adaptadas a partir da tabela de exemplos de perguntas de avaliação de IHC proposta por Barbosa (2021). Essas perguntas são fundamentais para a operacionalização do processo de avaliação, permitindo um julgamento sobre os aspectos analisados. As perguntas definidas para a avaliação do protótipo de alta fidelidade são:
 
-A avaliação deverá responder às seguintes perguntas:
 
 <font size="2"><p style="text-align: center">Tabela 1: Questionário</p></font>
 
@@ -52,11 +59,23 @@ A avaliação deverá responder às seguintes perguntas:
 <font size="2"><p style="text-align: center">Fonte:
 [Simples Nacional (2022.2-SimplesNacional)](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoProtAlta/)
 
-## Metodologia (C)
+## C - Escolher os métodos de avaliação a serem utilizados
 
-A avaliação será conduzida por meio de testes de usabilidade realizados em um ambiente controlado. Esse método foi escolhido por possibilitar a observação direta dos participantes, garantindo dados detalhados sobre o uso do protótipo. Em seguida, o entrevistador realizará um questionário e ao final dele, o usuário terá um momento para que faça comentários sobre problemas e sugestões de melhorias acerca do protótipo e suas atividades.
+A **entrevista** será aplicada para avaliar o aspecto de apropriação da tecnologia. Este método permitirá captar dados qualitativos importantes sobre a usabilidade, a compreensão do protótipo e as motivações para sua adoção ou rejeição.
 
-Os testes seguirão um roteiro estruturado e envolverão tarefas representativas do uso cotidiano do site. Durante a avaliação, serão coletados dados qualitativos (observações e feedback verbal) e quantitativos (tempo de execução e número de erros).
+## I - Identificar e administrar as questões práticas da avaliação
+
+A identificação e administração das questões práticas são cruciais para garantir que a avaliação do protótipo ocorra de maneira eficiente, respeitando as limitações de recursos, tempo e logística. A seguir, são detalhadas as questões práticas relacionadas ao planejamento do teste, organização dos materiais, preparação do local, recrutamento de usuários, condução do teste, análise dos resultados e correção do site, conforme descrito por Badre (2002).
+
+### Recrutamento
+Os participantes serão selecionados com base no perfil de usuário definido durante a análise de requisitos, priorizando indivíduos que representem o público-alvo do protótipo.
+
+
+#### Avaliação Heurística:
+- **Ferramentas**: Computador para redigir o relatório dos resultados;
+- **Materiais**: Lista de princípios heurísticos;
+- **Ambiente**: A avaliação será realizada em um ambiente controlado e silencioso, garantindo que o avaliador possa se concentrar na análise do protótipo sem distrações.
+
 
 ## Questões Práticas (I)
 
@@ -116,17 +135,6 @@ Antes de iniciar os testes, os participantes deverão assinar um termo de consen
 - Os dados coletados serão usados apenas para fins acadêmicos;
 - A identidade dos participantes será preservada.
 
-## Relato de Resultados (E)
-
-O relatório final incluirá:
-
-- Objetivos e escopo da avaliação;
-- Descrição do método de teste de usabilidade;
-- Perfis dos avaliadores e participantes;
-- Tarefas realizadas e métricas coletadas;
-- Problemas identificados, com descrição detalhada, local de ocorrência e sugestões de solução.
-
-Este planejamento segue uma abordagem sistemática e ética, garantindo que os dados coletados sejam representativos e úteis para melhorias na interface do site da DPDF.
 
 ## Teste Piloto
 
