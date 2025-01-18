@@ -2,6 +2,8 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  27/12/2024    |        03/01/2025          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](ht/tps://github.com/paolaalim) |
 |  18/01/2025| 18/01/2025| 1.2| Atualização do Documento| [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](ht/tps://github.com/paolaalim) |
+
+
 # Resultado do Relato do Protótipo de Papel  
 
 ## Introdução  
