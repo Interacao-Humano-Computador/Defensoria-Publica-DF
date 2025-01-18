@@ -79,6 +79,7 @@ O objetivo da avaliação do storyboard proposto é analisar se a tarefa de faze
 Conforme sugerido pelo [planejamento da avaliação](./planejamento_storyboard.md) avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
 <font size="2"><p style="text-align: center">Tabela 2: Roteiro de perguntas para Avaliação de Storyboard
+
 | **Objetivo**                                             | **Pergunta**                                                                    | **Resposta** |
 |----------------------------------------------------------|---------------------------------------------------------------------------------|:------------:|
 | **Identificação de Problemas de Interação e Interface**  | O storyboard é claro e fácil de entender?                                       | Sim, o usuário conseguiu entender o stpryboard facilmente|
