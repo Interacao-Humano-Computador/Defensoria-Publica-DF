@@ -27,7 +27,7 @@ O objetivo deste documento é apresentar os resultados obtidos durante a avalia�
 
 A avaliação teve como objetivo analisar o [Protótipo de Papel 1 - Agendar uma consulta com o advogado ](#), visando identificar pontos de melhoria na interação e na interface. O foco foi explorar aspectos relacionados a alternativas de design e identificar possíveis problemas na interação e na interface. 
 
-## Metodologia da Avaliação
+### Metodologia Avaliada
 
 <font size="2"><p style="text-align: center">**Tabela 2**: Roteiro de perguntas para Avaliação do Protótipo de Papel</p></font>
 
@@ -44,7 +44,7 @@ A avaliação teve como objetivo analisar o [Protótipo de Papel 1 - Agendar uma
 <font size="2"><p style="text-align: center">Fonte:
 [ Karolina Vieira](https://github.com/Karolina91)
 
-## Avaliação Heurística
+### Avaliação Heurística
 
 Após a entrevista, foi realizada uma avaliação heurística com base nas 10 heurísticas de Nielsen, escolhidas por sua relevância para o contexto de protótipos de papel. As heurísticas consideradas na análise foram:
 
@@ -58,10 +58,10 @@ Após a entrevista, foi realizada uma avaliação heurística com base nas 10 he
 Não foram identificadas violações em nenhuma das heurísticas avaliadas. Todas foram plenamente atendidas: o protótipo permite a execução eficiente de tarefas, evita informações irrelevantes e fornece feedback adequado às ações realizadas, mantendo o foco nos elementos essenciais.
 
 
-## Participantes
+### Participantes
 O participante selecionado para a avaliação enquadra-se no perfil de usuário estabelecido, com idade entre 18 e 65 anos. Além disso, demonstra uma boa afinidade com tecnologia, o que o torna apto a interagir de maneira eficiente com o protótipo e fornecer feedback relevante sobre aspectos de interação e usabilidade do sistema.
 
-## Sugestão de Melhorias 
+### Sugestão de Melhorias 
 
 Após a análise do protótipo de papel, não foram identificadas sugestões de melhorias. O material foi considerado adequado para os objetivos propostos, atendendo às expectativas iniciais e alinhado aos requisitos estabelecidos
 
@@ -84,7 +84,7 @@ Após a análise do protótipo de papel, não foram identificadas sugestões de 
 A avaliação teve como objetivo analisar o [Protótipo de Papel  - Inscrever-se no programa de estágio ](./ProtiposdePapel.md)
 , visando identificar pontos de melhoria na interação e na interface. O foco foi explorar aspectos relacionados a alternativas de design e identificar possíveis problemas na interação e na interface. 
 
-## Metodologia da Avaliação
+### Metodologia da Avaliação
 
 <font size="2"><p style="text-align: center">**Tabela 2**: Roteiro de perguntas para Avaliação do Protótipo de Papel</p></font>
 
@@ -103,7 +103,7 @@ A avaliação teve como objetivo analisar o [Protótipo de Papel  - Inscrever-se
 [Paola Nascimento](https://github.com/paolaalim)
 
 
-## Avaliação Heurística
+### Avaliação Heurística
 
 Além da entrevista, foi realizada uma avaliação heurística baseada nas 10 heurísticas de Nielsen, escolhidas por sua relevância no contexto de protótipos de papel. As heurísticas analisadas foram:
 
@@ -111,20 +111,16 @@ Além da entrevista, foi realizada uma avaliação heurística baseada nas 10 he
 - **Design estético e minimalista**: Examinar se o protótipo evita informações desnecessárias e mantém o foco nos elementos essenciais.  
 - **Reconhecimento em vez de memorização**: Confirmar se as informações necessárias estão visíveis e facilmente acessíveis no protótipo.
 
-### Resultados
-
-A avaliação heurística não identificou violações em nenhuma das heurísticas analisadas. Esse resultado indica que o protótipo está em conformidade com os princípios de usabilidade estabelecidos. A ausência de problemas reforça que o design atual atende aos padrões de interação esperados.
-
 
 ### Resultados
 
 Não foram identificadas violações em nenhuma das heurísticas avaliadas. Todas foram plenamente atendidas: o protótipo permite a execução eficiente de tarefas, evita informações irrelevantes e fornece feedback adequado às ações realizadas, mantendo o foco nos elementos essenciais.
 
 
-## Participantes
+### Participantes
 O participante selecionado para a avaliação enquadra-se no perfil de usuário estabelecido, com idade entre 18 e 65 anos. Além disso, demonstra uma boa afinidade com tecnologia, o que o torna apto a interagir de maneira eficiente com o protótipo e fornecer feedback relevante sobre aspectos de interação e usabilidade do sistema.
 
-## Sugestão de Melhorias 
+### Sugestão de Melhorias 
 
 Após a análise do protótipo de papel, não foram identificadas sugestões de melhorias. O material foi considerado adequado para os objetivos propostos, atendendo às expectativas iniciais e alinhado aos requisitos estabelecidos
 
