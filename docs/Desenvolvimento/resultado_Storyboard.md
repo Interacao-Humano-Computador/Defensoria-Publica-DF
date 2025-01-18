@@ -3,6 +3,8 @@
 |  27/12/2024    |        03/01/2025          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 |18/01/2025| 18/01/2025| 1.2| Atualização|[Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 
+# Resultado do Relato da Avaliação do Storyboard
+
 ## Introdução
 
 Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação dos Storyboards. Com isso, serão abordados os tópicos referidos no [Planejamento do Relato dos Resultados dos Storyboards](./Planejamento_relatodoStoryborad.md)
@@ -33,6 +35,7 @@ O objetivo da avaliação do storyboard proposto é analisar se a tarefa de faze
 Conforme sugerido pelo [planejamento da avaliação](./planejamento_storyboard.md) avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
 
 <font size="2"><p style="text-align: center">Tabela 2: Roteiro de perguntas para Avaliação de Storyboard
+
 | **Objetivo**                                             | **Pergunta**                                                                    | **Resposta** |
 |----------------------------------------------------------|---------------------------------------------------------------------------------|:------------:|
 | **Identificação de Problemas de Interação e Interface**  | O storyboard é claro e fácil de entender?                                       | Sim, o usuário conseguiu entender o stpryboard facilmente|
