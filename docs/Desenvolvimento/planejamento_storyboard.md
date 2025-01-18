@@ -32,7 +32,7 @@ O Framework DECIDE Preece et al. (2002) propõem um framework chamado DECIDE par
 | **Identificação de Problemas de Interação e Interface**  | O storyboard apresenta alguma falha grave na narrativa ou no design?            | Sim/Não      |
 
 
-<font size="2"><p style="text-align: center">Fonte:
+<font size="2"><p style="text-align: center">Autor:
 [Karolina Vieira](https://github.com/Karolina91)
 
 ## Método de avaliação 

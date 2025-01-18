@@ -32,41 +32,47 @@ Baseando-se nos storyboards e diagramas das análises de tarefas, cada integrant
 
 ### Figura 1 - Tela Inicial
 ![Figura 1 - Tela Inicial](../assets/images/dpdf%201.jpg)
-<figcaption>Fonte: Karolina Vieira (2025)</figcaption>
+<figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
 
 ### Figura 2 - Inserir Dados
 ![Figura 2 - Inserir Dados](../assets/images/protoripo2.jpg)
-<figcaption>Fonte: Karolina Vieira (2025)</figcaption>
+<figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
 
 ### Figura 3 - Selecionar Tipo de Atendimento
 ![Figura 3 - Selecionar Tipo de Atendimento](../assets/images/protoripo3.jpg)
-<figcaption>Fonte: Karolina Vieira (2025)</figcaption>
+<figcaption>Autor:
+ Karolina Vieira (2025)</figcaption>
 
 
 ### Figura 4 - Concluir Agendamento
 ![Figura 4 - Concluir Agendamento](../assets/images/protoripo4.jpg)
-<figcaption>Fonte: Karolina Vieira (2025)</figcaption>
+<figcaption>Autor:
+ Karolina Vieira (2025)</figcaption>
 
 
 ### Inscrever-se no programa de estágio 
 
 ### Figura 5 - Tela Inicial
 ![Figura 1 - Tela Inicial](../assets/images/telainicial.jpg)
-<figcaption>Fonte: Paola Nascimento (2025)</figcaption>
+<figcaption>Autor:
+ Paola Nascimento (2025)</figcaption>
 
 ### Figura 6 - Tela de Inscrição para o Estágio
 ![Figura 2 - Tela de inscrição para o estágio](../assets/images/estagioremunerado.jpg)
-<figcaption>Fonte: Paola Nascimento (2025)</figcaption>
+<figcaption>Autor:
+ Paola Nascimento (2025)</figcaption>
 
 ### Figura 7 - Formulário de Inscrição
 ![Figura 3 - Formulário de inscrição](../assets/images/formulario.jpg)
-<figcaption>Fonte: Paola Nascimento (2025)</figcaption>
+<figcaption>Autor:
+ Paola Nascimento (2025)</figcaption>
 
 ### Figura 8 - Confirmação de Envio do Formulário
 ![Figura 4 - Confirmação de envio do formulário](../assets/images/confirmacao.jpg)
-<figcaption>Fonte: Paola Nascimento (2025)</figcaption>
+<figcaption>Autor:
+ Paola Nascimento (2025)</figcaption>
 
 
 

@@ -18,7 +18,7 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 | Karolina Vieira   | Fernanda Alves    | 15:30             | 16:00          | 02/01/2025 | Residência       |
 | Paola Nascimento  | Vanda Rabelo      | 14:00             | 14:30          | 04/01/2025 | Residência       |
 
-<font size="2"><p style="text-align: center">Fonte: 
+<font size="2"><p style="text-align: center">Autor:
 [Karolina Vieira](https://github.com/Karolina91)</p></font>
 
 ## Entrevista - Agendar Consulta com o Advogado
@@ -41,6 +41,9 @@ Conforme sugerido pelo [planejamento da avaliação](./planejamento_storyboard.m
 | **Apropriação da Tecnologia**                          | O storyboard reflete bem os objetivos do projeto?                             | Sim, o usuário conseguiu identificar os objetivos do projeto com a imagem no storyboard |
 | **Apropriação da Tecnologia**                          | Cada quadro contribui para alcançar os objetivos definidos?                   | Sim, o usuário conseguiu alcançar os objetivos definidos |
 | **Identificação de Problemas de Interação e Interface**| O storyboard apresenta alguma falha grave na narrativa ou no design?          | Não, de acordo com o usuário o Storyboard não apresentou nenhuma falha |
+
+<font size="2"><p style="text-align: center">Autor:
+[Karolina Vieira](https://github.com/Karolina91)</p></font>
 
 ### Seleção dos Participantes
 
@@ -85,6 +88,9 @@ Conforme sugerido pelo [planejamento da avaliação](./planejamento_storyboard.m
 | **Apropriação da Tecnologia**                          | O storyboard reflete bem os objetivos do projeto?                             | Sim, o usuário conseguiu identificar os objetivos do projeto com a imagem no storyboard |
 | **Apropriação da Tecnologia**                          | Cada quadro contribui para alcançar os objetivos definidos?                   | Sim, o usuário conseguiu alcançar os objetivos definidos |
 | **Identificação de Problemas de Interação e Interface**| O storyboard apresenta alguma falha grave na narrativa ou no design?          | Não, de acordo com o usuário o Storyboard não apresentou nenhuma falha |
+
+<font size="2"><p style="text-align: center">Autor:
+[Paola Nascimento](https://github.com/paolaalim)</p></font>
 
 ### Seleção dos Participantes
 

@@ -72,8 +72,7 @@ Os resultados obtidos a partir das avaliações propostas no cronograma serão a
 | Problemas na Interação e Interface| Você consegue operar o sistema?| Sim/Não  |
 
 
-<font size="2"><p style="text-align: center">Fonte:
-[ Karolina Vieira](https://github.com/Karolina91)
+<font size="2"><p style="text-align: center">Autor:[ Karolina Vieira](https://github.com/Karolina91)
 
 ## Teste Piloto
 

@@ -37,7 +37,8 @@ A avaliação teve como objetivo analisar o [Protótipo de Papel 1 - Agendar uma
 | Problemas na Interação e Interface | O protótipo apresenta uma sequência de tarefas condizente com a realidade? | Sim, pois essa funcionalidade não existe no sistema. |
 | Problemas na Interação e Interface| Você consegue operar o sistema? | Sim, o usuário conseguiu operar o sistema com facilidade. |
 
-<font size="2"><p style="text-align: center">Fonte: [Karolina Vieira](https://github.com/Karolina91)</p></font>
+<font size="2"><p style="text-align: center">Autor:
+ [Karolina Vieira](https://github.com/Karolina91)</p></font>
 
 ### Avaliação Heurística
 
@@ -87,7 +88,8 @@ A avaliação teve como objetivo analisar o [Protótipo de Papel  - Inscrever-se
 | Problemas na Interação e Interface| O protótipo apresenta uma sequência de tarefas condizente com a realidade? | Sim, embora essa funcionalidade não exista no sistema atual.                                |
 | Problemas na Interação e Interface| Você consegue operar o sistema?                                         | Sim, o usuário conseguiu operar o sistema com facilidade.                                   |
 
-<font size="2"><p style="text-align: center">Fonte: [Paola Nascimento](https://github.com/paolaalim)</p></font>
+<font size="2"><p style="text-align: center">Autor:
+[Paola Nascimento](https://github.com/paolaalim)</p></font>
 
 ### Avaliação Heurística
 

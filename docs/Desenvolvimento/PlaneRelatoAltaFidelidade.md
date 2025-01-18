@@ -36,8 +36,7 @@ Detalhar a metodologia empregada na coleta de dados, como a realização de entr
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
 |------------------------|---------------------|-----------------------|--------------------|----------------|
-| Karolina Vieira        | Fernanda Alves      | 15:00                | 15:30             | 19/01/2025     |
-| Lucas Sales            |                     |                      |                   |                |
+| Karolina Vieira        | Fernanda Alves      | 15:00                | 15:30             | 19/01/2025  |
 | Paola Rebeca           |         |                |             |    |
 
 ### **Seleção dos Participantes**

@@ -1,4 +1,3 @@
-# Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    | Revisor |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :-----: |
@@ -37,27 +36,21 @@ Baseando-se nos objetivos da avaliação, as perguntas que precisam ser respondi
 
 <font size="2"><p style="text-align: center">Tabela 1: Questionário</p></font>
 
-| ID  | Descrição                                                                 |
-|-----|---------------------------------------------------------------------------|
-| 01  | Você (usuário) está de acordo com o termo de consentimento apresentado?   |
-| 02  | Você (usuário) se sente bem para realizar o teste de usabilidade?         |
-| 03  | Qual o seu nível de escolaridade?                                         |
-| 04  | Quantos anos o sr(a). tem?                                                |
-| 05  | Já precisou de algum tipo de ajuda para utilizar o sistema?               |
-| 06  | Você (usuário) utiliza o site da DPDF com qual frequência?            |
-| 07  | Você (usuário) acredita que o site atual tem um design agradável?         |
-| 08  | Você (usuário) acredita que o site atual é intuitivo?                     |
-| 09  | Você (usuário) possui necessidades e/ou desejos não atendidos pelo site atual? |
-| 10  | Você (usuário) encontra obstáculos durante o uso do site atual?           |
-| 11  | Você (usuário) possui acesso à internet e dispositivos compatíveis com o site? |
-| 12  | Qual parte do sistema atual mais te agrada? E qual mais te desagrada?     |
-| 13  | Em sua opinião, o site atual possui um bom suporte ao usuário? Por quê?   |
-| 14  | Você (usuário) consegue atingir seus objetivos?                           |
-| 15  | Você (usuário) tem alguma sugestão de melhoria relacionada ao site atual? |
+| **Objetivo**                       | **Pergunta**                                                                                   | **Resposta** |
+|-------------------------------------|-------------------------------------------------------------------------------------------------|--------------|
+| Ideias e Alternativas de Design     | 1. Qual das alternativas de design do protótipo de alta fidelidade é mais eficiente e fácil de aprender? |              |
+| Ideias e Alternativas de Design     | 2. Qual alternativa de design os usuários preferem? Por quê?                                     |              |
+| Ideias e Alternativas de Design     | 3. Qual alternativa de design se espera que tenha um impacto negativo menor ao ser adotada?      |              |
+| Conformidade com um padrão          | 4. O site está de acordo com os padrões de acessibilidade do W3C?                               |              |
+| Conformidade com um padrão          | 5. Os termos na interface seguem convenções estabelecidas no domínio?                           |              |
+| Conformidade com um padrão          | 6. A interface segue algum padrão pré-estabelecido?                                              |              |
+| Problemas na Interação e Interface  | 7. Os usuários conseguem operar o protótipo de alta fidelidade? Eles atingem seus objetivos de maneira eficiente? Com que frequência cometem erros? |              |
+| Problemas na Interação e Interface  | 8. Que parte da interface do protótipo de alta fidelidade deixa os usuários insatisfeitos ou causa confusão? |              |
+| Problemas na Interação e Interface  | 9. Os usuários entendem claramente o que cada elemento do protótipo de alta fidelidade significa e o que devem fazer em seguida? |              |
 
 
-<font size="2"><p style="text-align: center">Fonte:
-[Simples Nacional (2022.2-SimplesNacional)](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoProtAlta/)
+<font size="2"><p style="text-align: center">Autor:
+[Paola Nascimento](https://github.com/paolaali)
 
 ## C - Escolher os métodos de avaliação a serem utilizados
 
@@ -119,10 +112,10 @@ O avaliador fornecerá um contexto breve e o roteiro, em seguida, explicará os 
 
 | Data       | Atividade                              | Responsável         | Revisor        |
 |------------|----------------------------------------|---------------------|----------------|
-| 15/01/2025 | Entrega do protótipo de alta fidelidade | Paola e Karolina    | Paola e Karolina |
-| 16/01/2025 | Aplicação do teste piloto              | Paola e Karolina  | Paola e Karolina          |
-| 17/01/2025 | Realização da avaliação com participantes | Paola e Karolina       | Paola e Karolina    |
-| 20/01/2025 | Análise dos dados e elaboração do relatório | Paola e Karolina       | Paola e Karolina   |
+|  | Entrega do protótipo de alta fidelidade | Paola e Karolina    | Paola e Karolina |
+| | Aplicação do teste piloto              | Paola e Karolina  | Paola e Karolina          |
+|  | Realização da avaliação com participantes | Paola e Karolina       | Paola e Karolina    |
+| | Análise dos dados e elaboração do relatório | Paola e Karolina       | Paola e Karolina   |
 
 <font size="2"><p style="text-align: center">Fonte:
 [Paola Nascimento](https://github.com/paolaalim)
