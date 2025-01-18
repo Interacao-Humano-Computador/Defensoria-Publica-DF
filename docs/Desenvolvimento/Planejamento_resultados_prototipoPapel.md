@@ -2,17 +2,12 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  27/12/2024    |        03/01/2025          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 
-# Planejamento do Relato Dos Resultados da Avaliação do do Protótipo de Papel
+# Planejamento do Relato Dos Resultados o Protótipo de Papel
 
 ## Introdução
 Este documento tem como objetivo detalhar o planejamento para o tratamento dos dados coletados durante a avaliação, bem como levantar informações e demandas relacionadas ao sistema avaliado.
 É importante ressaltar que os resultados da avaliação de IHC geralmente apontam potenciais problemas. No entanto, a ausência de problemas identificados não implica necessariamente que o sistema esteja livre de defeitos. Não há como garantir um design de interface completamente isento de falhas ou problemas relacionados à interação humano-computador.
 
-# Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel
-
-## Introdução
-
-Este documento organiza e apresenta os resultados obtidos na avaliação do protótipo de papel. Ele segue as diretrizes do planejamento da avaliação do protótipo de papel, garantindo que os dados relevantes sejam exibidos de maneira clara e compreensível.
 
 ## Metodologia
 
