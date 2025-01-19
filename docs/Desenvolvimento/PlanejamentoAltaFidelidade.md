@@ -1,8 +1,7 @@
-
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    | Revisor |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :-----: |
-| 10/01/2025 |        10/01/2025        |  1.0   | Criação do Documento | [Paola Lima](https://github.com/paolaalim) |    [Karolina Vieira](https://github.com/Karolina91)     |
-| 18/01/2025| 18/01/2025| 1.2| Atualização|[Karolina Vieira](https://github.com/Karolina91)     |[Paola Lima](https://github.com/paolaalim)
+| 10/01/2025 |        10/01/2025        |  1.0   | Criação do Documento | [Paola Lima](https://github.com/paolaalim) | [Karolina Vieira](https://github.com/Karolina91) |
+| 18/01/2025 |        18/01/2025        |  1.2   | Atualização          | [Karolina Vieira](https://github.com/Karolina91) | [Paola Lima](https://github.com/paolaalim) |
 
 # Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
@@ -13,7 +12,8 @@ A avaliação de Interação Humano-Computador (IHC) é um componente crucial no
 Este documento tem como propósito apresentar o planejamento da avaliação do protótipo de alta fidelidade, detalhando as etapas, métodos e técnicas que serão empregadas para avaliar a interação e a interface do site proposto.
 
 ## Metodologia
-A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021), uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais: 
+A metodologia adotada para a avaliação segue o modelo do framework DECIDE (Barbosa, 2021), uma abordagem estruturada que organiza o processo de avaliação em seis etapas principais:
+
 - (D) Determinar os objetivos da avaliação
 - (E) Explorar perguntas a serem respondidas
 - (C) Escolher os métodos de avaliação
@@ -33,7 +33,6 @@ Os objetivos da avaliação são essenciais para identificar os pontos do protó
 ## E - Explorar perguntas a serem respondidas com a avaliação
 Baseando-se nos objetivos da avaliação, as perguntas que precisam ser respondidas durante a avaliação do protótipo de alta fidelidade foram definidas e adaptadas a partir da tabela de exemplos de perguntas de avaliação de IHC proposta por Barbosa (2021). Essas perguntas são fundamentais para a operacionalização do processo de avaliação, permitindo um julgamento sobre os aspectos analisados. As perguntas definidas para a avaliação do protótipo de alta fidelidade são:
 
-
 <font size="2"><p style="text-align: center">Tabela 1: Questionário</p></font>
 
 | **Objetivo**                       | **Pergunta**                                                                                   | **Resposta** |
@@ -47,7 +46,6 @@ Baseando-se nos objetivos da avaliação, as perguntas que precisam ser respondi
 | Problemas na Interação e Interface  | 7. Os usuários conseguem operar o protótipo de alta fidelidade? Eles atingem seus objetivos de maneira eficiente? Com que frequência cometem erros? |              |
 | Problemas na Interação e Interface  | 8. Que parte da interface do protótipo de alta fidelidade deixa os usuários insatisfeitos ou causa confusão? |              |
 | Problemas na Interação e Interface  | 9. Os usuários entendem claramente o que cada elemento do protótipo de alta fidelidade significa e o que devem fazer em seguida? |              |
-
 
 <font size="2"><p style="text-align: center">Autor:
 [Paola Nascimento](https://github.com/paolaali)
@@ -63,12 +61,10 @@ A identificação e administração das questões práticas são cruciais para g
 ### Recrutamento
 Os participantes serão selecionados com base no perfil de usuário definido durante a análise de requisitos, priorizando indivíduos que representem o público-alvo do protótipo.
 
-
 #### Avaliação Heurística:
 - **Ferramentas**: Computador para redigir o relatório dos resultados;
 - **Materiais**: Lista de princípios heurísticos;
 - **Ambiente**: A avaliação será realizada em um ambiente controlado e silencioso, garantindo que o avaliador possa se concentrar na análise do protótipo sem distrações.
-
 
 ## Questões Práticas (I)
 
@@ -82,7 +78,7 @@ As etapas de preparação incluem:
   - Termo de consentimento;
   - Especificações das tarefas;
   - Ferramentas de registro, como câmeras e blocos de notas;
-  - Roteiro de cada atividade
+  - Roteiro de cada atividade;
 - **Executar teste piloto**: Realizar um teste inicial com um membro da equipe para ajustes e validação do processo.
 
 ### Recrutamento de Participantes
@@ -112,10 +108,10 @@ O avaliador fornecerá um contexto breve e o roteiro, em seguida, explicará os 
 
 | Data       | Atividade                              | Responsável         | Revisor        |
 |------------|----------------------------------------|---------------------|----------------|
-|  | Entrega do protótipo de alta fidelidade | Paola e Karolina    | Paola e Karolina |
-| | Aplicação do teste piloto              | Paola e Karolina  | Paola e Karolina          |
-|  | Realização da avaliação com participantes | Paola e Karolina       | Paola e Karolina    |
-| | Análise dos dados e elaboração do relatório | Paola e Karolina       | Paola e Karolina   |
+|            | Entrega do protótipo de alta fidelidade | Paola e Karolina    | Paola e Karolina |
+|            | Aplicação do teste piloto              | Paola e Karolina    | Paola e Karolina |
+|            | Realização da avaliação com participantes | Paola e Karolina    | Paola e Karolina |
+|            | Análise dos dados e elaboração do relatório | Paola e Karolina    | Paola e Karolina |
 
 <font size="2"><p style="text-align: center">Fonte:
 [Paola Nascimento](https://github.com/paolaalim)
@@ -128,7 +124,6 @@ Antes de iniciar os testes, os participantes deverão assinar um termo de consen
 - Os dados coletados serão usados apenas para fins acadêmicos;
 - A identidade dos participantes será preservada.
 
-
 ## Teste Piloto
 
 Antes de realizar as entrevistas principais, conduzimos um teste piloto para validar o roteiro e identificar ajustes necessários. Um participante com perfil semelhante ao público-alvo foi convidado para avaliar a clareza das perguntas, o fluxo da entrevista, o tempo necessário e possíveis dificuldades. Os resultados permitiram otimizar o processo, garantindo maior eficácia nas entrevistas principais.
@@ -137,7 +132,6 @@ Antes de realizar as entrevistas principais, conduzimos um teste piloto para val
 
 [Assista ao vídeo no YouTube](link)
 
-
 ## Bibliografia
-[1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.
+[1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.  
 [2] Análise da plataforma Simples Nacional - Características da plataforma, disponível em: [https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoProtAlta/](https://interacao-humano-computador.github.io/2022.2-SimplesNacional/DesignAvaliacaoDesen/Nivel3/ProtAltaFidelidade/PlanejamentoProtAlta/). Acesso em 10 de janeiro de 2025.

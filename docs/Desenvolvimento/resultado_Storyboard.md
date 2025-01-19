@@ -25,7 +25,7 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 
 ### Objetivo e Âmbito da Avaliação
 
-O objetivo da avaliação do storyboard proposto é analisar se a tarefa de fazer um pedido no e-SIC é clara e intuitiva para o usuário. A avaliação foca na compreensão do fluxo de interação proposto, na identificação de possíveis problemas e na sugestão de melhorias para aprimorar a experiência do usuário. O storyboard utilizado nesta avaliação pode ser acessado [Storyboard 1 - Agendar consulta com o advogado](./storyboards.md).
+O objetivo da avaliação do storyboard proposto é analisar se a tarefa de fazer um agendamento para uma consulta com o advogado.A avaliação foca na compreensão do fluxo de interação proposto, na identificação de possíveis problemas e na sugestão de melhorias para aprimorar a experiência do usuário. O storyboard utilizado nesta avaliação pode ser acessado [Storyboard 1 - Agendar consulta com o advogado](./storyboards.md).
 
 ### Método de Avaliação
 
@@ -72,7 +72,7 @@ No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avali
 
 ### Objetivo e Âmbito da Avaliação
 
-O objetivo da avaliação do storyboard proposto é analisar se a tarefa de fazer um pedido no e-SIC é clara e intuitiva para o usuário. A avaliação foca na compreensão do fluxo de interação proposto, na identificação de possíveis problemas e na sugestão de melhorias para aprimorar a experiência do usuário. O storyboard utilizado nesta avaliação pode ser acessado [Storyboard 1 - Inscrever-se no programa de estágio](./storyboards.md).
+O objetivo da avaliação do storyboard proposto é analisar se a tarefa de fazer uma inscrição no programa de estágio no site da DPDF. A avaliação foca na compreensão do fluxo de interação proposto, na identificação de possíveis problemas e na sugestão de melhorias para aprimorar a experiência do usuário. O storyboard utilizado nesta avaliação pode ser acessado [Storyboard 1 - Inscrever-se no programa de estágio](./storyboards.md).
 
 ### Método de Avaliação
 
