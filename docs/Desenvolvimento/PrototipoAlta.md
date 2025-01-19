@@ -18,9 +18,25 @@ Além disso, o **Guia de Estilo**, previamente elaborado, foi seguido durante o 
 ## Protótipos de Alta Fidelidade
 Os protótipos de alta fidelidade representam as principais funcionalidades do sistema, sendo cada uma delas desenvolvida por um integrante da equipe. A tela inicial, comum a todas as funcionalidades, foi projetada para oferecer uma navegação clara e acessível, servindo como ponto de entrada para opções como agendamento de consultas com advogado e increve-se em um programa de estágio. 
 
-### Figura 1 - Tela Inicial
+### Figura 1 -Proposta da Tela Incial da Defensoria Publica Distrito Federal 
 ![Figura 1 - Tela Inicial](../assets/images/MenuDPDF.png)
 <figcaption>Autor: Karolina Vieira (2025)</figcaption>
+
+A seguir, são detalhados os protótipos de alta fidelidade desenvolvidos para cada funcionalidade:
+
+## Protótipo de Alta Fidelidade 1 - Agendar uma consulta com advogado
+
+Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agendamento de consultas online com advogados no site da DPDF, promovendo praticidade e eficiência na interação com o serviço público.
+
+### Figura 2-Tela Principal do agendamento com advogado
+![Figura 1 - Tela Inicial](../assets/images/telaPrincipal.png)
+<figcaption>Autor: Karolina Vieira (2025)</figcaption>
+
+### Figura 3 -Tela de confirmar ou excluir agendamento
+![Figura 1 - Tela Inicial](../assets/images/confirmarAgendamento.png)<figcaption>Autor: Karolina Vieira (2025)</figcaption>
+
+## Protótipo de Alta Fidelidade 2 - Increve-se no Programa de Estágio DPDF
+
 
 ## Referências Bibliográficas
 BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.
