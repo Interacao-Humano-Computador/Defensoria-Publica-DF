@@ -1,6 +1,6 @@
 |    **Data**    | **Data Prevista de Revisão** | **Versão** |        **Descrição**        |                 **Autor**                 |                **Revisor**                 |
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
-|  18/01/2025   |       18/01/2025    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
+|  18/01/2025   |       18/01/2025 |  1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 
 # Protótipos de Alta Fidelidade
 
@@ -17,6 +17,10 @@ Além disso, o **Guia de Estilo**, previamente elaborado, foi seguido durante o 
 
 ## Protótipos de Alta Fidelidade
 Os protótipos de alta fidelidade representam as principais funcionalidades do sistema, sendo cada uma delas desenvolvida por um integrante da equipe. A tela inicial, comum a todas as funcionalidades, foi projetada para oferecer uma navegação clara e acessível, servindo como ponto de entrada para opções como agendamento de consultas com advogado e increve-se em um programa de estágio. 
+
+### Figura 1 - Tela Inicial
+![Figura 1 - Tela Inicial](../assets/images/MenuDPDF.png)
+<figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
 ## Referências Bibliográficas
 BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.
