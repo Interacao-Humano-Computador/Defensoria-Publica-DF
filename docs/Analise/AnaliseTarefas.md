@@ -43,6 +43,13 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 - **OP 4.2**: Verificar o e-mail ou mensagens para confirmar o agendamento e receber instruções adicionais, se aplicável.
 
 ---
+
+## **Diagrama HTA – Acompanhar a Resposta de uma Solicitação**
+
+![Solicitação](../assets/images/HTA_agendamento.png)
+
+---
+
 ## **Tarefa 2: Inscrever-se no Programa de Estágio da DPDF**
 
 
@@ -158,11 +165,6 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 
 ![HTA SUAP](../assets/images/HTA-SUAP.jpg)
 
-
----
-## **Diagrama HTA – Acompanhar a Resposta de uma Solicitação**
-
-![Solicitação](../assets/images/HTA_agendamento.png)
 
 ---
 ## **Tarefa 5: Utilizar o Chatbot para Assistência**
