@@ -1,104 +1,109 @@
 |    **Data**    | **Data Prevista de Revisão** | **Versão** |        **Descrição**        |                 **Autor**                 |                **Revisor**                 |
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  27/12/2024    |        03/01/2025          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
+| 18/01/2025     | 18/01/2025                  |    1.2     |     Atualização              | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
+
+# Resultado do Relato da Avaliação do Storyboard
 
 ## Introdução
 
-Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação dos Storyboards. Com isso, serão abordados os tópicos referidos no [Planejamento do Relato dos Resultados dos Storyboards](./Planejamento_relatodoStoryborad.md)
+Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação dos Storyboards. Com isso, serão abordados os tópicos referidos no [Planejamento do Relato dos Resultados dos Storyboards](./Planejamento_relatodoStoryborad.md).
 
-
-
-### Objetivo e âmbito da avaliação
-
-A finalidade da avaliação foi verificar a concordância entre a Storyboard de "Pesquisar por mídia" e o fluxo de interações dos utilizadores da Defensoria Publica, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
-
-### Método de avaliação
-
-Conforme sugerido pelo [planejamento da avaliação](./planejamento_storyboard.md) avaliação escolhido foi o de investigação, com uso de questiónario em uma entrevista aplicada.
-
-A Tabela 1 exibe as datas da realização da avaliação.
-
-<center>
+## Cronograma Executado
 
 <font size="2"><p style="text-align: center">Tabela 1: Cronograma executado</p></font>
 
-| Entrevistador | Entrevistado  | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
-| :-----------: | :-----------: | :---------------: | :------------: | :---: | :--------------: |
-|   Karolina Vieira| Fernanda Alves| 15:30|  16:00 | 02/01/2025 | Residencia|
-|   Paola Nascimento| Vanda Rabelo| 14:00|  14:30 | 04/01/2025 | Residencia|
+| Entrevistador     | Entrevistado      | Horário de Início | Horário de Fim | Data      | Local/Plataforma |
+|:-----------------:|:-----------------:|:-----------------:|:--------------:|:---------:|:----------------:|
+| Karolina Vieira   | Fernanda Alves    | 15:30             | 16:00          | 02/01/2025 | Residência       |
+| Paola Nascimento  | Vanda Rabelo      | 14:00             | 14:30          | 04/01/2025 | Residência       |
 
-<font size="2"><p style="text-align: center">Fonte: 
-[Karolina Vieira](https://github.com/Karolina91)
+<font size="2"><p style="text-align: center">Autor:
+[Karolina Vieira](https://github.com/Karolina91)</p></font>
 
-</center>
+## Entrevista - Agendar Consulta com o Advogado
 
-### Registros das avaliações
+### Objetivo e Âmbito da Avaliação
+
+O objetivo da avaliação do storyboard proposto é analisar se a tarefa de fazer um agendamento para uma consulta com o advogado.A avaliação foca na compreensão do fluxo de interação proposto, na identificação de possíveis problemas e na sugestão de melhorias para aprimorar a experiência do usuário. O storyboard utilizado nesta avaliação pode ser acessado [Storyboard 1 - Agendar consulta com o advogado](./storyboards.md).
+
+### Método de Avaliação
+
+Conforme sugerido pelo [planejamento da avaliação](./planejamento_storyboard.md), a avaliação escolhida foi a de investigação, com o uso de questionário em uma entrevista aplicada.
+
+<font size="2"><p style="text-align: center">Tabela 2: Roteiro de perguntas para Avaliação de Storyboard</p></font>
+
+| **Objetivo**                                           | **Pergunta**                                                                  | **Resposta** |
+|--------------------------------------------------------|-------------------------------------------------------------------------------|:------------:|
+| **Identificação de Problemas de Interação e Interface**| O storyboard é claro e fácil de entender?                                     | Sim, o usuário conseguiu entender o storyboard facilmente |
+| **Identificação de Problemas de Interação e Interface**| Os elementos visuais do storyboard ajudam a transmitir a mensagem?            | Sim, o usuário conseguiu entender a mensagem |
+| **Identificação de Problemas de Interação e Interface**| As transições entre os quadros estão coerentes?                               | Sim, o usuário achou as transições entre os quadros coerentes |
+| **Apropriação da Tecnologia**                          | O storyboard reflete bem os objetivos do projeto?                             | Sim, o usuário conseguiu identificar os objetivos do projeto com a imagem no storyboard |
+| **Apropriação da Tecnologia**                          | Cada quadro contribui para alcançar os objetivos definidos?                   | Sim, o usuário conseguiu alcançar os objetivos definidos |
+| **Identificação de Problemas de Interação e Interface**| O storyboard apresenta alguma falha grave na narrativa ou no design?          | Não, de acordo com o usuário o Storyboard não apresentou nenhuma falha |
+
+<font size="2"><p style="text-align: center">Autor:
+[Karolina Vieira](https://github.com/Karolina91)</p></font>
+
+### Seleção dos Participantes
+
+O participante selecionado para a avaliação enquadra-se no perfil de usuário estabelecido, com idade entre 18 e 65 anos. Além disso, demonstra uma boa afinidade com tecnologia, o que o torna apto a interagir de maneira eficiente com o protótipo e fornecer feedback relevante sobre aspectos de interação e usabilidade do sistema.
+
+### Sugestões de Melhorias
+
+Após a análise do protótipo de papel, não foram identificadas sugestões de melhorias. O material foi considerado adequado para os objetivos propostos, atendendo às expectativas iniciais e alinhado aos requisitos estabelecidos.
+
+### Problemas Identificados
+
+De acordo com a avaliação realizada, o Storyboard mostrou-se funcional e alinhado aos objetivos propostos. Não foram identificados problemas que comprometam a clareza, a execução das tarefas ou a representatividade do processo descrito. A estrutura narrativa e visual do Storyboard atende às expectativas, proporcionando uma boa experiência para análise e interpretação.
+
+### Registros das Avaliações
 
 No Video 1 e Tabela 2 é possível verificar os registros feitos durante a avaliação.
-### Video 1: Gravação da avaliação
+
+### Video 1: Gravação da Avaliação
 
 [Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=jGFW_YZJspA)
 
 #### Fonte:
 [Karolina Vieira](https://github.com/Karolina91)
 
+## Entrevista - Inscrever-se no Programa de Estágio
 
-<font size="2"><p style="text-align: center">Tabela 2: Sumário de perguntas com respostas dos entrevistados</p></font>
+### Objetivo e Âmbito da Avaliação
 
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------: |
-| O storyboard é claro e fácil de entender?|Sim                             
-| Os elementos visuais do storyboard ajudam a transmitir a mensagem?   | Sim|
-| As transições entre os quadros estão coerentes?|Sim|
-| O storyboard reflete bem os objetivos do projeto? |Sim
-| Cada quadro contribui para alcançar os objetivos definidos?|Sim|
-|O storyboard apresenta alguma falha grave na narrativa ou no design?| Não|
+O objetivo da avaliação do storyboard proposto é analisar se a tarefa de fazer uma inscrição no programa de estágio no site da DPDF. A avaliação foca na compreensão do fluxo de interação proposto, na identificação de possíveis problemas e na sugestão de melhorias para aprimorar a experiência do usuário. O storyboard utilizado nesta avaliação pode ser acessado [Storyboard 1 - Inscrever-se no programa de estágio](./storyboards.md).
 
-<font size="2"><p style="text-align: center">Fonte:
-[ Karolina Vieira](https://github.com/Karolina91)
+### Método de Avaliação
 
-### Listagem de problemas encontrados
+Conforme sugerido pelo [planejamento da avaliação](./planejamento_storyboard.md), a avaliação escolhida foi a de investigação, com o uso de questionário em uma entrevista aplicada.
+
+<font size="2"><p style="text-align: center">Tabela 2: Roteiro de perguntas para Avaliação de Storyboard</p></font>
+
+| **Objetivo**                                           | **Pergunta**                                                                  | **Resposta** |
+|--------------------------------------------------------|-------------------------------------------------------------------------------|:------------:|
+| **Identificação de Problemas de Interação e Interface**| O storyboard é claro e fácil de entender?                                     | Sim, o usuário conseguiu entender o storyboard facilmente |
+| **Identificação de Problemas de Interação e Interface**| Os elementos visuais do storyboard ajudam a transmitir a mensagem?            | Sim, o usuário conseguiu entender a mensagem |
+| **Identificação de Problemas de Interação e Interface**| As transições entre os quadros estão coerentes?                               | Sim, o usuário achou as transições entre os quadros coerentes |
+| **Apropriação da Tecnologia**                          | O storyboard reflete bem os objetivos do projeto?                             | Sim, o usuário conseguiu identificar os objetivos do projeto com a imagem no storyboard |
+| **Apropriação da Tecnologia**                          | Cada quadro contribui para alcançar os objetivos definidos?                   | Sim, o usuário conseguiu alcançar os objetivos definidos |
+| **Identificação de Problemas de Interação e Interface**| O storyboard apresenta alguma falha grave na narrativa ou no design?          | Não, de acordo com o usuário o Storyboard não apresentou nenhuma falha |
+
+<font size="2"><p style="text-align: center">Autor:
+[Paola Nascimento](https://github.com/paolaalim)</p></font>
+
+### Seleção dos Participantes
+
+O participante selecionado para a avaliação enquadra-se no perfil de usuário estabelecido, com idade entre 18 e 65 anos. Além disso, demonstra uma boa afinidade com tecnologia, o que o torna apto a interagir de maneira eficiente com o protótipo e fornecer feedback relevante sobre aspectos de interação e usabilidade do sistema.
+
+### Sugestões de Melhorias
+
+Após a análise do protótipo de papel, não foram identificadas sugestões de melhorias. O material foi considerado adequado para os objetivos propostos, atendendo às expectativas iniciais e alinhado aos requisitos estabelecidos.
+
+### Problemas Identificados
 
 De acordo com a avaliação realizada, o Storyboard mostrou-se funcional e alinhado aos objetivos propostos. Não foram identificados problemas que comprometam a clareza, a execução das tarefas ou a representatividade do processo descrito. A estrutura narrativa e visual do Storyboard atende às expectativas, proporcionando uma boa experiência para análise e interpretação.
 
-### Sugestões de melhoria
-
-Embora nenhuma sugestão de melhoria tenha sido formalmente registrada durante a avaliação, podem ser considerados aprimoramentos para agregar valor e ampliar a eficiência do Storyboard, a adição de detalhes Visuais: Incluir elementos visuais mais elaborados, como legendas, setas de fluxo e destaques, pode melhorar a clareza e o impacto visual, especialmente para usuários menos experientes.
-
-
-No Video 2 e Tabela 3 é possível verificar os registros feitos durante a avaliação.
-### Video 2: Gravação da avaliação
-
-[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=9P0XASymuAM)
-
-#### Fonte:
-[Paola Nascimento](https://github.com/paolaalim)
-
-
-
-
-<font size="2"><p style="text-align: center">Tabela 3: Sumário de perguntas com respostas dos entrevistados</p></font>
-
-| Pergunta                                                                                                      | Resposta |
-| ------------------------------------------------------------------------------------------------------------- | :------: |
-| O storyboard é claro e fácil de entender?|Sim   |                          
-| Os elementos visuais do storyboard ajudam a transmitir a mensagem?   | Sim|
-| As transições entre os quadros estão coerentes?|Sim|
-| O storyboard reflete bem os objetivos do projeto? |Sim|
-| Cada quadro contribui para alcançar os objetivos definidos?|Sim|
-| O storyboard apresenta alguma falha grave na narrativa ou no design?| Não|
-
-<font size="2"><p style="text-align: center">Fonte:
-[Paola Nascimento](https://github.com/paolaalim)
-
-### Listagem de problemas encontrados
-
-De acordo com a entrevistada e a avaliação realizada, no Storyboard não foram encontrados problemas, por mais que a entrevistada tenha ressaltado que a aparência do boneco não é agradável, mas mesmo assim ela classificou o storyboard como e funcional e alinhado com os objetivos propostos. Com base na avaliação é possível dizer que a estrutura narrativa e visual do Storyboard atende às expectativas.
-
-### Sugestões de melhoria
-
-Nenhuma melhoria foi sugerida na avaliação.
-
-
 ## Referências Bibliográficas
+
 BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.

@@ -19,14 +19,8 @@ O relato de resultados deve incluir um resumo da metodologia utilizada, de acord
 ### Avaliadores e Participantes
 O avaliador deve registrar quem foram os avaliadores e os participantes do teste piloto e da avaliação.
 
-### Sumário dos Dados
-O avaliador deve registrar as respostas dos entrevistados para cada uma das perguntas planejadas, incluindo também as considerações do usuário caso ele responda "não" ou "não sei" a alguma pergunta.
-
 ### Problemas Identificados
 O avaliador deve listar os problemas encontrados nos storyboards, com base nos resultados obtidos.
-
-### Sugestões de Correção
-O avaliador deve propor sugestões de correção para os problemas encontrados, levando em consideração as sugestões do usuário e acrescentando as suas próprias, caso necessário.
 
 ### Gravações do Teste Piloto e da Entrevista
 O avaliador deve incluir no relato de resultados as gravações do teste piloto e da entrevista. Se o teste piloto indicar a necessidade de ajustes no planejamento da avaliação, esses ajustes também devem ser registrados.

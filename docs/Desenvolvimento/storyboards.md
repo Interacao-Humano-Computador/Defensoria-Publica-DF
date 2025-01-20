@@ -26,7 +26,8 @@ Figura 1 apresenta um storyboard que ilustra o processo de um usuário acessando
 
 <center>
 
-![Figura 1 - Storyboard agendamento com advogado](../assets/images/storyboard.jpg)<figcaption>Fonte: Karolina Vieira (2024)
+![Figura 1 - Storyboard agendamento com advogado](../assets/images/storyboard.jpg)<figcaption>Autor:
+Karolina Vieira (2024)
 
 </center> 
 
@@ -38,7 +39,7 @@ Figura 2 apresenta um storyboard que ilustra o processo que um usuário faz ao a
 
 <center>
 
-![Figura 2 - Storyboard do processo de inscrição](../assets/images/storyboard_estagio.png)<figcaption>Fonte: Paola Nascimento (2025)
+![Figura 2 - Storyboard do processo de inscrição](../assets/images/storyboard_estagio.png)<figcaption>Autor:Paola Nascimento (2025)
 
 </center> 
 
