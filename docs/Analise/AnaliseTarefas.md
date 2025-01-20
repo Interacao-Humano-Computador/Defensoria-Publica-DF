@@ -100,12 +100,6 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 
 ---
 
-## **Diagrama HTA – Utilizar o Chatbot**
-
-![HTA Chatbot](../assets/images/HTA-Chatbot.png)
-
----
-
 ## **Tarefa 3: Adquirir e Preencher o Formulário para Voluntariado**
 
  **Goal 0:** Participar como voluntário na DPDF<br/>
@@ -190,6 +184,11 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 
  **Goal 4:** Obter a resposta final<br/>
 - **OP 4.1:** Ler as instruções fornecidas ou clicar no link redirecionado.<br/>
+
+---
+## **Diagrama HTA – Utilizar o Chatbot**
+
+![HTA Chatbot](../assets/images/HTA-Chatbot.png)
 
 ---
 
