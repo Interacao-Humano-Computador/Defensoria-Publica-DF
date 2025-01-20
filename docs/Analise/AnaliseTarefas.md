@@ -76,6 +76,21 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 - **Operator 6.1:** Verificar a mensagem de sucesso exibida na tela ("Inscrição realizada com sucesso!")<br/>
 - **Operator 6.2:** Clicar no botão "Baixar Comprovante" para salvar um recibo da inscrição<br/>
 
+**Goal 7: Acompanhar a inscrição**
+- **Operator 7.1:** Navegar para a seção "Acompanhar Inscrição".
+- **Operator 7.2:** Inserir os dados de acesso (CPF e senha).
+- **Operator 7.3:** Visualizar o status da inscrição.
+- **Operator 7.4:** Escolher entre as opções:
+- **Operator 7.4.1:** Excluir inscrição, caso necessário.
+- **Operator 7.4.2:** Continuar acompanhando o status.
+
+**Goal 8: Agendar entrevista de estágio** (se aplicável)
+- **Operator 8.1:** Receber a validação da inscrição.
+- **Operator 8.2:** Navegar até a seção de agendamento.
+- **Operator 8.3:** Escolher a data e horário disponíveis.
+- **Operator 8.4:** Confirmar o agendamento.
+- **Operator 8.5:** Receber uma confirmação do agendamento por e-mail.
+
 ---
 
 ## **Diagrama HTA – Inscrever-se no Programa de Estágio da DPDF**
