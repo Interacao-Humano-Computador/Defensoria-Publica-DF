@@ -7,6 +7,7 @@
 | 02/12/2024 |        02/12/2024        |  1.2   |      Adição da tarefa 04       |                                                              [Lucas Sales](https://github.com/Lux-Sales)     
 | 28/12/2024 |        03/01/2025        |  1.3   | Modificação Tarefa 01 |                                                              [Karolina Vieira](https://github.com/Karolina91)                                                              | [Paola Nascimento](https://github.com/paolaalim) |
 | 03/01/2025 |        03/01/2025        |  1.4   |      Adição da tarefa 05       |                                                              [Paola Nascimento](https://github.com/paolaalim)                                                         | [Karolina Vieira](https://github.com/Karolina91) |
+| 20/01/2025 |        20/01/2025        |  1.5   |      Atualização da tarefa 02       |                                                              [Paola Nascimento](https://github.com/paolaalim)                                                         | [Karolina Vieira](https://github.com/Karolina91) |
 
 
 ## **Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)**
