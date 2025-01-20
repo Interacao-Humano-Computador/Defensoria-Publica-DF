@@ -42,31 +42,45 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 - **OP 4.2**: Verificar o e-mail ou mensagens para confirmar o agendamento e receber instruções adicionais, se aplicável.
 
 ---
+## **Tarefa 2: Inscrever-se no Programa de Estágio da DPDF**
 
-## **Diagrama HTA – Acompanhar a Resposta de uma Solicitação**
 
-![Solicitação](../assets/images/HTA_agendamento.png)
+**Goal 0:** Buscar informações sobre o Programa de Estágio da DPDF e concluir a inscrição<br/>
+
+**Method 1:** Navegar no site da DPDF para encontrar informações e realizar a inscrição<br/>
+
+**Goal 1: Acessar o site da DPDF**<br/>
+- **Operator 1.1:** Abrir o navegador no notebook<br/>
+- **Operator 1.2:** Digitar o endereço do site da DPDF na barra de endereços<br/>
+
+**Goal 2: Navegar até a seção de estágio**<br/>
+- **Operator 2.1:** Procurar pela seção "Estágio Remunerado" no menu  <br/>
+- **Operator 2.3:** Clicar na opção "Estágio Remunerado"<br/>
+
+**Goal 3: Procurar informações sobre o processo seletivo**<br/>
+- **Operator 3.1:** Ler o conteúdo da página sobre o programa de estágio<br/>
+- **Operator 3.2:** Identificar e clicar em links relevantes para informações adicionais<br/>
+
+**Goal 4: Acessar materiais relevantes**<br/>
+- **Operator 4.1:** Clicar em links para visualizar portarias e materiais relacionados<br/>
+- **Operator 4.2:** Baixar arquivos importantes (ex.: portarias, formulários, leis)<br/>
+
+**Goal 5: Realizar a inscrição no estágio**<br/>
+- **Operator 5.1:** Identificar o botão "Inscreva-se" na página do estágio<br/>
+- **Operator 5.2:** Clicar no botão para iniciar o processo de inscrição<br/>
+- **Operator 5.3:** Preencher os dados pessoais no formulário online<br/>
+- **Operator 5.4:** Anexar documentação necessária<br/>
+- **Operator 5.5:** Clicar no botão "Enviar Inscrição"<br/>
+
+**Goal 6: Receber confirmação da inscrição**<br/>
+- **Operator 6.1:** Verificar a mensagem de sucesso exibida na tela ("Inscrição realizada com sucesso!")<br/>
+- **Operator 6.2:** Clicar no botão "Baixar Comprovante" para salvar um recibo da inscrição<br/>
 
 ---
-## **Tarefa 2: Utilizar o Chatbot para Assistência**
 
- **Goal 0:** Utilizar o chatbot para assistência<br/>
+## **Diagrama HTA – Inscrever-se no Programa de Estágio da DPDF**
 
- **Method 1:** Interagir com o chatbot para obter assistência<br/>
-
- **Goal 1:** Iniciar a interação com o chatbot<br/>
-- **OP 1.1:** Deslocar o cursor até o ícone do chatbot.<br/>
-- **OP 1.2:** Clicar no ícone para abrir a janela de chat.<br/>
-
- **Goal 2:** Escolher a opção desejada entre as alternativas apresentadas<br/>
-- **OP 2.1:** Clicar em uma das opções apresentadas pelo chatbot.<br/>
-
- **Goal 3:** Navegar pelo chatbot<br/>
-- **OP 3.1:** Clicar no botão "Voltar" para retornar ao menu anterior.<br/>
-- **OP 3.2:** Clicar no botão "Menu Principal" para voltar às opções iniciais.<br/>
-
- **Goal 4:** Obter a resposta final<br/>
-- **OP 4.1:** Ler as instruções fornecidas ou clicar no link redirecionado.<br/>
+![HTA Estagio](../assets/images/HTA-Estagio.png)
 
 ---
 
@@ -134,46 +148,32 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 
 ![HTA SUAP](../assets/images/HTA-SUAP.jpg)
 
----
-## **Tarefa 5: Inscrever-se no Programa de Estágio da DPDF**
-
-
-**Goal 0:** Buscar informações sobre o Programa de Estágio da DPDF e concluir a inscrição<br/>
-
-**Method 1:** Navegar no site da DPDF para encontrar informações e realizar a inscrição<br/>
-
-**Goal 1: Acessar o site da DPDF**<br/>
-- **Operator 1.1:** Abrir o navegador no notebook<br/>
-- **Operator 1.2:** Digitar o endereço do site da DPDF na barra de endereços<br/>
-
-**Goal 2: Navegar até a seção de estágio**<br/>
-- **Operator 2.1:** Procurar pela seção "Estágio Remunerado" no menu  <br/>
-- **Operator 2.3:** Clicar na opção "Estágio Remunerado"<br/>
-
-**Goal 3: Procurar informações sobre o processo seletivo**<br/>
-- **Operator 3.1:** Ler o conteúdo da página sobre o programa de estágio<br/>
-- **Operator 3.2:** Identificar e clicar em links relevantes para informações adicionais<br/>
-
-**Goal 4: Acessar materiais relevantes**<br/>
-- **Operator 4.1:** Clicar em links para visualizar portarias e materiais relacionados<br/>
-- **Operator 4.2:** Baixar arquivos importantes (ex.: portarias, formulários, leis)<br/>
-
-**Goal 5: Realizar a inscrição no estágio**<br/>
-- **Operator 5.1:** Identificar o botão "Inscreva-se" na página do estágio<br/>
-- **Operator 5.2:** Clicar no botão para iniciar o processo de inscrição<br/>
-- **Operator 5.3:** Preencher os dados pessoais no formulário online<br/>
-- **Operator 5.4:** Anexar documentação necessária<br/>
-- **Operator 5.5:** Clicar no botão "Enviar Inscrição"<br/>
-
-**Goal 6: Receber confirmação da inscrição**<br/>
-- **Operator 6.1:** Verificar a mensagem de sucesso exibida na tela ("Inscrição realizada com sucesso!")<br/>
-- **Operator 6.2:** Clicar no botão "Baixar Comprovante" para salvar um recibo da inscrição<br/>
 
 ---
+## **Diagrama HTA – Acompanhar a Resposta de uma Solicitação**
 
-## **Diagrama HTA – Inscrever-se no Programa de Estágio da DPDF**
+![Solicitação](../assets/images/HTA_agendamento.png)
 
-![HTA Estagio](../assets/images/HTA-Estagio.png)
+---
+## **Tarefa 5: Utilizar o Chatbot para Assistência**
+
+ **Goal 0:** Utilizar o chatbot para assistência<br/>
+
+ **Method 1:** Interagir com o chatbot para obter assistência<br/>
+
+ **Goal 1:** Iniciar a interação com o chatbot<br/>
+- **OP 1.1:** Deslocar o cursor até o ícone do chatbot.<br/>
+- **OP 1.2:** Clicar no ícone para abrir a janela de chat.<br/>
+
+ **Goal 2:** Escolher a opção desejada entre as alternativas apresentadas<br/>
+- **OP 2.1:** Clicar em uma das opções apresentadas pelo chatbot.<br/>
+
+ **Goal 3:** Navegar pelo chatbot<br/>
+- **OP 3.1:** Clicar no botão "Voltar" para retornar ao menu anterior.<br/>
+- **OP 3.2:** Clicar no botão "Menu Principal" para voltar às opções iniciais.<br/>
+
+ **Goal 4:** Obter a resposta final<br/>
+- **OP 4.1:** Ler as instruções fornecidas ou clicar no link redirecionado.<br/>
 
 ---
 
