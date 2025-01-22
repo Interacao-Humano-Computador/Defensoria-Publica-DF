@@ -57,47 +57,20 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 
 **Method 1:** Navegar no site da DPDF para encontrar informações e realizar a inscrição<br/>
 
-**Goal 1: Acessar o site da DPDF**<br/>
-- **Operator 1.1:** Abrir o navegador no notebook<br/>
-- **Operator 1.2:** Digitar o endereço do site da DPDF na barra de endereços<br/>
+**Goal 1: Realizar a inscrição no estágio**<br/>
+- **Operator 1.1:** Preencher os dados pessoais no formulário online<br/>
+- **Operator 1.2:** Anexar documentação necessária<br/>
+- **Operator 1.3:** Clicar no botão "Enviar Inscrição"<br/>
 
-**Goal 2: Navegar até a seção de estágio**<br/>
-- **Operator 2.1:** Procurar pela seção "Estágio Remunerado" no menu  <br/>
-- **Operator 2.3:** Clicar na opção "Estágio Remunerado"<br/>
+**Goal 2: Acompanhar a inscrição**
+- **Operator 2.1:** Inserir os dados de acesso (CPF e senha).
+- **Operator 2.2:** Visualizar o status da inscrição.
 
-**Goal 3: Procurar informações sobre o processo seletivo**<br/>
-- **Operator 3.1:** Ler o conteúdo da página sobre o programa de estágio<br/>
-- **Operator 3.2:** Identificar e clicar em links relevantes para informações adicionais<br/>
-
-**Goal 4: Acessar materiais relevantes**<br/>
-- **Operator 4.1:** Clicar em links para visualizar portarias e materiais relacionados<br/>
-- **Operator 4.2:** Baixar arquivos importantes (ex.: portarias, formulários, leis)<br/>
-
-**Goal 5: Realizar a inscrição no estágio**<br/>
-- **Operator 5.1:** Identificar o botão "Inscreva-se" na página do estágio<br/>
-- **Operator 5.2:** Clicar no botão para iniciar o processo de inscrição<br/>
-- **Operator 5.3:** Preencher os dados pessoais no formulário online<br/>
-- **Operator 5.4:** Anexar documentação necessária<br/>
-- **Operator 5.5:** Clicar no botão "Enviar Inscrição"<br/>
-
-**Goal 6: Receber confirmação da inscrição**<br/>
-- **Operator 6.1:** Verificar a mensagem de sucesso exibida na tela ("Inscrição realizada com sucesso!")<br/>
-- **Operator 6.2:** Clicar no botão "Baixar Comprovante" para salvar um recibo da inscrição<br/>
-
-**Goal 7: Acompanhar a inscrição**
-- **Operator 7.1:** Navegar para a seção "Acompanhar Inscrição".
-- **Operator 7.2:** Inserir os dados de acesso (CPF e senha).
-- **Operator 7.3:** Visualizar o status da inscrição.
-- **Operator 7.4:** Escolher entre as opções:
-- **Operator 7.4.1:** Excluir inscrição, caso necessário.
-- **Operator 7.4.2:** Continuar acompanhando o status.
-
-**Goal 8: Agendar entrevista de estágio** (se aplicável)
-- **Operator 8.1:** Receber a validação da inscrição.
-- **Operator 8.2:** Navegar até a seção de agendamento.
-- **Operator 8.3:** Escolher a data e horário disponíveis.
-- **Operator 8.4:** Confirmar o agendamento.
-- **Operator 8.5:** Receber uma confirmação do agendamento por e-mail.
+**Goal 3: Agendar entrevista de estágio** (se aplicável)
+- **Operator 3.1:** Preencher formulário.
+- **Operator 3.2:** Escolher a data e horário disponíveis.
+- **Operator 3.3:** Confirmar o agendamento.
+- **Operator 3.4:** Baixar comprovante
 
 ---
 
