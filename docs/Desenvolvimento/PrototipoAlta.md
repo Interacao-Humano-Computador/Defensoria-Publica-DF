@@ -19,7 +19,7 @@ Além disso, o **Guia de Estilo**, previamente elaborado, foi seguido durante o 
 Os protótipos de alta fidelidade representam as principais funcionalidades do sistema, sendo cada uma delas desenvolvida por um integrante da equipe. A tela inicial, comum a todas as funcionalidades, foi projetada para oferecer uma navegação clara e acessível, servindo como ponto de entrada para opções como agendamento de consultas com advogado e increve-se em um programa de estágio. 
 
 ### Figura 1 -Proposta da Tela Incial da Defensoria Publica Distrito Federal 
-![Figura 1 - Tela Inicial](../assets/images/MenuDPDF.png)
+![Figura 1 - Tela Inicial](../assets/images/telainicialprototipo.png)
 <figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
 A seguir, são detalhados os protótipos de alta fidelidade desenvolvidos para cada funcionalidade:
