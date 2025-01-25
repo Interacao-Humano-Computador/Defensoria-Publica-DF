@@ -35,7 +35,19 @@ Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agend
 ### Figura 3 -Tela de confirmar ou excluir agendamento
 ![Figura 1 - Tela Inicial](../assets/images/confirmarAgendamento.png)<figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
+
+
+
+
+
+
+
 ## Protótipo de Alta Fidelidade 2 - Increve-se no Programa de Estágio DPDF
+
+
+### Figura 4 -Tela de confirmar ou excluir agendamento
+![Figura 1 - Tela Inicial](../assets/images/confirmarAgendamento.png)<figcaption>Autor: Karolina Vieira (2025)</figcaption>
+
 
 
 ## Referências Bibliográficas
