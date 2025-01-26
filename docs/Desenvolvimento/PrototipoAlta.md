@@ -45,9 +45,26 @@ Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agend
 ## Protótipo de Alta Fidelidade 2 - Increve-se no Programa de Estágio DPDF
 
 
-### Figura 4 -Tela de confirmar ou excluir agendamento
-![Figura 1 - Tela Inicial](../assets/images/confirmarAgendamento.png)<figcaption>Autor: Karolina Vieira (2025)</figcaption>
+### Figura 4 -Tela de Estágio Remunerado
+![Figura 1 - Tela de Estágio Remunerado](../assets/images/telaestagioprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
+### Figura 5 -Formulário de inscrição
+![Figura 1 - Tela para se inscrever no estágio](../assets/images/formularioinscricaoprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
+
+### Figura 6 -Tela de login para a sessão Acompanhar inscrição
+![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/acompanharinscricaoprototitpo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
+
+### Figura 7 -Tela de acompanhar inscrição
+![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/acompanharinscricaoprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
+
+### Figura 8 -Tela para agendar entrevista
+![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/agendarentrevistaprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
+
+### Figura 9 -Tela para excluir inscrição
+![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/excluirinscricaoprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
+
+### Figura 10 -Mensagens de erro e êxito
+![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/X)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
 
 ## Referências Bibliográficas
