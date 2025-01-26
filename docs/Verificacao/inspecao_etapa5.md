@@ -218,7 +218,6 @@
 
 ## Referências Bibliográficas
 
-## Bibliografia
 [1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.
 
 [2] Análise da plataforma Bilheteria Digital - Características da plataforma, disponível em: [https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.md](https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/verificacao/grupo/etapa5/planejamento-verificacao-etapa5-grupo.mds/). Acesso em 06 de Janeiro de 2025. 

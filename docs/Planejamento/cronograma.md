@@ -227,7 +227,7 @@
 
 |                                       Tarefa                                       | Responsáveis |   Início   |    Fim     | Revisão Início | Revisão Fim |   Revisor   |
 | :--------------------------------------------------------------------------------: | :----------: | :--------: | :--------: | :------------: | :---------: | :---------: |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Lucas Sales  | 13/01/2025 | 14/01/2025 |   15/01/2025   | 16/01/2025  | João Victor |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Lucas Sales  | 13/01/2025 | 14/01/2025 |   15/01/2025   | 16/01/2025  | João Victor |
 |                      Melhora do protótipo de alta fidelidade                       |    João Victor,Lucas Sales, Paola Lima, Karolina Vieira     | 14/01/2025 | 15/01/2025 |   16/01/2025   | 16/01/2025  |    João Victor,Lucas Sales, Paola Lima, Karolina Vieira    |
 |                 Gravação da apresentação dos resultados da etapa 7                 |    João Victor,Lucas Sales, Paola Lima, Karolina Vieira     | 16/01/2025 | 16/01/2025 |   16/01/2025   | 16/01/2025  |    João Victor,Lucas Sales, Paola Lima, Karolina Vieira    |
 
@@ -235,6 +235,9 @@
 
 | Tarefa | Responsáveis | Início |  Fim  | Revisão Início | Revisão Fim | Revisor |
 | :----: | :----------: | :----: | :---: | :------------: | :---------: | :-----: |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade   |    Paola Lima  e Karolina Vieira  | 25/01/2025 | 25/01/2025 |   25/01/2025   | 25/01/2025  | Karolina Vieira |
+|                      Melhora do protótipo de alta fidelidade         |    Paola Lima e Karolina Vieira   | 22/01/2025 | 22/01/2025 |   22/01/2025   | 22/01/2025  |    Paola Lima e Karolina Vieira    |
+|                 Gravação da apresentação dos resultados da etapa 7   |    Paola Lima e Karolina Vieira   | 26/01/2025 | 26/01/2025 |   26/01/2025   | 26/01/2025  |    Paola Lima e Karolina Vieira |
 
 <div id="etapa8" align="center" color="yellow"><h2>Etapa 8</h2></div>
 

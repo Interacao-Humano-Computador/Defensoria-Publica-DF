@@ -8,7 +8,7 @@
 
 ## Tabela 1 - Inspeção do Grupo 
 
-| O GitHub Pages possui:                                                                                                    | Resposta    | Versão, Data e Hora da Avaliação       |
+| Pergunta                                                                                                    | Resposta    | Versão, Data e Hora da Avaliação       |
 |--------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
 | 1 – O histórico de versão padronizado?                                                                                  |     Conforme       | v1.0, 15/01/2025, 18:00               |
 | 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                |       Conforme     | v1.0, 15/01/2025, 18:00               |
@@ -36,7 +36,7 @@
 
 ## Tabela 2- Inspeção do Grupo+1 
 
-| O GitHub Pages possui:                                                                                                    | Resposta    | Versão, Data e Hora da Avaliação       |
+| Pergunta                                                                                                    | Resposta    | Versão, Data e Hora da Avaliação       |
 |--------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
 | 1 – O histórico de versão padronizado?                                                                                  |      Conforme      | v1.0, 15/01/2025, 18:00               |
 | 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                |            | v1.0, 15/01/2025, 18:00               |
@@ -61,3 +61,8 @@
 | 21 - O planejamento do relato dos resultados prevê um planejamento de reprojeto se necessário?                           |            | v1.0, 15/01/2025, 18:00               |
 | 22 - Os protótipos seguem o guia de estilo definido pelo grupo?                                                          |            | v1.0, 15/01/2025, 18:00               |
 | 23 - O protótipo de alta fidelidade utiliza recursos que possivelmente estarão no produto final?                         |            | v1.0, 15/01/2025, 18:00               |
+
+## Referências Bibliográficas
+
+[1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303  cap 12, 2022.
+[2] SALES, André. Plano de Ensino da disciplina Interação Humano Computador. Universidade de Brasília, Campus UNB Gama: Faculdade de Ciências e Tecnologias em Engenharia, 2024.
