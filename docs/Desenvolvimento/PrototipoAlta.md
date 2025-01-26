@@ -52,7 +52,7 @@ As figuras apresentadas a seguir ilustram o protótipo desenvolvido para a taref
 Essa tela (Figura 4) é a página inicial desse processo, onde usuários interessados em estágios remunerados podem visualizar informações relevantes, se inscrever e acompanhar a inscrição.
 
 ### Figura 5 -Formulário de inscrição
-![Figura 1 - Tela para se inscrever no estágio](../assets/images/formularioinscricaoprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
+![Figura 1 - Tela para se inscrever no estágio](../assets/images/formularioinscricaoestagio.svg)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
 O formulário de inscrição (Figura 5) possibilita ao usuário cadastrar-se em um estágio de maneira prática e objetiva. Nele, os campos são organizados de forma clara, garantindo que as informações necessárias sejam preenchidas com precisão e eficiência.
 
@@ -66,7 +66,7 @@ A tela de login (Figura 6) foi projetada para garantir a segurança e personaliz
 A Figura 7 exibe a interface que permite aos usuários verificarem o status de suas inscrições, o histórico de notificações e agendarem entrevistas quando disponíveis. A visualização detalhada oferece maior transparência e promove a interação entre o candidato e o sistema.
 
 ### Figura 8 -Tela para agendar entrevista
-![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/agendarentrevistaprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
+![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/agendarestrevistaestagio.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
 A tela para agendamento de entrevistas (Figura 8) facilita a escolha de datas, local e localidade da entrevista, proporcionando um processo eficiente e prático.
 
@@ -75,10 +75,13 @@ A tela para agendamento de entrevistas (Figura 8) facilita a escolha de datas, l
 
 A Figura 9 ilustra a tela destinada à exclusão de inscrições. Essa funcionalidade possibilita que o canditato gerencie suas informações.
 
-### Figura 10 -Mensagens de erro e êxito
-![Figura 1 - Telas de mensagens de erro e êxito](../assets/images/X)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
+### Figura 10 -Mensagens de erro 
+![Figura 1 - Telas de mensagens de erro e êxito](../assets/images/mensagensdeerroprototipo.svg)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
-Por fim, a Figura 10 reúne exemplos de mensagens de feedback exibidas pelo sistema, sejam de erro ou de sucesso, que contribuem para uma interação transparente e direta entre o usuário e o sistema. Essas representações visuais exemplificam o compromisso com a usabilidade e acessibilidade. 
+### Figura 10 -Mensagens de êxito
+![Figura 1 - Telas de mensagens de erro e êxito](../assets/images/mensagensdexitoprototipo.svg)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
+
+Por fim, as Figuras 10 e 11 reúnem exemplos de mensagens de feedback exibidas pelo sistema, de erro e de sucesso, que contribuem para uma interação transparente e direta entre o usuário e o sistema. Essas representações visuais exemplificam o compromisso com a usabilidade e acessibilidade. 
 
 ## Referências Bibliográficas
 BARBOSA, Simone; DINIZ, Bruno. *Interação Humano-Computador*. Editora Elsevier, Rio de Janeiro, 2010.
