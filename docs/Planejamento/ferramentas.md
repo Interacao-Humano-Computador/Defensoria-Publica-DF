@@ -27,4 +27,6 @@ Ao longo deste projeto, utilizamos um conjunto estratégico de ferramentas para 
 | <img src="https://img.icons8.com/color/48/000000/google-logo.png"  width="25"> | Google Chrome/Brave/Firefox | Navegadores para acessar e testar plataformas e ferramentas online.                                         |
 | <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" width="25"> | Microsoft Teams                 | Ferramenta de comunicação completa, usada para reuniões online e também para gravar encontros.                 |
 | <img src="https://img.icons8.com/color/48/000000/figma.png"  width="25"> | Figma | Plataforma colaborativa para design de interfaces, permitindo criar protótipos interativos e realizar edições em tempo real com equipes.                                         |
-| <img src="https://img.icons8.com/color/48/000000/canva.png"  width="25"> | Canva | Ferramenta de design gráfico intuitiva.                                         |
+| <img src="../assets/images/protoripo2.jpg" width="25">
+ | Canva | Ferramenta de design gráfico intuitiva.                                         |
+| <img src="../assets/images/logo_4devs.jpg" width="25">  | 4devs | Ferramenta geradora de nomes, CPF, textos para ajudar programadores com ferramentas online e gratuitas.                                         |
