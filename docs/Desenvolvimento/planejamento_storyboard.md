@@ -42,8 +42,8 @@ O método de pesquisa escolhido foi a entrevista, devido à sua habilidade de ex
 ## Identificar e administrar as questões práticas de avaliação
 
 ### Participantes
-Os participantes das entrevistas serão escolhidos com base no Perfil de usuário.
-Aqui está a tabela atualizada sem a coluna "Local":
+
+Os participantes serão selecionados com base no perfil de usuário definido durante a análise de requisitos, priorizando indivíduos que representem o público-alvo do protótipo. Serão escolhidos 3 participantes para os testes de usabilidade, pois, segundo Krug, é possível identificar a maior parte dos problemas com três ou quatro participantes.
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
 |------------------------|---------------------|-----------------------|--------------------|----------------|

@@ -28,9 +28,9 @@ Durante o desenvolvimento do nosso projeto de Interação Humano-Computador, opt
 
 Pessoas entre 18 e 60 anos, brasileiros, que se resumem a estudantes, trabalhadores autônomos e assalariados que utilizem do site da defensoria pública.
 
-## Número de participantes
+### Participantes
 
-Não é necessário definir um limite de usuários para esse teste.
+Os participantes serão selecionados com base no perfil de usuário definido durante a análise de requisitos, priorizando indivíduos que representem o público-alvo do protótipo. Serão escolhidos 3 participantes para os testes de usabilidade, pois, segundo Krug, é possível identificar a maior parte dos problemas com três ou quatro participantes.
 
 ## Questões Específicas
 
