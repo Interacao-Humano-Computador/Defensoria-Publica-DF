@@ -15,8 +15,8 @@ Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela 
 
 | Entrevistador     | Entrevistado      | Horário de Início | Horário de Fim | Data      | Local/Plataforma |
 |:-----------------:|:-----------------:|:-----------------:|:--------------:|:---------:|:----------------:|
-| Karolina Vieira   | Fernanda Alves    | 15:30             | 16:00          | 02/01/2025 | Residência       |
-| Paola Nascimento  | Vanda Rabelo      | 14:00             | 14:30          | 04/01/2025 | Residência       |
+| Karolina Vieira   | Fernanda     | 15:30             | 16:00          | 02/01/2025 | Residência       |
+| Paola Nascimento  | Vanda       | 14:00             | 14:30          | 04/01/2025 | Residência       |
 
 <font size="2"><p style="text-align: center">Autor:
 [Karolina Vieira](https://github.com/Karolina91)</p></font>
