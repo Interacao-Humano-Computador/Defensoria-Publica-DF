@@ -31,7 +31,7 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 - OP. 1.B.1: Localizar a barra de pesquisa no site..
 - OP. 1.B.3: Digitar "agendamento de consulta com advogado".
 - OP. 1.B.4: Pressionar "Enter".
--  OP. 1.B.6: Clicar no link correspondente.
+- OP. 1.B.6: Clicar no link correspondente.
 
 **GOAL** 2: Preencher o formulário de agendamento.
 
