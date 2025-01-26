@@ -71,7 +71,7 @@ Nenhuma sugestão de melhoria foi apresentada, pois o protótipo atendeu plename
 
 ### Feedback dos Usuários  
 
-OO usuário relatou uma experiência positiva ao interagir com o protótipo. Ele considerou a interface intuitiva, funcional e consistente, o que facilitou a realização das tarefas de forma eficiente. O design foi elogiado por ser limpo e focado nos elementos essenciais, contribuindo para uma navegação simples e direta 
+O usuário relatou uma experiência positiva ao interagir com o protótipo. Ele considerou a interface intuitiva, funcional e consistente, o que facilitou a realização das tarefas de forma eficiente. O design foi elogiado por ser limpo e focado nos elementos essenciais, contribuindo para uma navegação simples e direta 
 
 
 
