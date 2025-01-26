@@ -74,6 +74,10 @@ Os resultados obtidos a partir das avaliações propostas no cronograma serão a
 
 <font size="2"><p style="text-align: center">Autor:[ Karolina Vieira](https://github.com/Karolina91)
 
+### Participantes
+
+Os participantes serão selecionados com base no perfil de usuário definido durante a análise de requisitos, priorizando indivíduos que representem o público-alvo do protótipo. Serão escolhidos 3 participantes para os testes de usabilidade, pois, segundo Krug, é possível identificar a maior parte dos problemas com três ou quatro participantes.
+
 ## Teste Piloto
 
 Antes de realizar as entrevistas principais, conduzimos um teste piloto para validar o roteiro e identificar ajustes necessários. Um participante com perfil semelhante ao público-alvo foi convidado para avaliar a clareza das perguntas, o fluxo da entrevista, o tempo necessário e possíveis dificuldades. Os resultados permitiram otimizar o processo, garantindo maior eficácia nas entrevistas principais.

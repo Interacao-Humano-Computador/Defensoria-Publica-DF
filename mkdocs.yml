@@ -68,6 +68,7 @@ nav:
     - Apresentação etapa 3: Apresentacoes/apresentacao3.md
     - Apresentação etapa 5: Apresentacoes/apresentacao5.md
     - Apresentação etapa 6: Apresentacoes/apresentacao6.md
+    - Apresentação etapa 7: Apresentacoes/apresentacao7.md
   - Análise de Requisitos:
     - Perfil de Usuário: Analise/perfilUsuario.md
     - Personas: Analise/personas.md
@@ -107,6 +108,7 @@ nav:
       - Inspeção 4ª etapa: Verificacao/inspecao_etapa4.md 
       - Inspeção 5º etapa: Verificacao/inspecao_etapa5.md
       - Inspeção 6º etapa: Verificacao/inspecao_etapa6.md
+      - Inspeção 7º etapa: Verificacao/inspecao_etapa7.md
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
     - Como contribuir?: Contribuição/Tutorial.md

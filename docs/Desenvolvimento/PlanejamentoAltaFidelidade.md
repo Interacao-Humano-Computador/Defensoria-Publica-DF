@@ -60,8 +60,10 @@ A **entrevista** será aplicada para avaliar o aspecto de apropriação da tecno
 
 A identificação e administração das questões práticas são cruciais para garantir que a avaliação do protótipo ocorra de maneira eficiente, respeitando as limitações de recursos, tempo e logística. A seguir, são detalhadas as questões práticas relacionadas ao planejamento do teste, organização dos materiais, preparação do local, recrutamento de usuários, condução do teste, análise dos resultados e correção do site, conforme descrito por Badre (2002).
 
-### Recrutamento
-Os participantes serão selecionados com base no perfil de usuário definido durante a análise de requisitos, priorizando indivíduos que representem o público-alvo do protótipo.
+### Participantes
+
+Os participantes serão selecionados com base no perfil de usuário definido durante a análise de requisitos, priorizando indivíduos que representem o público-alvo do protótipo. Serão escolhidos 3 participantes para os testes de usabilidade, pois, segundo Krug, é possível identificar a maior parte dos problemas com três ou quatro participantes.
+
 
 #### Avaliação Heurística:
 - **Ferramentas**: Computador para redigir o relatório dos resultados;
@@ -84,11 +86,13 @@ Os participantes serão selecionados com base no perfil de usuário definido dur
 
 ## Questões Éticas (D)
 
-Antes de iniciar os testes, os participantes deverão assinar um termo de consentimento livre e esclarecido, garantindo que:
+Antes de iniciar os testes, os participantes deverão assinar um [Termo de Consentimento Livre e Esclarecido](../Analise/aspectoseticos.md), garantindo que:
 
 - A participação é voluntária e pode ser interrompida a qualquer momento;
 - Os dados coletados serão usados apenas para fins acadêmicos;
 - A identidade dos participantes será preservada.
+
+
 
 ## Teste Piloto
 

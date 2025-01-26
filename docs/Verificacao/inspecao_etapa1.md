@@ -51,3 +51,8 @@
 |                                                                                8 – A gravação da reunião do grupo.                                                                                 |                               |        |       |       |
 |                                                                  9 - Vídeo de apresentação na categoria “não listado” no youtube?                                                                  |                               |        |       |       |
 |                              A justificativa da escolha do Processo de Design? Adicionar: referência bibliográfica da fonte e foto do texto da referência. Autor(es)                               |                               |        |       |       |
+
+## Referências Bibliográficas
+
+[1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303  cap 12, 2022.
+[2] SALES, André. Plano de Ensino da disciplina Interação Humano Computador. Universidade de Brasília, Campus UNB Gama: Faculdade de Ciências e Tecnologias em Engenharia, 2024.
