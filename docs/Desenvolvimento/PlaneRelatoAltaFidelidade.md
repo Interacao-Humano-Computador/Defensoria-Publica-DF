@@ -35,7 +35,7 @@ Detalhar a metodologia empregada na coleta de dados, como a realização de entr
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
 |------------------------|---------------------|-----------------------|--------------------|----------------|
 | Karolina Vieira        | Fernanda Alves      | 15:00                | 15:30             | 19/01/2025  |
-| Paola Rebeca           |         |                |             |    |
+| Paola Rebeca           |    Dayane     |       17:30         |      18:00       |  22/01/2025  |
 
 ### **Seleção dos Participantes**
 Apresentar os participantes selecionados, justificando sua escolha e o alinhamento com o perfil do usuário. 

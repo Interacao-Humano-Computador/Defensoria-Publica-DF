@@ -34,17 +34,20 @@ Os objetivos da avaliação são essenciais para identificar os pontos do protó
 Baseando-se nos objetivos da avaliação, as perguntas que precisam ser respondidas durante a avaliação do protótipo de alta fidelidade foram definidas e adaptadas a partir da tabela de exemplos de perguntas de avaliação de IHC proposta por Barbosa (2021). Essas perguntas são fundamentais para a operacionalização do processo de avaliação, permitindo um julgamento sobre os aspectos analisados. As perguntas definidas para a avaliação do protótipo de alta fidelidade são:
 
 <font size="2"><p style="text-align: center">Tabela 1: Questionário</p></font>
-| **Objetivo**                       | **Pergunta**                                                                                   | **Resposta** |
-|-------------------------------------|-------------------------------------------------------------------------------------------------|--------------|
-| Ideias e Alternativas de Design     | 1. O design atual do protótipo é fácil de aprender?                                             |     Sim/Não         |
-| Ideias e Alternativas de Design     | 2. Você prefere o design apresentado no protótipo em comparação a outras interfaces similares que já usou? |      Sim/Não         |
-| Ideias e Alternativas de Design     | 3. O design do protótipo facilita a realização de tarefas sem causar frustrações?              |  Sim/Não             |
-| Conformidade com um padrão          | 4. A interface está em conformidade com padrões de acessibilidade que você já conhece?         |     Sim/Não          |
-| Conformidade com um padrão          | 5. Os termos e rótulos usados na interface são familiares para você?                           |        Sim/Não       |
-| Conformidade com um padrão          | 6. Você percebe consistência nos elementos e padrões do design ao longo da interface?          |     Sim/Não          |
-| Problemas na Interação e Interface  | 7. Você conseguiu realizar as tarefas propostas sem dificuldades no protótipo?                 |    Sim/Não           |
-| Problemas na Interação e Interface  | 8. Houve algum momento em que você se sentiu confuso ou insatisfeito ao interagir com o protótipo? |       Sim/Não        |
-| Problemas na Interação e Interface  | 9. Você entendeu claramente a função de cada elemento da interface?                            |         Sim/Não      |
+
+### Tabela 1: Questionário
+
+| **Objetivo**                         | **Pergunta**                                                                                   | **Resposta** |
+|---------------------------------------|-------------------------------------------------------------------------------------------------|--------------|
+| Ideias e Alternativas de Design       | 1. O design atual do protótipo é fácil de aprender?                                             | Sim/Não      |
+| Ideias e Alternativas de Design       | 2. Você prefere o design apresentado no protótipo em comparação a outras interfaces similares que já usou? | Sim/Não      |
+| Ideias e Alternativas de Design       | 3. O design do protótipo facilita a realização de tarefas sem causar frustrações?              | Sim/Não      |
+| Conformidade com um padrão            | 4. A interface está em conformidade com padrões de acessibilidade que você já conhece?         | Sim/Não      |
+| Conformidade com um padrão            | 5. Os termos e rótulos usados na interface são familiares para você?                           | Sim/Não      |
+| Conformidade com um padrão            | 6. Você percebe consistência nos elementos e padrões do design ao longo da interface?          | Sim/Não      |
+| Problemas na Interação e Interface    | 7. Você conseguiu realizar as tarefas propostas sem dificuldades no protótipo?                 | Sim/Não      |
+| Problemas na Interação e Interface    | 8. Houve algum momento em que você se sentiu confuso ou insatisfeito ao interagir com o protótipo? | Sim/Não      |
+| Problemas na Interação e Interface    | 9. Você entendeu claramente a função de cada elemento da interface?                            | Sim/Não      |
 
 <font size="2"><p style="text-align: center">Autor:
 [Paola Nascimento](https://github.com/paolaali)
@@ -71,10 +74,10 @@ Os participantes serão selecionados com base no perfil de usuário definido dur
 
 | Data       | Atividade                              | Responsável         | Revisor        |
 |------------|----------------------------------------|---------------------|----------------|
-|            | Entrega do protótipo de alta fidelidade | Paola e Karolina    | Paola e Karolina |
-|            | Aplicação do teste piloto              | Paola e Karolina    | Paola e Karolina |
-|            | Realização da avaliação com participantes | Paola e Karolina    | Paola e Karolina |
-|            | Análise dos dados e elaboração do relatório | Paola e Karolina    | Paola e Karolina |
+|       22/01/2025     | Entrega do protótipo de alta fidelidade | Paola e Karolina    | Paola e Karolina |
+|       23/01/2025     | Aplicação do teste piloto              | Paola e Karolina    | Paola e Karolina |
+|       24/01/2025     | Realização da avaliação com participantes | Paola e Karolina    | Paola e Karolina |
+|       24/01/2025     | Análise dos dados e elaboração do relatório | Paola e Karolina    | Paola e Karolina |
 
 <font size="2"><p style="text-align: center">Fonte:
 [Paola Nascimento](https://github.com/paolaalim)
