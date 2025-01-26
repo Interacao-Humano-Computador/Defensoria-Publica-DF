@@ -38,9 +38,9 @@
 
 | O GitHub Pages possui:                                                                                                    | Resposta    | Versão, Data e Hora da Avaliação       |
 |--------------------------------------------------------------------------------------------------------------------------|------------|----------------------------------------|
-| 1 – O histórico de versão padronizado?                                                                                  |            | v1.0, 15/01/2025, 18:00               |
+| 1 – O histórico de versão padronizado?                                                                                  |      Conforme      | v1.0, 15/01/2025, 18:00               |
 | 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                |            | v1.0, 15/01/2025, 18:00               |
-| 3 – Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                  |            | v1.0, 15/01/2025, 18:00               |
+| 3 – Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                  |      Conforme      | v1.0, 15/01/2025, 18:00               |
 | 4 – As tabelas e imagens possuem legenda e fonte e elas são chamadas dentro do texto?                                    |            | v1.0, 15/01/2025, 18:00               |
 | 5 – Um texto fazendo uma introdução dos artefatos?                                                                       |            | v1.0, 15/01/2025, 18:00               |
 | 6 – O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade. |            | v1.0, 15/01/2025, 18:00               |
