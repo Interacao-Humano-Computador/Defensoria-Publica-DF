@@ -71,14 +71,14 @@ O protótipo foi avaliado como consistente em termos de design, apresentando pad
 
 
 
-## Entrevista - Agendar uma consulta com o advogado 
+## Entrevista - Inscrever-se no Programa de Estágio DPDF 
 
 ### Objetivos
-A avaliação teve como objetivo analisar o [Protótipo de Alta Fidelidade 1 - Agendar uma consulta com o advogado](./ProtiposdePapel.md), com o intuito de identificar pontos de melhoria na interação e na interface. O foco foi explorar aspectos relacionados às escolhas de design e identificar possíveis problemas de usabilidade e interação.
+A avaliação teve como objetivo analisar o [Protótipo de Alta Fidelidade 2 - Inscrever-se no Programa de Estágio DPDF ](./ProtiposdePapel.md), com o intuito de identificar pontos de melhoria na interação e na interface ao realizar a tarefa descrita.
 
 ### Metodologia Avaliada
 
-<font size="2"><p style="text-align: center">**Tabela 2**: Roteiro de perguntas para Avaliação do Protótipo de Alta Fidelidade</p></font>
+<font size="2"><p style="text-align: center">**Tabela 3**: Roteiro de perguntas para Avaliação do Protótipo de Alta Fidelidade</p></font>
 
 | **Objetivo**                       | **Pergunta**                                                                                   | **Resposta** |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|--------------|
@@ -93,29 +93,31 @@ A avaliação teve como objetivo analisar o [Protótipo de Alta Fidelidade 1 - A
 | Problemas na Interação e Interface  | 9. Você entendeu claramente a função de cada elemento da interface?                            |              |
 
 <font size="2"><p style="text-align: center">Autor:
- [Karolina Vieira](https://github.com/Karolina91)</p></font>
+ [Paola Nascimento](https://github.com/paolaalim)</p></font>
 
- ### Video 1: Gravação da avaliação
+ ### Video 2: Gravação da avaliação
 
 [Assista ao vídeo no YouTube](link)
 
 #### Fonte:
-[Karolina Vieira ](https://github.com/Karolina91)
+[Paola Nascimento](https://github.com/paolaalim)
 
  ### Participantes
 
-O participante selecionado para a avaliação enquadra-se no perfil de usuário estabelecido, com idade entre 18 e 60 anos. Além disso, demonstra uma boa afinidade com tecnologia, o que o torna apto a interagir de maneira eficiente com o protótipo e fornecer feedback relevante sobre aspectos de interação e usabilidade do sistema.
+A participante selecionada para a avaliação atende ao perfil de usuário definido, com idade entre 18 e 60 anos. Além disso, ela possui familiaridade com tecnologia, o que facilita a interação eficiente com o protótipo e a oferta de feedback pertinente sobre os aspectos de usabilidade e interação do sistema.
 
 ### Avaliação Heurística 
 
 Após a entrevista, foi realizada uma avaliação heurística com base nas 10 heurísticas de Nielsen, escolhidas por sua relevância para o contexto de protótipos de alta fidelidade
 
-- **Flexibilidade e eficiência de uso**: O protótipo atendeu ao objetivo de permitir que os usuários, especialmente os mais experientes, realizassem tarefas de forma rápida e eficiente. Durante a avaliação, foi observado que o sistema oferece atalhos claros e opções diretas para concluir ações como o agendamento de consultas com o advogado.
+- **Flexibilidade e eficiência de uso**: O protótipo atendeu ao objetivo de permitir que os usuários, realizassem tarefas de forma rápida e eficiente. Durante a avaliação, foi observado que o sistema oferece atalhos claros e opções diretas para se inscrever no estágio.
 - **Design estético e minimalista**: A interface do protótipo foi avaliada como mantendo um design limpo e funcional, priorizando apenas os elementos essenciais para a interação. Não foram encontrados excessos de informações ou distrações visuais, o que contribui para uma experiência mais direta e eficiente. 
 - **Consistência e padrões**: 
 O protótipo foi avaliado como consistente em termos de design, apresentando padrões uniformes em toda a interface. Os elementos possuem comportamento previsível, como botões com estilos e posicionamentos consistentes, ícones facilmente reconhecíveis e textos claros.
 
+### Sugestões de melhorias 
 
+A entrevistada forneceu sugestões para melhorar a experiência do sistema. Ela destacou a necessidade de uma mensagem de confirmação ao tentar excluir a conta, garantindo mais segurança ao usuário. Além disso, sugeriu a implementação de uma opção que permita acessar a área de ajustes da documentação em caso de erro, facilitando a correção de possíveis problemas. A entrevistada também propôs que fosse exibida uma lista dos documentos anexados, oferecendo maior transparência e controle ao usuário. Por fim, ela recomendou a troca de posição dos títulos para proporcionar o destaque adequado, melhorando a organização visual e a usabilidade do sistema. Essas sugestões visam aprimorar a interação e a usabilidade, tornando a experiência do usuário mais fluida e intuitiva.
 
 
 
