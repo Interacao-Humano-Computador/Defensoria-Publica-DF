@@ -4,6 +4,7 @@
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
 | 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Karolina Vieira](https://github.com/Karolina91)    |  [João Victor C. Nobre](https://github.com/Gam13)|
+| 25/01/2025 |        25/01/2025        |  1.1   |     Atualização do Documento     |    [Paola Nascimento](https://github.com/paolaalim)   |  [Karolina Vieira](https://github.com/Karolina91)|
 
 
 Ao longo deste projeto, utilizamos um conjunto estratégico de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a criação dos artefatos necessários
@@ -24,3 +25,8 @@ Ao longo deste projeto, utilizamos um conjunto estratégico de ferramentas para 
 | <img src="https://img.icons8.com/?size=100&id=hRZUerYWhcZo&format=png&color=000000" width="25"> | Screen Recorder            | Ferramenta para gravação de tela, útil para tutoriais e revisões.                                               |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="25"> | WhatsApp                 | Aplicativo de mensagens instantâneas, utilizado para comunicação rápida e colaboração em equipe.                 |
 | <img src="https://img.icons8.com/color/48/000000/google-logo.png"  width="25"> | Google Chrome/Brave/Firefox | Navegadores para acessar e testar plataformas e ferramentas online.                                         |
+| <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" width="25"> | Microsoft Teams                 | Ferramenta de comunicação completa, usada para reuniões online e também para gravar encontros.                 |
+| <img src="https://img.icons8.com/color/48/000000/figma.png"  width="25"> | Figma | Plataforma colaborativa para design de interfaces, permitindo criar protótipos interativos e realizar edições em tempo real com equipes.                                         |
+| <img src="../assets/images/protoripo2.jpg" width="25">
+ | Canva | Ferramenta de design gráfico intuitiva.                                         |
+| <img src="../assets/images/logo_4devs.jpg" width="25">  | 4devs | Ferramenta geradora de nomes, CPF, textos para ajudar programadores com ferramentas online e gratuitas.                                         |

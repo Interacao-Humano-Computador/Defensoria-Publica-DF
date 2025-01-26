@@ -23,8 +23,8 @@ A Tabela 1 exibe as datas da realização da avaliação.
 
 | Entrevistador | Entrevistado  | Horário de Início | Horário de Fim | Data  | Local/Plataforma |
 | :-----------: | :-----------: | :---------------: | :------------: | :---: | :--------------: |
-|   Karolina Vieira|  Fernanda Alves | 15:30  |  16:00  |   02/01/2025 | Residencia |
-|   Paola Nascimento| Vanda Rabelo | 16:00 |  16:30  | 04/01/2025  | Residencia |
+|   Karolina Vieira|  Fernanda  | 15:30  |  16:00  |   02/01/2025 | Residencia |
+|   Paola Nascimento| Vanda  | 16:00 |  16:30  | 04/01/2025  | Residencia |
 
 ## Registros das avaliações
 

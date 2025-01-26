@@ -47,23 +47,13 @@ Aqui está a tabela atualizada sem a coluna "Local":
 
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
 |------------------------|---------------------|-----------------------|--------------------|----------------|
-| Karolina Vieira        | Fernanda Alves      | 15:00                | 15:30             | 02/01/2025     |
-| Paola Rebeca           | Vanda Rabelo        |   12:00              |    12:30          |   04/01/2025   |
+| Karolina Vieira        | Fernanda       | 15:00                | 15:30             | 02/01/2025     |
+| Paola Rebeca           | Vanda         |   12:00              |    12:30          |   04/01/2025   |
 
 
 ## Aspectos éticos
 
-Somos uma equipe da disciplina de Interação Humano-Computador da Universidade de Brasília, que está realizando uma avaliação heurística do site da Defensoria Pública do Distrito Federal (DPDF). Nessa etapa do projeto, [DESCREVER ETAPA]. Estamos realizando uma série de pesquisas e solicitamos seu consentimento para a realização de uma atividade de [DESCRIÇÃO DA ATIVIDADE] com duração aproximada de [TEMPO DE DURAÇÃO]. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
-
-Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para a instituição responsável pelo site da DPDF.
-O consentimento para a participação na atividade é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
-A atividade pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
-Será necessário gravar a atividade, e as gravações efetuadas serão divulgadas nos resultados do projeto.
-Os dados coletados durante a atividade destinam-se estritamente a atividades de análise e elaboração de melhorias para o site da DPDF.
-Diante das explicações, você acha que está suficientemente informado(a) a respeito da pesquisa que será realizada e concorda de livre e espontânea vontade em participar, como colaborador? Caso o participante seja menor de idade, é necessária a permissão do responsável legal.
-
-Sim
-Não
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado [Termo de Consentimento](../Analise/aspectoseticos.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema, sendo elaborado considerando os Aspectos Éticos para garantir o bem-estar e o respeito ao voluntário participante.
 
 ## Teste Piloto
 

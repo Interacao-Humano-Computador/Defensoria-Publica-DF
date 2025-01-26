@@ -56,6 +56,7 @@ Não é necessário definir um limite de usuários para esse teste.
 ## Questões Éticas
 
 Um termo de consentimento será apresentado ao usuário, na abertura do formulário online, informando o objetivo do mesmo, e que ao preencher e enviar seus dados, estaremos os recebendo, de forma totalmente anônima, o que a própria plataforma da Google para formulários, deixa explícito ao participante, caso este não concorde, apenas fechará o formulário sem qualquer tipo de dano, constrangimento ou possibilidade de ser contatado pelo avaliador, equipe e afins.
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado [Termo de Consentimento](../Analise/aspectoseticos.md).
 
 ## Avaliação dos dados
 

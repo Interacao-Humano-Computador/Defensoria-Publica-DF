@@ -99,13 +99,14 @@ nav:
             - Protótipos de Alta Fidelidade: Desenvolvimento/PrototipoAlta.md
             - Planejamento do Protótipo de Alta Fidelidade: Desenvolvimento/PlanejamentoAltaFidelidade.md
             - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: Desenvolvimento/PlaneRelatoAltaFidelidade.md
+            - Resultado do Relato do Protótipo de Alta Fidelidade: Desenvolvimento/Resultado_prototipoAltaFidelidade.md
   - Verificação:
       - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
       - Inspeção 2º etapa: Verificacao/inspecao_etapa2.md
       - Inspeção 3º etapa: Verificacao/inspecao_etapa3.md
-      - Inspeção 4ª etapa: Verificacao/inpecao_etapa4.md 
+      - Inspeção 4ª etapa: Verificacao/inspecao_etapa4.md 
       - Inspeção 5º etapa: Verificacao/inspecao_etapa5.md
-      - Inspeção 6º etapa: Verificacao/inpecao_etapa6.md
+      - Inspeção 6º etapa: Verificacao/inspecao_etapa6.md
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
     - Como contribuir?: Contribuição/Tutorial.md

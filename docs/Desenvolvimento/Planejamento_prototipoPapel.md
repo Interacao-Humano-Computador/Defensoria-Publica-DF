@@ -54,7 +54,7 @@ Recrutaremos participantes que se encaixem no perfil de usuários da Defensoria 
 
 ## D - Aspectos Éticos
 
-Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado o Termo de Consentimento. O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel sendo elaborado considerando os Aspectos Éticos para garantir o bem-estar e o respeito ao voluntário participante.
+Para deixar claro o objetivo e os procedimentos a serem realizados nesta avaliação, será utilizado [Termo de Consentimento](../Analise/aspectoseticos.md). O termo de consentimento será devidamente adaptado para conter as informações relacionadas ao tema Protótipo de Papel sendo elaborado considerando os Aspectos Éticos para garantir o bem-estar e o respeito ao voluntário participante.
 
 ## E - Avaliação dos Resultados
 

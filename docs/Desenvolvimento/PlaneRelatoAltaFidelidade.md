@@ -18,9 +18,7 @@ Com base na abordagem intersujeito de Barbosa e Silva (2011, p. 279) e nos tópi
 4. Problemas e dificuldades encontradas  
 5. Sugestões de melhoria  
 6. Feedback dos usuários  
-7. Análise e interpretação dos resultados  
-8. Sumário dos principais resultados  
-9. Planejamento de reprojeto  
+7. Planejamento de reprojeto  
 
 
 ## Tópicos do Relato
@@ -37,7 +35,7 @@ Detalhar a metodologia empregada na coleta de dados, como a realização de entr
 | **Entrevistador(es)** | **Entrevistado(s)** | **Horário de Início** | **Horário de Fim** | **Data**       |
 |------------------------|---------------------|-----------------------|--------------------|----------------|
 | Karolina Vieira        | Fernanda Alves      | 15:00                | 15:30             | 19/01/2025  |
-| Paola Rebeca           |         |                |             |    |
+| Paola Rebeca           |    Dayane     |       17:30         |      18:00       |  22/01/2025  |
 
 ### **Seleção dos Participantes**
 Apresentar os participantes selecionados, justificando sua escolha e o alinhamento com o perfil do usuário. 
@@ -52,14 +50,6 @@ Registrar sugestões de melhorias baseadas nos problemas identificados, descreve
 
 ### **Feedback dos Usuários**
 Apresentar as opiniões e sugestões dos usuários, documentadas durante as entrevistas. Este feedback é essencial para identificar pontos positivos e negativos do sistema, bem como oportunidades de melhoria.
-
-
-### **Análise e Interpretação dos Resultados**
-Realizar uma análise detalhada dos dados coletados, identificando padrões, tendências e conclusões relevantes. Relacionar os resultados aos objetivos iniciais, destacando o impacto dos problemas na experiência do usuário.
-
-
-### **Sumário dos Principais Resultados**
-Resumir os dados coletados em tabelas, gráficos ou outros formatos visuais, destacando desafios enfrentados pelos usuários e comentários relevantes. Disponibilizar gravações, quando necessário, para referência futura.
 
 
 ### **Planejamento de Reprojeto**
