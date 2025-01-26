@@ -34,18 +34,17 @@ Os objetivos da avaliação são essenciais para identificar os pontos do protó
 Baseando-se nos objetivos da avaliação, as perguntas que precisam ser respondidas durante a avaliação do protótipo de alta fidelidade foram definidas e adaptadas a partir da tabela de exemplos de perguntas de avaliação de IHC proposta por Barbosa (2021). Essas perguntas são fundamentais para a operacionalização do processo de avaliação, permitindo um julgamento sobre os aspectos analisados. As perguntas definidas para a avaliação do protótipo de alta fidelidade são:
 
 <font size="2"><p style="text-align: center">Tabela 1: Questionário</p></font>
-
 | **Objetivo**                       | **Pergunta**                                                                                   | **Resposta** |
 |-------------------------------------|-------------------------------------------------------------------------------------------------|--------------|
-| Ideias e Alternativas de Design     | 1. Qual das alternativas de design do protótipo de alta fidelidade é mais eficiente e fácil de aprender? |              |
-| Ideias e Alternativas de Design     | 2. Qual alternativa de design os usuários preferem? Por quê?                                     |              |
-| Ideias e Alternativas de Design     | 3. Qual alternativa de design se espera que tenha um impacto negativo menor ao ser adotada?      |              |
-| Conformidade com um padrão          | 4. O site está de acordo com os padrões de acessibilidade do W3C?                               |              |
-| Conformidade com um padrão          | 5. Os termos na interface seguem convenções estabelecidas no domínio?                           |              |
-| Conformidade com um padrão          | 6. A interface segue algum padrão pré-estabelecido?                                              |              |
-| Problemas na Interação e Interface  | 7. Os usuários conseguem operar o protótipo de alta fidelidade? Eles atingem seus objetivos de maneira eficiente? Com que frequência cometem erros? |              |
-| Problemas na Interação e Interface  | 8. Que parte da interface do protótipo de alta fidelidade deixa os usuários insatisfeitos ou causa confusão? |              |
-| Problemas na Interação e Interface  | 9. Os usuários entendem claramente o que cada elemento do protótipo de alta fidelidade significa e o que devem fazer em seguida? |              |
+| Ideias e Alternativas de Design     | 1. O design atual do protótipo é fácil de aprender?                                             |     Sim/Não         |
+| Ideias e Alternativas de Design     | 2. Você prefere o design apresentado no protótipo em comparação a outras interfaces similares que já usou? |      Sim/Não         |
+| Ideias e Alternativas de Design     | 3. O design do protótipo facilita a realização de tarefas sem causar frustrações?              |  Sim/Não             |
+| Conformidade com um padrão          | 4. A interface está em conformidade com padrões de acessibilidade que você já conhece?         |     Sim/Não          |
+| Conformidade com um padrão          | 5. Os termos e rótulos usados na interface são familiares para você?                           |        Sim/Não       |
+| Conformidade com um padrão          | 6. Você percebe consistência nos elementos e padrões do design ao longo da interface?          |     Sim/Não          |
+| Problemas na Interação e Interface  | 7. Você conseguiu realizar as tarefas propostas sem dificuldades no protótipo?                 |    Sim/Não           |
+| Problemas na Interação e Interface  | 8. Houve algum momento em que você se sentiu confuso ou insatisfeito ao interagir com o protótipo? |       Sim/Não        |
+| Problemas na Interação e Interface  | 9. Você entendeu claramente a função de cada elemento da interface?                            |         Sim/Não      |
 
 <font size="2"><p style="text-align: center">Autor:
 [Paola Nascimento](https://github.com/paolaali)
@@ -65,42 +64,6 @@ Os participantes serão selecionados com base no perfil de usuário definido dur
 - **Ferramentas**: Computador para redigir o relatório dos resultados;
 - **Materiais**: Lista de princípios heurísticos;
 - **Ambiente**: A avaliação será realizada em um ambiente controlado e silencioso, garantindo que o avaliador possa se concentrar na análise do protótipo sem distrações.
-
-## Questões Práticas (I)
-
-### Preparação
-
-As etapas de preparação incluem:
-
-- **Definir tarefas**: As tarefas serão baseadas nos principais serviços oferecidos pelo site da DPDF, como agendamento de atendimento e inscrição no estágio;
-- **Recrutar participantes**: Selecionar 3 a 5 usuários representativos do público-alvo;
-- **Preparar materiais**:
-  - Termo de consentimento;
-  - Especificações das tarefas;
-  - Ferramentas de registro, como câmeras e blocos de notas;
-  - Roteiro de cada atividade;
-- **Executar teste piloto**: Realizar um teste inicial com um membro da equipe para ajustes e validação do processo.
-
-### Recrutamento de Participantes
-
-Os participantes serão selecionados entre usuários frequentes da DPDF com diferentes níveis de familiaridade com tecnologia. A idade dos participantes será entre 18 e 50 anos, abrangendo diferentes perfis sociais e econômicos.
-
-### Roteiro de Tarefas
-
-As tarefas a serem realizadas no protótipo de agendamento incluem:
-
-- Consultar informações sobre assistência jurídica;
-- Agendar um atendimento online;
-- Preencher um formulário de contato.
-
-As tarefas a serem realizadas no protótipo de inscrição incluem:
-
-- Consultar informações sobre estágio remunerado;
-- Realizar inscrição;
-- Preencher dados e anexar arquivos;
-- Enviar formulário.
-
-O avaliador fornecerá um contexto breve e o roteiro, em seguida, explicará os objetivos de cada tarefa antes de iniciar o teste.
 
 ## Cronograma da Avaliação
 

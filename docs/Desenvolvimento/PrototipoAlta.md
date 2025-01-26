@@ -29,11 +29,11 @@ A seguir, são detalhados os protótipos de alta fidelidade desenvolvidos para c
 Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agendamento de consultas online com advogados no site da DPDF, promovendo praticidade e eficiência na interação com o serviço público.
 
 ### Figura 2-Tela Principal do agendamento com advogado
-![Figura 1 - Tela Inicial](../assets/images/telaPrincipal.png)
+![Figura 1 - Tela Inicial](../assets/images/agendamentoInicio.png)
 <figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
-### Figura 3 -Tela de confirmar ou excluir agendamento
-![Figura 1 - Tela Inicial](../assets/images/confirmarAgendamento.png)<figcaption>Autor: Karolina Vieira (2025)</figcaption>
+### Figura 3 -Definir agendamento
+![Figura 1 - Tela Inicial](../assets/images/DefinirAgendamento.png)<figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
 
 
