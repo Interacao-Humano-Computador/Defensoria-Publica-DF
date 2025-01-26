@@ -18,7 +18,7 @@ Com base na abordagem intersujeito de Barbosa e Silva (2011, p. 279) e nos tópi
 4. Problemas e dificuldades encontradas  
 5. Sugestões de melhoria  
 6. Feedback dos usuários  
-9. Planejamento de reprojeto  
+7. Planejamento de reprojeto  
 
 
 ## Tópicos do Relato

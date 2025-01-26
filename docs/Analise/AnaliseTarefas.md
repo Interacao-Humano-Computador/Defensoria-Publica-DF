@@ -16,39 +16,49 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 
 ---
 
-## **Tarefa 1: Agendamento para uma consulta com um advogado (funcionalidade inexistente no site)**
+## **Tarefa 1: Agendar uma consulta com advogado (funcionalidade inexistente no site)**
 
-**Goal 0**: Agendar uma consulta com um advogado no site da Defensoria Pública do Distrito Federal
+**GOAL 0:** Agendar consulta com Advogado
 
-**Method 1**: Passos para acessar e realizar o agendamento
+**GOAL 1:** Localizar a seção de agendamento.
 
-**Goal 1**: Acessar o site da Defensoria Pública
+**METHOD 1.A:** Navegar pelo menu principal.
 
-- **OP 1.1**: Abrir o navegador, digitar www.defensoria.df.gov.br e pressionar Enter.
+- OP. 1.A.1: Ler as opções do menu principal.
+- OP. 1.A.2: Clicar na seção "Agendar consulta com advogado".
 
-**Goal 2**: Localizar a área de agendamento de consultas
+**METHOD 1.B**: Usar a barra de pesquisa do site.
+- OP. 1.B.1: Localizar a barra de pesquisa no site..
+- OP. 1.B.3: Digitar "agendamento de consulta com advogado".
+- OP. 1.B.4: Pressionar "Enter".
+-  OP. 1.B.6: Clicar no link correspondente.
 
-- **OP 2.1**: Navegar pelo menu principal.
-- **OP 2.2**: Identificar e clicar na seção "Agendamento de Consultas".
+**GOAL** 2: Preencher o formulário de agendamento.
 
-**Goal 3**: Preencher as informações necessárias para o agendamento
+**METHOD** 2.A: Informar dados obrigatórios.
 
-- **OP 3.1**: Inserir as informações pessoais solicitadas (ex.: nome, CPF, telefone, e-mail).
-- **OP 3.2**: Selecionar o tipo de atendimento desejado (ex.: assistência jurídica, área cível, etc.).
--**OP 3.3**: Escolher a data e o horário disponíveis para o atendimento.
-- **OP 3.4**: Confirmar as informações inseridas e clicar no botão "Agendar".
-**Goal 4**: Finalizar o agendamento
+**METHOD** 2.A.A:Preencher campos obrigatórios.
 
-- **OP 4.1**: Anotar o número do protocolo ou capturar a tela - de confirmação.
-- **OP 4.2**: Verificar o e-mail ou mensagens para confirmar o agendamento e receber instruções adicionais, se aplicável.
+- OP. 2.A.A.1:Preencher nome, CPF, endereço 
 
----
+**METHOD** 2.B: Escolher especialidade, data, horário.
+- OP. 2.B.1: Escolher especialidade que deseja atendimento no menu suspenso.
+- OP. 2.B.2: Selecionar a data desejada no calendário interativo.
+- OP. 2.B.3: Escolher o horário disponível na lista de opções.
 
-## **Diagrama HTA – Acompanhar a Resposta de uma Solicitação**
+**GOAL 3**: Concluir o agendamento.
 
-![Solicitação](../assets/images/HTA_agendamento.png)
+**METHOD 3.A**: Salvar o comprovante de agendamento.
+- OP. 3.A.1: Clicar no botão "Baixar comprovante".
+- OP. 3.A.2: Escolher o local para salvar o arquivo.
+- OP. 3.A.3: Confirmar o download.
 
----
+<font size="2"><p style="text-align: center">Autor:[ Karolina Vieira](https://github.com/Karolina91)
+
+## **Diagrama HTA – Agendar uma consulta com advogado**
+![Solicitação](../assets/images/HTA.AGENDAMENTO.drawio.png)
+
+<font size="2"><p style="text-align: center">Autor:[ Karolina Vieira](https://github.com/Karolina91)
 
 ## **Tarefa 2: Inscrever-se no Programa de Estágio da DPDF**
 
@@ -72,11 +82,14 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 - **Operator 3.3:** Confirmar o agendamento.
 - **Operator 3.4:** Baixar comprovante
 
+<font size="2"><p style="text-align: center">Autor:[ Poala Nascimento](https://github.com/paolaalim)
 ---
 
 ## **Diagrama HTA – Inscrever-se no Programa de Estágio da DPDF**
 
 ![HTA Estagio](../assets/images/HTA_Estagio_Atualizado2.svg)
+
+<font size="2"><p style="text-align: center">Autor:[ Poala Nascimento](https://github.com/paolaalim)
 
 ---
 

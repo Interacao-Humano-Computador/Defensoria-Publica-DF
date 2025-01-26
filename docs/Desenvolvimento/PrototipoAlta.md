@@ -35,8 +35,8 @@ Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agend
 ### Figura 3 -Definir agendamento
 ![Figura 1 - Tela Inicial](../assets/images/DefinirAgendamento.png)<figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
-
-
+### Agendamento Excuído
+![Figura 1 - Tela Inicial](../assets/images/image.png)<figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
 
 
