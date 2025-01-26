@@ -76,7 +76,7 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 
 ## **Diagrama HTA – Inscrever-se no Programa de Estágio da DPDF**
 
-![HTA Estagio](../assets/images/HTA_Estagio_Atualizado.svg)
+![HTA Estagio](../assets/images/HTA_Estagio_Atualizado2.svg)
 
 ---
 
