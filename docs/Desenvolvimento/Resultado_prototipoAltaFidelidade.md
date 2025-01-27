@@ -101,7 +101,7 @@ A avaliação teve como objetivo analisar o [Protótipo de Alta Fidelidade 2 - I
 
 ### Video 2: Gravação da avaliação
 
-[Assista ao vídeo no YouTube](link)
+[Assista ao vídeo no YouTube](https://youtu.be/QlmAGjvA1nA)
 
 #### Fonte:
 [Paola Nascimento](https://github.com/paolaalim)
