@@ -71,7 +71,7 @@ Nenhuma sugestão de melhoria foi apresentada, pois o protótipo atendeu plename
 
 ### Feedback dos Usuários  
 
-OO usuário relatou uma experiência positiva ao interagir com o protótipo. Ele considerou a interface intuitiva, funcional e consistente, o que facilitou a realização das tarefas de forma eficiente. O design foi elogiado por ser limpo e focado nos elementos essenciais, contribuindo para uma navegação simples e direta 
+O usuário relatou uma experiência positiva ao interagir com o protótipo. Ele considerou a interface intuitiva, funcional e consistente, o que facilitou a realização das tarefas de forma eficiente. O design foi elogiado por ser limpo e focado nos elementos essenciais, contribuindo para uma navegação simples e direta 
 
 
 
@@ -84,29 +84,29 @@ A avaliação teve como objetivo analisar o [Protótipo de Alta Fidelidade 2 - I
 
 <font size="2"><p style="text-align: center">**Tabela 3**: Roteiro de perguntas para Avaliação do Protótipo de Alta Fidelidade</p></font>
 
-| **Objetivo**                       | **Pergunta**                                                                                   | **Resposta** |
-|-------------------------------------|-------------------------------------------------------------------------------------------------|--------------|
-| Ideias e Alternativas de Design     | 1. O design atual do protótipo é fácil de aprender?                                             |              |
-| Ideias e Alternativas de Design     | 2. Você prefere o design apresentado no protótipo em comparação a outras interfaces similares que já usou? |              |
-| Ideias e Alternativas de Design     | 3. O design do protótipo facilita a realização de tarefas sem causar frustrações?              |              |
-| Conformidade com um padrão          | 4. A interface está em conformidade com padrões de acessibilidade que você já conhece?         |              |
-| Conformidade com um padrão          | 5. Os termos e rótulos usados na interface são familiares para você?                           |              |
-| Conformidade com um padrão          | 6. Você percebe consistência nos elementos e padrões do design ao longo da interface?          |              |
-| Problemas na Interação e Interface  | 7. Você conseguiu realizar as tarefas propostas sem dificuldades no protótipo?                 |              |
-| Problemas na Interação e Interface  | 8. Houve algum momento em que você se sentiu confuso ou insatisfeito ao interagir com o protótipo? |              |
-| Problemas na Interação e Interface  | 9. Você entendeu claramente a função de cada elemento da interface?                            |              |
+| **Objetivo**                       | **Pergunta**                                                                                   | **Resposta**               |
+|-------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------|
+| Ideias e Alternativas de Design     | 1. O design atual do protótipo é fácil de aprender?                                             | Sim, intuitivo e fácil.    |
+| Ideias e Alternativas de Design     | 2. Você prefere o design apresentado no protótipo em comparação a outras interfaces similares que já usou? | Sim, moderno e organizado. |
+| Ideias e Alternativas de Design     | 3. O design do protótipo facilita a realização de tarefas sem causar frustrações?              | Sim, simples e sem frustrações. |
+| Conformidade com um padrão          | 4. A interface está em conformidade com padrões de acessibilidade que você já conhece?         | Sim, segue boas práticas.  |
+| Conformidade com um padrão          | 5. Os termos e rótulos usados na interface são familiares para você?                           | Sim, compreensíveis.       |
+| Conformidade com um padrão          | 6. Você percebe consistência nos elementos e padrões do design ao longo da interface?          | Sim, elementos consistentes. |
+| Problemas na Interação e Interface  | 7. Você conseguiu realizar as tarefas propostas sem dificuldades no protótipo?                 | Sim, sem dificuldades.     |
+| Problemas na Interação e Interface  | 8. Houve algum momento em que você se sentiu confuso ou insatisfeito ao interagir com o protótipo? | Não, experiência agradável. |
+| Problemas na Interação e Interface  | 9. Você entendeu claramente a função de cada elemento da interface?                            | Sim, funções claras.       |
 
 <font size="2"><p style="text-align: center">Autor:
  [Paola Nascimento](https://github.com/paolaalim)</p></font>
 
- ### Video 2: Gravação da avaliação
+### Video 2: Gravação da avaliação
 
-[Assista ao vídeo no YouTube](link)
+[Assista ao vídeo no YouTube](https://youtu.be/QlmAGjvA1nA)
 
 #### Fonte:
 [Paola Nascimento](https://github.com/paolaalim)
 
- ### Participantes
+### Participantes
 
 A participante selecionada para a avaliação atende ao perfil de usuário definido, com idade entre 18 e 60 anos. Além disso, ela possui familiaridade com tecnologia, o que facilita a interação eficiente com o protótipo e a oferta de feedback pertinente sobre os aspectos de usabilidade e interação do sistema.
 
@@ -119,9 +119,15 @@ Após a entrevista, foi realizada uma avaliação heurística com base nas 10 he
 - **Consistência e padrões**: 
 O protótipo foi avaliado como consistente em termos de design, apresentando padrões uniformes em toda a interface. Os elementos possuem comportamento previsível, como botões com estilos e posicionamentos consistentes, ícones facilmente reconhecíveis e textos claros.
 
+### Problemas e Dificuldades Encontradas
+
+Durante a avaliação, não foram observados problemas significativos que impactassem a usabilidade do sistema. Todas as funcionalidades testadas funcionaram conforme o esperado, e os usuários conseguiram realizar as tarefas propostas sem dificuldades. A interface mostrou-se clara, intuitiva e alinhada aos objetivos do protótipo.
+
+
 ### Sugestões de melhorias 
 
-A entrevistada forneceu sugestões para melhorar a experiência do sistema. Ela destacou a necessidade de uma mensagem de confirmação ao tentar excluir a conta, garantindo mais segurança ao usuário. Além disso, sugeriu a implementação de uma opção que permita acessar a área de ajustes da documentação em caso de erro, facilitando a correção de possíveis problemas. A entrevistada também propôs que fosse exibida uma lista dos documentos anexados, oferecendo maior transparência e controle ao usuário. Por fim, ela recomendou a troca de posição dos títulos para proporcionar o destaque adequado, melhorando a organização visual e a usabilidade do sistema. Essas sugestões visam aprimorar a interação e a usabilidade, tornando a experiência do usuário mais fluida e intuitiva.
+
+A entrevistada forneceu sugestões para melhorar a experiência do sistema. Ela destacou a necessidade de uma mensagem de confirmação ao tentar excluir a conta, garantindo mais segurança ao usuário. Além disso, sugeriu a implementação de uma opção que permita acessar a área de ajustes da documentação em caso de erro, facilitando a correção de possíveis problemas. A entrevistada também propôs que fosse exibida uma lista dos documentos anexados, oferecendo maior transparência e controle ao usuário. Ela sugeriu ainda a possibilidade de acessar informações sobre o agendamento na página de acompanhamento, tornando o processo mais eficiente. Por fim, recomendou a troca de posição dos títulos para proporcionar o destaque adequado, melhorando a organização visual e a usabilidade do sistema. Essas sugestões visam aprimorar a interação e a usabilidade, tornando a experiência do usuário mais fluida e intuitiva.
 
 
 

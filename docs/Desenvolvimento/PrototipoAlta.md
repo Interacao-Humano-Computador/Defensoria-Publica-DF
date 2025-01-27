@@ -35,7 +35,7 @@ Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agend
 ### Figura 3 -Definir agendamento
 ![Figura 1 - Tela Inicial](../assets/images/DefinirAgendamento.png)<figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
-### Agendamento Excuído
+### Figura 4 - Agendamento Excuído
 ![Figura 1 - Tela Inicial](../assets/images/image.png)<figcaption>Autor: Karolina Vieira (2025)</figcaption>
 
 
@@ -46,39 +46,39 @@ Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agend
 
 As figuras apresentadas a seguir ilustram o protótipo desenvolvido para a tarefa  de se inscrever no estágio da DPDF (funcionalidade criada para o projeto) com foco em um sistema que visa facilitar o processo de inscrição e acompanhamento. Cada imagem representa telas específicas projetadas para atender diferentes funcionalidades do sistema.
 
-### Figura 4 -Tela de Estágio Remunerado
+### Figura 5 -Tela de Estágio Remunerado
 ![Figura 1 - Tela de Estágio Remunerado](../assets/images/telaestagioprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
 Essa tela (Figura 4) é a página inicial desse processo, onde usuários interessados em estágios remunerados podem visualizar informações relevantes, se inscrever e acompanhar a inscrição.
 
-### Figura 5 -Formulário de inscrição
+### Figura 6 -Formulário de inscrição
 ![Figura 1 - Tela para se inscrever no estágio](../assets/images/formularioinscricaoestagio.svg)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
 O formulário de inscrição (Figura 5) possibilita ao usuário cadastrar-se em um estágio de maneira prática e objetiva. Nele, os campos são organizados de forma clara, garantindo que as informações necessárias sejam preenchidas com precisão e eficiência.
 
-### Figura 6 -Tela de login para a sessão Acompanhar inscrição
+### Figura 7 -Tela de login para a sessão Acompanhar inscrição
 ![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/acompanharinscricaoprototitpo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
 A tela de login (Figura 6) foi projetada para garantir a segurança e personalização do acesso ao sistema. Aqui, o usuário pode autenticar-se para acompanhar o progresso de sua inscrição.  Aqui, o login é realizado com nome e CPF.
-### Figura 7 -Tela de acompanhar inscrição
+### Figura 8 -Tela de acompanhar inscrição
 ![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/acompanharinscricaoprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
 A Figura 7 exibe a interface que permite aos usuários verificarem o status de suas inscrições, o histórico de notificações e agendarem entrevistas quando disponíveis. A visualização detalhada oferece maior transparência e promove a interação entre o candidato e o sistema.
 
-### Figura 8 -Tela para agendar entrevista
+### Figura 9 -Tela para agendar entrevista
 ![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/agendarestrevistaestagio.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
 A tela para agendamento de entrevistas (Figura 8) facilita a escolha de datas, local e localidade da entrevista, proporcionando um processo eficiente e prático.
 
-### Figura 9 -Tela para excluir inscrição
+### Figura 10 -Tela para excluir inscrição
 ![Figura 1 - Tela de login para a sessão Acompanhar inscrição](../assets/images/excluirinscricaoprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
 A Figura 9 ilustra a tela destinada à exclusão de inscrições. Essa funcionalidade possibilita que o canditato gerencie suas informações.
 
-### Figura 10 -Mensagens de erro 
+### Figura 11 -Mensagens de erro 
 ![Figura 1 - Telas de mensagens de erro e êxito](../assets/images/mensagensdeerroprototipo.svg)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
-### Figura 10 -Mensagens de êxito
+### Figura 12 -Mensagens de êxito
 ![Figura 1 - Telas de mensagens de erro e êxito](../assets/images/mensagensdexitoprototipo.svg)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
 
 Por fim, as Figuras 10 e 11 reúnem exemplos de mensagens de feedback exibidas pelo sistema, de erro e de sucesso, que contribuem para uma interação transparente e direta entre o usuário e o sistema. Essas representações visuais exemplificam o compromisso com a usabilidade e acessibilidade. 
