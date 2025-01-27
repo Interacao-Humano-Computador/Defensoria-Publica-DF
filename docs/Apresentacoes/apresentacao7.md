@@ -11,7 +11,7 @@
 </ol>
 
 Link para o vídeo da apresentação:
-[Apresentação](link)
+[Apresentação](https://youtu.be/J3_QEppSrKQ)
 
 ## Referências Bibliográficas
 

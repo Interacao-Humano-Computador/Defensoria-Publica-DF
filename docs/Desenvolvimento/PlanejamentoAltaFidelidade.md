@@ -100,7 +100,7 @@ Antes de realizar as entrevistas principais, conduzimos um teste piloto para val
 
 ### Video 1: Gravação do teste
 
-[Assista ao vídeo no YouTube](link)
+[Assista ao vídeo no YouTube](https://youtu.be/YeLWCBwye4A)
 
 ## Bibliografia
 [1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.  

@@ -71,16 +71,7 @@ Nenhuma sugestão de melhoria foi apresentada, pois o protótipo atendeu plename
 
 ### Feedback dos Usuários  
 
-OO usuário relatou uma experiência positiva ao interagir com o protótipo. Ele considerou a interface intuitiva, funcional e consistente, o que facilitou a realização das tarefas de forma eficiente. O design foi elogiado por ser limpo e focado nos elementos essenciais, contribuindo para uma navegação simples e direta 
-
-## Increve-se no programa de estágio da DPDF
-
-
-
-
-
-
-
+O usuário relatou uma experiência positiva ao interagir com o protótipo. Ele considerou a interface intuitiva, funcional e consistente, o que facilitou a realização das tarefas de forma eficiente. O design foi elogiado por ser limpo e focado nos elementos essenciais, contribuindo para uma navegação simples e direta 
 
 
 
@@ -108,14 +99,14 @@ A avaliação teve como objetivo analisar o [Protótipo de Alta Fidelidade 2 - I
 <font size="2"><p style="text-align: center">Autor:
  [Paola Nascimento](https://github.com/paolaalim)</p></font>
 
- ### Video 2: Gravação da avaliação
+### Video 2: Gravação da avaliação
 
 [Assista ao vídeo no YouTube](link)
 
 #### Fonte:
 [Paola Nascimento](https://github.com/paolaalim)
 
- ### Participantes
+### Participantes
 
 A participante selecionada para a avaliação atende ao perfil de usuário definido, com idade entre 18 e 60 anos. Além disso, ela possui familiaridade com tecnologia, o que facilita a interação eficiente com o protótipo e a oferta de feedback pertinente sobre os aspectos de usabilidade e interação do sistema.
 
@@ -127,6 +118,11 @@ Após a entrevista, foi realizada uma avaliação heurística com base nas 10 he
 - **Design estético e minimalista**: A interface do protótipo foi avaliada como mantendo um design limpo e funcional, priorizando apenas os elementos essenciais para a interação. Não foram encontrados excessos de informações ou distrações visuais, o que contribui para uma experiência mais direta e eficiente. 
 - **Consistência e padrões**: 
 O protótipo foi avaliado como consistente em termos de design, apresentando padrões uniformes em toda a interface. Os elementos possuem comportamento previsível, como botões com estilos e posicionamentos consistentes, ícones facilmente reconhecíveis e textos claros.
+
+### Problemas e Dificuldades Encontradas
+
+Durante a avaliação, não foram observados problemas significativos que impactassem a usabilidade do sistema. Todas as funcionalidades testadas funcionaram conforme o esperado, e os usuários conseguiram realizar as tarefas propostas sem dificuldades. A interface mostrou-se clara, intuitiva e alinhada aos objetivos do protótipo.
+
 
 ### Sugestões de melhorias 
 
