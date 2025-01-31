@@ -115,6 +115,7 @@ nav:
       - Verificacao Análise de Tarefas: Verificacao/verificacao_analiseTarefas.md
       - Verificação Framework DECIDE: Verificacao/verificacao_frameworkDECIDE.md
       - Verificacão Árvore de Tarefas Concorrentes: Verificacao/verificacao_arvoreTarefas.md
+      - Verificação Elenco de Personas: Verificacao/verificacao_ElencodePersonas.md
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
     - Como contribuir?: Contribuição/Tutorial.md

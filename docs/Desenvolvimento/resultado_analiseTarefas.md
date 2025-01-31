@@ -2,6 +2,8 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  05/01/2025    |        05/01/2025          |    1.0     |     Criação do Documento     | [Paola Nascimento](https://github.com/paolaalim) |  [Karolina Vieira](https://github.com/Karolina91) |
 
+## **Resultado do Relato da Análise de Tarefas**
+
 ## Introdução
 
 Esse artefato tem o objetivo de documentar o relato dos resultados obtidos pela avaliação da Análise de Tarefas. Com isso, serão abordados os tópicos referidos no [Planejamento do Relato dos Resultados da Análise de Tarefas](./planejamentoRelatoAnaliseTarefas.md)

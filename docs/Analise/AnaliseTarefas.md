@@ -1,5 +1,3 @@
-# **Análise de Tarefas para o Site da Defensoria Pública do Distrito Federal (DPDF)**
-
 |    Data    | Data Prevista de Revisão | Versão |           Descrição            |                                                                                 Autor                                                                                 |                     Revisor                      |
 | :--------: | :----------------------: | :----: | :----------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 | 01/12/2024 |        02/12/2024        |  1.0   |      Criação do Documento      | [João Victor C. Nobre](https://github.com/Gam13) </br></br>[Karolina Vieira](https://github.com/Karolina91)</br></br>[Paola Nascimento](https://github.com/paolaalim) |   [Lucas Sales](https://github.com/Lux-Sales)    |
@@ -9,6 +7,7 @@
 | 03/01/2025 |        03/01/2025        |  1.4   |      Adição da tarefa 05       |                                                              [Paola Nascimento](https://github.com/paolaalim)                                                         | [Karolina Vieira](https://github.com/Karolina91) |
 | 20/01/2025 |        20/01/2025        |  1.5   |      Atualização da tarefa 02       |                                                              [Paola Nascimento](https://github.com/paolaalim)                                                         | [Karolina Vieira](https://github.com/Karolina91) |
 
+# **Análise de Tarefas para o Site da Defensoria Pública do Distrito Federal (DPDF)**
 
 ## **Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)**
 

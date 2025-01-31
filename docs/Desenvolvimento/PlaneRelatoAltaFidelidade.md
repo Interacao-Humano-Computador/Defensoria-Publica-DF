@@ -3,7 +3,7 @@
 |  12/01/2025    |        12/01/2025          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 
 
-# Planejamento do Relato dos Resultados - Protótipo de Alta Fidelidade
+# **Planejamento do Relato dos Resultados - Protótipo de Alta Fidelidade**
 
 ## Introdução
 O objetivo do planejamento do relato é estruturar previamente um modelo de documento que organize os resultados e conclusões obtidos na avaliação do protótipo de alta fidelidade. Isso garante que as informações sejam apresentadas de forma clara e ordenada, facilitando a interpretação dos dados e das conclusões. Este relato segue as diretrizes definidas no planejamento da avaliação, com eventuais divergências sendo devidamente justificadas e documentadas.

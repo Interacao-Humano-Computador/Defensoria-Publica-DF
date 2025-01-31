@@ -2,7 +2,7 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  27/12/2024    |        03/01/2025          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 
-# Planejamento da Avaliação do Protótipo de Papel
+# **Planejamento da Avaliação do Protótipo de Papel**
 
 ## Introdução
 O Planejamento da Avaliação do Protótipo de Papel envolve a preparação e organização necessárias para avaliar a usabilidade de um design de IHC representado em papel. Esse processo é realizado por meio de simulações de uso com a participação de potenciais usuários, o que possibilita identificar problemas de usabilidade antes mesmo da criação de uma solução de IHC funcional. Importante ressaltar que esse método facilita a avaliação de soluções parciais, que não abrangem toda a interface, e de protótipos de baixa ou média fidelidade, que ainda não possuem todos os detalhes da interface definidos.
