@@ -101,14 +101,20 @@ nav:
             - Planejamento do Protótipo de Alta Fidelidade: Desenvolvimento/PlanejamentoAltaFidelidade.md
             - Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade: Desenvolvimento/PlaneRelatoAltaFidelidade.md
             - Resultado do Relato do Protótipo de Alta Fidelidade: Desenvolvimento/Resultado_prototipoAltaFidelidade.md
+  - Inspeção:
+      - Inspeção 1° etapa: Inspecao/inspecao_etapa1.md
+      - Inspeção 2º etapa: Inspecao/inspecao_etapa2.md
+      - Inspeção 3º etapa: Inspecao/inspecao_etapa3.md
+      - Inspeção 4ª etapa: Inspecao/inspecao_etapa4.md 
+      - Inspeção 5º etapa: Inspecao/inspecao_etapa5.md
+      - Inspeção 6º etapa: Inspecao/inspecao_etapa6.md
+      - Inspeção 7º etapa: Inspecao/inspecao_etapa7.md
   - Verificação:
-      - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
-      - Inspeção 2º etapa: Verificacao/inspecao_etapa2.md
-      - Inspeção 3º etapa: Verificacao/inspecao_etapa3.md
-      - Inspeção 4ª etapa: Verificacao/inspecao_etapa4.md 
-      - Inspeção 5º etapa: Verificacao/inspecao_etapa5.md
-      - Inspeção 6º etapa: Verificacao/inspecao_etapa6.md
-      - Inspeção 7º etapa: Verificacao/inspecao_etapa7.md
+      - Verificação Personas: Verificacao/verificacao_personas.md
+      - Verificação Cenários: Verificacao/verificacao_cenarios.md
+      - Verificacao Análise de Tarefas: Verificacao/verificacao_analiseTarefas.md
+      - Verificação Framework DECIDE: Verificacao/verificacao_frameworkDECIDE.md
+      - Verificacão Árvore de Tarefas Concorrentes: Verificacao/verificacao_arvoreTarefas.md
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
     - Como contribuir?: Contribuição/Tutorial.md
