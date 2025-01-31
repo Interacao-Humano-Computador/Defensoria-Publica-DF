@@ -2,7 +2,7 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  05/01/2025    |        05/01/2025          |    1.0     |     Criação do Documento     | [Paola Nascimento](https://github.com/paolaalim) |  [Karolina Vieira](https://github.com/Karolina91) |
 
-## **Resultado do Relato da Análise de Tarefas**
+# **Resultado do Relato da Análise de Tarefas**
 
 ## Introdução
 

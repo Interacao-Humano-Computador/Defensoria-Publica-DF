@@ -4,6 +4,8 @@
 | 10/12/2024 |        10/12/2024        |  1.1   | Atualizando perfil do usuário | [Lucas Sales](https://github.com/Lux-Sales) |          [Paola Nascimento](https://github.com/paolaalim)                                        |
 | 05/01/2025 |        05/01/2025        |  1.2   | Atualizando perguntas | [Paola Nascimento](https://github.com/paolaalim) |          [Karolina Vieira](https://github.com/Karolina91)   |
 
+# **Planejamento da Avaliação da Análise de Tarefas**
+
 ## Introdução
 
 Utilizando o framework D.E.C.I.D.E, demais informações dispostas no livro Interação Humano-Computador e Experiência do Usuário e projetos anteriores realizados na disciplina para construir uma avaliação da análise das tarefas.
