@@ -9,6 +9,8 @@
 | 13/11/2024 |        13/11/2024        |  1.3   |  Adicionado participantes do artefato   |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
 | 14/01/2025 |        14/01/2025        |  1.4   |  Atualizados cronogramas executados 4, 5 e 6   |   [Paola Lima](https://github.com/paolaalim)    | [Karolina Vieira](https://github.com/Karolina91) |
 
+# **Cronograma**
+
 |            Etapas 1-3            |            Etapas 4-6            |               7-9                |
 | :------------------------------: | :------------------------------: | :------------------------------: |
 | <a href="#etapa1"> Etapa 01 </a> | <a href="#etapa4"> Etapa 04 </a> | <a href="#etapa7"> Etapa 07 </a> |
