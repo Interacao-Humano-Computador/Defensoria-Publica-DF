@@ -4,7 +4,7 @@
 | 02/02/2025 |        02/02/2025        |  1.0   | Criação do Documento | [Paola Nascimento](https://github.com/paolaalim) | [Karolina Vieira](https://github.com/Karolina91) |
 
 
-# **Planejamento Verificação do Resultado e o Resultado da Avaliação**
+# **Planejamento Verificação Planejamento do Resultado e o Resultado da Avaliação**
 
 # Introdução
 
