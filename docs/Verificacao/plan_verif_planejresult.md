@@ -8,7 +8,7 @@
 
 # Introdução
 
-O objetivo deste documento é planejar a verificação do artefato Análise Hierárquica de Tarefas - (HTA – Hierarchical Task Analysis).
+O objetivo deste documento é planejar a verificação do artefato Resultado da Avaliação.
 
 ## Objetivo
 
@@ -26,6 +26,9 @@ A tabela a seguir apresenta a lista de verificação, contendo todas as pergunta
 
 
 
+## Resultados
+
+Os resultados da verificação serão analisados com base nos dados coletados, permitindo uma avaliação detalhada do artefato. Esses dados serão organizados e interpretados para identificar conformidades, não conformidades e possíveis melhorias, garantindo uma análise objetiva e fundamentada.
 
 ## Referências Bibliográficas
 

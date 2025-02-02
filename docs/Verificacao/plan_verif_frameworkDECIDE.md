@@ -8,7 +8,7 @@
 
 # Introdução
 
-O objetivo deste documento é planejar a verificação do artefato Análise Hierárquica de Tarefas - (HTA – Hierarchical Task Analysis).
+O objetivo deste documento é planejar a verificação do artefato Framework DECIDE.
 
 ## Objetivo
 
@@ -27,8 +27,9 @@ A tabela a seguir apresenta a lista de verificação, contendo todas as pergunta
 | 7   | Ética | A ética deve ser considerada no planejamento e execução da avaliação? |  | 1.0 | [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |      |
 | 8   | Interpretação | O avaliador deve interpretar os dados e compará-los com os objetivos da avaliação? |  | 1.0 |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.   |      |
 
+## Resultados
 
-
+Os resultados da verificação serão analisados com base nos dados coletados, permitindo uma avaliação detalhada do artefato. Esses dados serão organizados e interpretados para identificar conformidades, não conformidades e possíveis melhorias, garantindo uma análise objetiva e fundamentada.
 
 
 ## Referências Bibliográficas

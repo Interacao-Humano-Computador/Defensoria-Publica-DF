@@ -8,7 +8,7 @@
 
 # Introdução
 
-O objetivo deste documento é planejar a verificação do artefato Análise Hierárquica de Tarefas - (HTA – Hierarchical Task Analysis).
+O objetivo deste documento é planejar a verificação do artefato [Elenco de Personas](/2024.2-Defensoria-Publica-DF/docs/Analise/personas.md).
 
 ## Objetivo
 

@@ -7,7 +7,7 @@
 
 # Introdução
 
-O objetivo deste documento é planejar a verificação do artefato Análise Hierárquica de Tarefas - (HTA – Hierarchical Task Analysis).
+O objetivo deste documento é planejar a verificação do artefato Árvore de Tarefas Concorrente.
 
 ## Objetivo
 
@@ -26,3 +26,11 @@ A tabela a seguir apresenta a lista de verificação, contendo todas as pergunta
 | 7   | Ativação     | A operação é especificada pelas circunstâncias nas quais o objetivo é ativado? |  | 1.0 | [1] BARBOSA, Simone, et al. *Interação Humano-Computador e Experiência do Usuário*. Leanpub, p.303 cap 12, 2022. | |
 | 8   | Instruções   | As operações podem ser instruções diretas ou regras de feedback? |  | 1.0 | [1] BARBOSA, Simone, et al. *Interação Humano-Computador e Experiência do Usuário*. Leanpub, p.303 cap 12, 2022. | |
 | 9   | Condições    | A operação inclui a especificação das condições sob as quais será desempenhada para cumprir um objetivo? |  | 1.0 | [1] BARBOSA, Simone, et al. *Interação Humano-Computador e Experiência do Usuário*. Leanpub, p.303 cap 12, 2022. | |
+
+## Resultados
+
+Os resultados da verificação serão analisados com base nos dados coletados, permitindo uma avaliação detalhada do artefato. Esses dados serão organizados e interpretados para identificar conformidades, não conformidades e possíveis melhorias, garantindo uma análise objetiva e fundamentada.
+
+## Referências Bibliográficas
+
+[1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303  cap 12, 2022.
