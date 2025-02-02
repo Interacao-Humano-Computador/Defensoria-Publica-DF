@@ -109,6 +109,20 @@ nav:
       - Inspeção 5º etapa: Inspecao/inspecao_etapa5.md
       - Inspeção 6º etapa: Inspecao/inspecao_etapa6.md
       - Inspeção 7º etapa: Inspecao/inspecao_etapa7.md
+      - Inspeção 8º etapa: Inspecao/inspecao_etapa8.md
+            - Inspeção Análise de Tarefas: Inspecao/inspecao_analisetarefas.md
+            - Inspeção Cenários: Inspecao/inspecao_cenario.md
+            - Inspeção Guia de Estilo: Inspecao/inspecao_guiaestilo.md
+            - Inspeção Personas: Inspecao/inspecao_personas.md
+            - Inspeção Elenco de personas: Inspecao/inspecao_elencopersonas.md
+            - Inspeção Aspectos éticos: Inspecao/inspecao_aspectoseticos.md
+            - Inspeção Planejamento da avaliação: Inspecao/inspecao_planejaval.md
+            - Inspeção Planejamento do Resultado e Resultado: Inspecao/inspecao_planejresult.md
+
+
+
+
+
   - Verificação:
       - Verificação Personas: Verificacao/verificacao_personas.md
       - Verificação Cenários: Verificacao/verificacao_cenarios.md
