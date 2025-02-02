@@ -3,7 +3,7 @@
 | 10/01/2025 |        10/01/2025        |  1.0   | Criação do Documento | [Paola Lima](https://github.com/paolaalim) | [Karolina Vieira](https://github.com/Karolina91) |
 | 18/01/2025 |        18/01/2025        |  1.2   | Atualização          | [Karolina Vieira](https://github.com/Karolina91) | [Paola Lima](https://github.com/paolaalim) |
 
-# Planejamento da Avaliação do Protótipo de Alta Fidelidade
+# **Planejamento da Avaliação do Protótipo de Alta Fidelidade**
 
 ## Introdução
 A avaliação de Interação Humano-Computador (IHC) é um componente crucial no desenvolvimento de sistemas interativos, pois permite avaliar a qualidade de uso da solução e identificar problemas na interação e na interface que possam prejudicar a experiência do usuário. Esse processo orienta as melhorias necessárias, garantindo que o sistema atenda às necessidades dos usuários e promova uma interação eficiente e satisfatória (Barbosa, 2021). Assim, no contexto do desenvolvimento de um protótipo de alta fidelidade, é fundamental planejar a avaliação para assegurar que a solução proposta esteja alinhada com os requisitos de usabilidade e experiência do usuário.

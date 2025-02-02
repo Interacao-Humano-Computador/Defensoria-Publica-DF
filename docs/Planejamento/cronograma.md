@@ -1,4 +1,3 @@
-## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |                Descrição                |                      Autor                       |                     Revisor                      |
 | :--------: | :----------------------: | :----: | :-------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
 | 10/11/2024 |        10/11/2024        |  1.0   |          Criação do Documento           |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
@@ -9,6 +8,8 @@
 | 12/11/2024 |        12/11/2024        |  1.2   |     Adicionado histórico de revisão     |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
 | 13/11/2024 |        13/11/2024        |  1.3   |  Adicionado participantes do artefato   |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
 | 14/01/2025 |        14/01/2025        |  1.4   |  Atualizados cronogramas executados 4, 5 e 6   |   [Paola Lima](https://github.com/paolaalim)    | [Karolina Vieira](https://github.com/Karolina91) |
+
+# **Cronograma**
 
 |            Etapas 1-3            |            Etapas 4-6            |               7-9                |
 | :------------------------------: | :------------------------------: | :------------------------------: |

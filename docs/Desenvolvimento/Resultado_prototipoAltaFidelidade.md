@@ -2,7 +2,7 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  26/01/2025   |       26/01/2025 |  1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 
-# Resultado do Relato dos Protótipos Alta Fidelidade 
+# **Resultado do Relato dos Protótipos Alta Fidelidade**
 
 ## Introdução  
 

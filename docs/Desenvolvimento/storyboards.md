@@ -2,6 +2,8 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  27/12/2024    |        03/01/2025          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 
+# **Storyboard**
+
 # Introdução
 
 O storyboard é um tipo de protótipo de baixa fidelidade amplamente valorizado por sua simplicidade, baixo custo e rapidez na criação. Sua flexibilidade permite modificações rápidas, tornando-o uma ferramenta prática e eficiente. Geralmente, é utilizado em conjunto com cenários ou roteiros, o que facilita a visualização e o planejamento de sequências de eventos, composição de cenas, movimentação de personagens, ângulos de câmera e outros elementos visuais essenciais. Essa prática ajuda a antecipar possíveis problemas narrativos, ajustar a fluidez da história e prever como ela será apresentada ao público.

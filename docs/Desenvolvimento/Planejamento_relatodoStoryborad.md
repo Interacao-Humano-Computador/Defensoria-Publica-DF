@@ -2,7 +2,7 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  27/12/2024    |        03/01/2024          |    1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) | [Paola Nascimento](https://github.com/paolaalim) |
 
-# Planejamento do Relato de Resultados da Avaliação do Storyboard
+# **Planejamento do Relato de Resultados da Avaliação do Storyboard**
 
 ## Introdução
 O objetivo do relato de resultados é documentar os resultados obtidos a partir de uma avaliação. Este documento apresenta um planejamento para a criação desse relato, referente à avaliação dos storyboards desenvolvidos pela equipe.

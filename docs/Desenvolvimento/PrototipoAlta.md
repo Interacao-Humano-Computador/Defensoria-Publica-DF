@@ -2,7 +2,7 @@
 |:--------------:|:---------------------------:|:----------:|:---------------------------:|:-----------------------------------------:|:------------------------------------------:|
 |  18/01/2025   |       18/01/2025 |  1.0     |     Criação do Documento     | [Karolina Vieira](https://github.com/Karolina91) |  [Paola Nascimento](https://github.com/paolaalim) |
 
-# Protótipos de Alta Fidelidade
+# **Protótipos de Alta Fidelidade**
 
 ## Introdução
 O protótipo de alta fidelidade é uma representação avançada do sistema proposto, que simula com precisão tanto a aparência quanto a funcionalidade do produto final. Ao contrário dos protótipos de baixa fidelidade, que se concentram em conceitos iniciais e validação de ideias básicas, o protótipo de alta fidelidade permite avaliar aspectos mais complexos, como navegabilidade, desempenho e interação do usuário com a interface. Essa abordagem busca proporcionar uma experiência mais realista ao usuário, contribuindo para a identificação de melhorias potenciais e garantindo maior alinhamento com os objetivos do projeto. Embora envolva um maior investimento de tempo e recursos, o uso de protótipos de alta fidelidade é essencial para validar decisões de design e aperfeiçoar o sistema antes de sua implementação final.
