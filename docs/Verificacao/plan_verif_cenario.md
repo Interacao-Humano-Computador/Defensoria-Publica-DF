@@ -8,7 +8,7 @@
 
 # Introdução
 
-O objetivo deste documento é planejar a verificação do artefato [Cenários](/2024.2-Defensoria-Publica-DF/docs/Analise/cenarios.md).
+O objetivo deste documento é planejar a verificação do artefato Cenários.
 
 ## Objetivo
 
