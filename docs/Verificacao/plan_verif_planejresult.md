@@ -17,7 +17,16 @@ A tabela a seguir apresenta a lista de verificação, contendo todas as pergunta
 ### Tabela 01 - Lista para verficação 
 
 | ID  | Objetivo | Pergunta | Resposta | Versão | Fonte | Autor |
-|-----|----------|----------|----------|--------|-------|-------|                   |      |
+|-----|----------|----------|----------|--------|-------|-------|       
+|   1  |          |     O material de apoio foi impresso antes da entrevista?     |            |   1.0   |  Página: 260, Capítulo 8. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO
+BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
+Publicado em: 03/05/2021.      |   [Paola Nascimento](https://github.com/paolaalim)   |
+|   2  |          |     No planejamento da avaliação foi realizado o teste-piloto?     |            |   1.0   |  Página: 260, Capítulo 8. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO
+BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
+Publicado em: 03/05/2021.      |   [Paola Nascimento](https://github.com/paolaalim)   |
+|   3  |          |     Para recrutar participantes o perfil desejado foi avaliado?     |            |   1.0   |  Página: 261, Capítulo 8. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO
+BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
+Publicado em: 03/05/2021.      |   [Paola Nascimento](https://github.com/paolaalim)   |
 
 
 
