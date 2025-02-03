@@ -6,7 +6,7 @@
 
 ## Tabela 01 - Verificação do próprio grupo
 
-| ID  | Objetivo | Pergunta | Resposta | Data |
+| ID  | Objetivo | Pergunta | Resposta | Versão |
 |-----|----------|----------|----------|------|
 | 1   | Comportamento | O cenário descreve o comportamento e as experiências dos atores? |  | 1.0 |
 | 2   | Objetivos | Cada ator possui objetivos que dirigem as tarefas que ele realiza no tempo? |  | 1.0  |
