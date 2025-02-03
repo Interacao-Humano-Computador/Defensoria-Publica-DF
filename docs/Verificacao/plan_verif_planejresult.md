@@ -18,12 +18,9 @@ A tabela a seguir apresenta a lista de verificação, contendo todas as pergunta
 
 | ID  | Objetivo | Pergunta | Resposta | Versão | Fonte | Autor |
 |-----|----------|----------|----------|--------|-------|-------|     
-| 1   | Planejamento da avaliação | O planejamento da avaliação inclui a decisão de quando ela será realizada? |  | 1.0 |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |      |
-| 2   | Relatório de avaliação | O relatório de avaliação inclui o método empregado, os participantes, dados coletados e problemas encontrados? |  | 1.0 |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |      |
-| 3   | Consolidação de resultados | Os resultados individuais dos avaliadores e participantes são consolidados antes da análise? |  | 1.0 |[1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.      |      |
-
-
-
+| 1   | Planejamento da avaliação | O planejamento da avaliação inclui a decisão de quando ela será realizada? |  | 1.0 |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |   [Karolina Vieira](https://github.com/Karolina91)   |
+| 2   | Relatório de avaliação | O relatório de avaliação inclui o método empregado, os participantes, dados coletados e problemas encontrados? |  | 1.0 |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |  [Karolina Vieira](https://github.com/Karolina91)    |
+| 3   | Consolidação de resultados | Os resultados individuais dos avaliadores e participantes são consolidados antes da análise? |  | 1.0 |[1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.      |  [Karolina Vieira](https://github.com/Karolina91)    |
 
 
 

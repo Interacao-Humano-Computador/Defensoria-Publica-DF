@@ -17,9 +17,9 @@ A tabela a seguir apresenta a lista de verificação, contendo todas as pergunta
 
 | ID  | Objetivo | Pergunta | Resposta | Versão | Fonte | Autor |
 |-----|----------|----------|----------|--------|-------|-------|
-| 1   | Definição | A análise funcional de tarefas começa pela definição dos objetivos das personas? |  | 1.0 | [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |      |
-| 2   | Hierarquia | A HTA examina principalmente os objetivos de alto nível? |  | 1.0 |[1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.     |      |
-| 3   | Estruturação | Os planos definem os subobjetivos necessários para alcançar um objetivo maior? |  | 1.0 |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.   |      |
+| 1   | Definição | A análise funcional de tarefas começa pela definição dos objetivos das personas? |  | 1.0 | [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |   [Karolina Vieira](https://github.com/Karolina91)   |
+| 2   | Hierarquia | A HTA examina principalmente os objetivos de alto nível? |  | 1.0 |[1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.     |   [Karolina Vieira](https://github.com/Karolina91)   |
+| 3   | Estruturação | Os planos definem os subobjetivos necessários para alcançar um objetivo maior? |  | 1.0 |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.   |  [Karolina Vieira](https://github.com/Karolina91)    |
 | 4   | Sequência | A ordem em que os subobjetivos devem ser alcançados é especificada no plano? |  | 1.0 |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.   |      |
 | 5   | Relações | Os planos podem definir diferentes relações entre os subobjetivos (sequência fixa, seleção ou paralelo)? |  | 1.0 | [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |      |
 | 6   | Operações | Cada subobjetivo é alcançado por uma operação? |  |1.0  |    [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.  |              |
