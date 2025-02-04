@@ -247,15 +247,21 @@
 
 |                               Tarefa                               |  Responsáveis   |   Início   |    Fim     | Revisão Início | Revisão Fim |   Revisor   |
 | :----------------------------------------------------------------: | :-------------: | :--------: | :--------: | :------------: | :---------: | :---------: |
-|        Avaliando Resultado do protótipo de alta fidelidade         |   João Victor   | 17/01/2024 | 20/01/2024 |   20/01/2024   | 25/01/2024  | Lucas Sales |
-|             Aperfeiçoar o protótipo de alta fidelidade             |      João Victor,Lucas Sales, Paola Lima, Karolina Vieira      | 20/01/2024 | 25/01/2024 |    26/01/24    |  26/01/24   |    João Victor,Lucas Sales, Paola Lima, Karolina Vieira    |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | Karolina Vieira | 25/01/2024 |  26/01/24  |    26/01/24    |  26/01/24   | Paola Lima  |
-|                          Gravação etapa 8                          |      João Victor,Lucas Sales, Paola Lima, Karolina Vieira      |  26/01/24  |  26/01/24  |    26/01/24    |  26/01/24   |    João Victor,Lucas Sales, Paola Lima, Karolina Vieira    |
+|        Avaliando Resultado do protótipo de alta fidelidade         |   João Victor   | 17/01/2025 | 20/01/2025 |   20/01/2025   | 25/01/2025  | Lucas Sales |
+|             Aperfeiçoar o protótipo de alta fidelidade             |      João Victor,Lucas Sales, Paola Lima, Karolina Vieira      | 20/01/2025 | 25/01/2025 |    26/01/25    |  26/01/25   |    João Victor,Lucas Sales, Paola Lima, Karolina Vieira    |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Karolina Vieira | 25/01/2025 |  26/01/25  |    26/01/25    |  26/01/25   | Paola Lima  |
+|                          Gravação etapa 8                          |      João Victor,Lucas Sales, Paola Lima, Karolina Vieira      |  26/01/25  |  26/01/25  |    26/01/25    |  26/01/25   |    João Victor,Lucas Sales, Paola Lima, Karolina Vieira    |
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
 | Tarefa | Responsáveis | Início |  Fim  | Revisão Início | Revisão Fim | Revisor |
 | :----: | :----------: | :----: | :---: | :------------: | :---------: | :-----: |
+|        Avaliando Resultado do protótipo de alta fidelidade         |  Paola Lima e Karolina Vieira   | 17/01/2025 | 20/01/2025 |   20/01/2025   | 25/01/2025  | Paola Lima e Karolina Vieira |
+|             Aperfeiçoar o protótipo de alta fidelidade             |      Paola Lima      | 01/02/2025 | 01/02/2025 |    01/02/2025    |  01/02/2025   |   Karolina Vieira   |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade |Paola Lima e Karolina Vieira | 25/01/2025 |  26/01/25  |    26/01/25    |  26/01/25   | Paola Lima e Karolina Vieira  |
+|                          Listas de Verificação dos artefatos                          |      Paola Lima e Karolina Vieira      |  27/01/25  | 27/01/25  |   27/01/25  |  27/01/25   |    Paola Lima e Karolina Vieira    |
+|                          Gravação etapa 8                          |      Paola Lima e Karolina Vieira      |  03/02/25  |  03/02/25   |    03/02/25    |  03/02/25   |    Paola Lima e Karolina Vieira    |
+
 
 <div id="etapa9" align="center" color="yellow"><h2>Etapa 9</h2></div>
 
@@ -264,8 +270,8 @@
 
 |              Tarefa              | Responsáveis |   Início   |    Fim     | Revisão Início | Revisão Fim | Revisor |
 | :------------------------------: | :----------: | :--------: | :--------: | :------------: | :---------: | :-----: |
-| Desenvolvimento do projeto final |    Todos     | 27/01/2024 | 07/02/2024 |   07/02/2024   | 09/02/2024  |  Todos  |
-|      Gravação projeto final      |    Todos     | 09/02/2024 | 09/02/2024 |   09/02/2024   | 09/02/2024  |  Todos  |
+| Desenvolvimento do projeto final |    Todos     | 27/01/2025 | 07/02/2025 |   07/02/2025   | 09/02/2025  |  Todos  |
+|      Gravação projeto final      |    Todos     | 09/02/2025 | 09/02/2025 |   09/02/2025   | 09/02/2025  |  Todos  |
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 

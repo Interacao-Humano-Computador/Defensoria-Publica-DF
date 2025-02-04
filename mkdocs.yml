@@ -69,6 +69,8 @@ nav:
     - Apresentação etapa 5: Apresentacoes/apresentacao5.md
     - Apresentação etapa 6: Apresentacoes/apresentacao6.md
     - Apresentação etapa 7: Apresentacoes/apresentacao7.md
+    - Apresentação etapa 8: Apresentacoes/apresentacao8.md
+    
   - Análise de Requisitos:
     - Perfil de Usuário: Analise/perfilUsuario.md
     - Personas: Analise/personas.md
@@ -109,22 +111,29 @@ nav:
     - Inspeção 5º etapa: Inspecao/inspecao_etapa5.md
     - Inspeção 6º etapa: Inspecao/inspecao_etapa6.md
     - Inspeção 7º etapa: Inspecao/inspecao_etapa7.md
-
-
+    
   - Verificação:
-    - Planejamento:
-            - Planejamento da Verificação Análise de Tarefas: Verificacao/plan_verif_analisetarefas.md
-            - Planejamento da Verificação Cenários: Verificacao/plan_verif_cenario.md
-            - Planejamento da Verificação Personas: Verificacao/plan_verif_personas.md
-            - Planejamento da Verificação Elenco de personas: Verificacao/plan_verif_elencopersonas.md
-            - Planejamento da Verificação Framework DECIDE: Verificacao/plan_verif_frameworkDECIDE.md
-            - Planejamento da Verificação Planejamento do Resultado e Resultado: Verificacao/plan_verif_planejresult.md
-    - Verificação Personas: Verificacao/verificacao_personas.md
-    - Verificação Cenários: Verificacao/verificacao_cenarios.md
-    - Verificação Análise de Tarefas: Verificacao/verificacao_analiseTarefas.md
-    - Verificação Framework DECIDE: Verificacao/verificacao_frameworkDECIDE.md
-    - Verificação Árvore de Tarefas Concorrentes: Verificacao/verificacao_arvoreTarefas.md
-    - Verificação Elenco de Personas: Verificacao/verificacao_ElencodePersonas.md
+    - Verificação Análise de Tarefas:
+          - Planejamento da Verificação Análise de Tarefas: Verificacao/plan_verif_analisetarefas.md
+          - Resultado Verificação Análise de Tarefas: Verificacao/verificacao_analiseTarefas.md
+    - Verificação Cenários:
+          - Planejamento da Verificação Cenários: Verificacao/plan_verif_cenario.md
+          - Resultado Verificação Cenários: Verificacao/verificacao_cenarios.md
+    - Veificação Personas:
+          - Planejamento da Verificação Personas: Verificacao/plan_verif_personas.md
+          - Resultado Verificação Personas: Verificacao/verificacao_personas.md
+    - Verificação Elenco de personas:
+          - Planejamento da Verificação Elenco de personas: Verificacao/plan_verif_elencopersonas.md
+          - Resultado Verificação Elenco de Personas: Verificacao/verificacao_ElencodePersonas.md
+    - Verificação Framework DECIDE:
+          - Planejamento da Verificação Framework DECIDE: Verificacao/plan_verif_frameworkDECIDE.md
+          - Resultado Verificação Framework DECIDE: Verificacao/verificacao_frameworkDECIDE.md
+    - Verificação Planejamento do Resultado e Resultado:
+          - Planejamento da Verificação Planejamento do Resultado e Resultado: Verificacao/plan_verif_planejresult.md
+          - Resultado Verificação Planejamento do Resultado e Resultado: Verificacao/verif_Resultado 
+    - Verificação árvore de Tarefas Concorrentes:
+          - Planejamento da Verificação Árvore de Tarefas Concorrentes: Verificacao/plan_verif_arvoreTarefas.md
+          - Resultado Verificação Árvore de Tarefas Concorrentes: Verificacao/verificacao_arvoreTarefas.md
 
 
 
