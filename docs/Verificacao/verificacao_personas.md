@@ -6,8 +6,8 @@
 
 ## Tabela 01 - Verificação do próprio grupo
 
-| ID  | Objetivo | Pergunta | Resposta | Versão |
-|-----|----------|----------|----------|------|
+| ID  | Objetivo | Pergunta | Resposta | Versão | Data e Hora |
+|-----|----------|----------|----------|--------|-------------|
 | 1   | Definir identidade | O nome e sobrenome da persona estão definidos? | Conforme | 1.0 | 03/02/2025, 20h40|
 | 2   | Definir idade | A idade da persona foi especificada? | Conforme | 1.0 | 03/02/2025, 20h40|
 | 3   | Representatividade | Os dados demográficos representativos do perfil da persona foram incluídos? | Não conforme | 1.0 | 03/02/2025, 20h40|
@@ -32,8 +32,8 @@
 
 ## Tabela 2- Verificação do Grupo+1 
 
-| ID  | Objetivo | Pergunta | Resposta | Versão |
-|-----|----------|----------|----------|------|
+| ID  | Objetivo | Pergunta | Resposta | Versão | Data e Hora |
+|-----|----------|----------|----------|--------|-------------|
 | 1   | Definir identidade | O nome e sobrenome da persona estão definidos? | Conforme | 1.0 | 03/02/2025, 20h50|
 | 2   | Definir idade | A idade da persona foi especificada? | Conforme | 1.0 | 03/02/2025, 20h50|
 | 3   | Representatividade | Os dados demográficos representativos do perfil da persona foram incluídos? | Não conforme | 1.0 | 03/02/2025, 20h50|
@@ -55,6 +55,8 @@
 
 ### Figura 2 - Dados obtidos do grupo +1 
 ![Figura 1 - Dados Obtidos do grupo + 1](../assets/images/veri7.png)
+
+## Resultados
 
 As figuras 1 e 2 Dados obtidos do grupo e do grupo +1, respectivamente, mostram os dados iniciais obtidos pelo grupo e pelo grupo +1 durante a análise de conformidade da verificação sobre Personas. Nessas imagens, os itens são organizados e apresentados de acordo com sua situação, classificados em Conforme, Não Conforme e Não se Aplica. Essa estrutura visual permite que os membros do grupo acompanhem facilmente o status de cada item, facilitando o processo de verificação e identificação de eventuais discrepâncias ou conformidades, o que é essencial para garantir a precisão e qualidade da análise. 
 

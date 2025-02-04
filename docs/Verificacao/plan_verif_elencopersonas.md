@@ -29,7 +29,9 @@ A tabela a seguir apresenta a lista de verificação, contendo todas as pergunta
 | 9   | Adequação | O número de personas criadas está adequado para o projeto (nem muito pequeno nem excessivo)? |  |     |    |[1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.   |   [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)  |
 | 10  | Relevância | As personas primárias refletem os usuários mais relevantes para o desenvolvimento do produto? |  |     |    | [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.  |   [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)  |
 
+## Resultado
 
+As figuras 1 e 2 Dados obtidos do grupo e do grupo +1, respectivamente, mostram os dados iniciais obtidos pelo grupo e pelo grupo +1 durante a análise de conformidade da verificação sobre Elenco de Personas. Nessas imagens, os itens são organizados e apresentados de acordo com sua situação, classificados em Conforme, Não Conforme e Não se Aplica. Essa estrutura visual permite que os membros do grupo acompanhem facilmente o status de cada item, facilitando o processo de verificação e identificação de eventuais discrepâncias ou conformidades, o que é essencial para garantir a precisão e qualidade da análise. 
 
 
 ## Referências Bibliográficas
