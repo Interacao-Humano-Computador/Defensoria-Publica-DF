@@ -5,7 +5,7 @@
 # **Verificação da Análise Hierárquica de Tarefas - (HTA – Hierarchical Task Analysis)**
 
 
-## Tabela 01 - Dados coletados 
+## Tabela 01 - Verificação do Grupo
 
 | ID  | Objetivo | Pergunta | Resposta | Versão |
 |-----|----------|----------|----------|------|
