@@ -6,27 +6,33 @@
 
 ## Tabela 01 - Verificação do próprio grupo
 
-| ID  | Objetivo | Pergunta | Resposta | Versão |
+| ID  | Objetivo | Pergunta | Resposta | Data |
 |-----|----------|----------|----------|------|
-| 1   | Comportamento | O cenário descreve o comportamento e as experiências dos atores? |  | 1.0 |
-| 2   | Objetivos | Cada ator possui objetivos que dirigem as tarefas que ele realiza no tempo? |  | 1.0  |
-| 3   | Foco | O cenário apresenta um ator principal e um objetivo principal? |  |  1.0 |
-| 4   | Linha do Tempo | O cenário contém uma linha do tempo de descrições sobre o ambiente e as ações dos atores? |  |  1.0 |
-| 5   | Interação | O cenário é focado na interação dos atores e como essas interações afetam a situação? |  |  1.0 |
-| 6   | Relevância | A descrição dos atores está limitada às suas características pessoais relevantes para a interação no cenário? |  |  1.0 |
-| 7   | Clareza | Os cenários minimizam atributos irrelevantes dos atores para evitar distrações? |  |   1.0|
+| 1   | Comportamento | O cenário descreve o comportamento e as experiências dos atores? | Conforme | 1.0 |
+| 2   | Objetivos | Cada ator possui objetivos que dirigem as tarefas que ele realiza no tempo? | Conforme  | 1.0  |
+| 3   | Foco | O cenário apresenta um ator principal e um objetivo principal? | Não conforme |  1.0 |
+| 4   | Linha do Tempo | O cenário contém uma linha do tempo de descrições sobre o ambiente e as ações dos atores? | Conforme |  1.0 |
+| 5   | Interação | O cenário é focado na interação dos atores e como essas interações afetam a situação? | Não conforme |  1.0 |
+| 6   | Relevância | A descrição dos atores está limitada às suas características pessoais relevantes para a interação no cenário? |conforme  |  1.0 |
+| 7   | Clareza | Os cenários minimizam atributos irrelevantes dos atores para evitar distrações? | conforme |   1.0|
+
+### Figura 1 - Dados Obtidos
+![Figura 1 - Tela Inicial](../assets/images/veri4.png)
 
 ## Tabela 02 - Verificação do grupo +1 
 
 | ID  | Objetivo | Pergunta | Resposta | Data |
 |-----|----------|----------|----------|------|
-| 1   | Comportamento | O cenário descreve o comportamento e as experiências dos atores? |  | 1.0 |
-| 2   | Objetivos | Cada ator possui objetivos que dirigem as tarefas que ele realiza no tempo? |  | 1.0  |
-| 3   | Foco | O cenário apresenta um ator principal e um objetivo principal? |  |  1.0 |
-| 4   | Linha do Tempo | O cenário contém uma linha do tempo de descrições sobre o ambiente e as ações dos atores? |  |  1.0 |
-| 5   | Interação | O cenário é focado na interação dos atores e como essas interações afetam a situação? |  |  1.0 |
-| 6   | Relevância | A descrição dos atores está limitada às suas características pessoais relevantes para a interação no cenário? |  |  1.0 |
-| 7   | Clareza | Os cenários minimizam atributos irrelevantes dos atores para evitar distrações? |  |   1.0|
+| 1   | Comportamento | O cenário descreve o comportamento e as experiências dos atores? | Conforme | 1.0 |
+| 2   | Objetivos | Cada ator possui objetivos que dirigem as tarefas que ele realiza no tempo? | Conforme  | 1.0  |
+| 3   | Foco | O cenário apresenta um ator principal e um objetivo principal? | Não conforme |  1.0 |
+| 4   | Linha do Tempo | O cenário contém uma linha do tempo de descrições sobre o ambiente e as ações dos atores? | Conforme |  1.0 |
+| 5   | Interação | O cenário é focado na interação dos atores e como essas interações afetam a situação? | Não conforme |  1.0 |
+| 6   | Relevância | A descrição dos atores está limitada às suas características pessoais relevantes para a interação no cenário? |conforme  |  1.0 |
+| 7   | Clareza | Os cenários minimizam atributos irrelevantes dos atores para evitar distrações? | conforme |   1.0|
+
+### Figura 1 - Dados Obtidos do grupo + 1
+![Figura 1 - Tela Inicial](../assets/images/veri4.png)
 
 ## Referências Bibliográficas
 
