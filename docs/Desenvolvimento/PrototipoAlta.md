@@ -26,7 +26,8 @@ A seguir, são detalhados os protótipos de alta fidelidade desenvolvidos para c
 
 ## Protótipo de Alta Fidelidade 1 - Agendar uma consulta com advogado
 
-Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agendamento de consultas online com advogados no site da DPDF, promovendo praticidade e eficiência na interação com o serviço público.
+Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agendamento de consultas online com advogados no site da DPDF, promovendo praticidade e eficiência na interação com o serviço público. 
+[Acesse o protótipo 1  no Figma](https://www.figma.com/design/UBc1cwHXbyPAuzW29EVDZG/DPDF?node-id=4-113&p=f&t=YcnhktPSDaR2cXzb-0)
 
 ### Figura 2-Tela Principal do agendamento com advogado
 ![Figura 1 - Tela Inicial](../assets/images/agendamentoInicio.png)
@@ -45,6 +46,7 @@ Esta funcionalidade foi projetada para facilitar o acesso dos cidadãos ao agend
 ## Protótipo de Alta Fidelidade 2 - Increve-se no Programa de Estágio DPDF
 
 As figuras apresentadas a seguir ilustram o protótipo desenvolvido para a tarefa  de se inscrever no estágio da DPDF (funcionalidade criada para o projeto) com foco em um sistema que visa facilitar o processo de inscrição e acompanhamento. Cada imagem representa telas específicas projetadas para atender diferentes funcionalidades do sistema.
+[Acesse o protótipo 2  no Figma](https://www.figma.com/design/aGVvOspAyqMoX1uajqQfCm/DPDF?node-id=54618-10&p=f&t=iBixeVY6DUFBEQEN-0)
 
 ### Figura 5 -Tela de Estágio Remunerado
 ![Figura 1 - Tela de Estágio Remunerado](../assets/images/telaestagioprototipo.png)<figcaption>Autor: Paola Nascimento (2025)</figcaption>
