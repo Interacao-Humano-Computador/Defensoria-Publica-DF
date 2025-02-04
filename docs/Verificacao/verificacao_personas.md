@@ -6,8 +6,8 @@
 
 ## Tabela 01 - Verificação do próprio grupo
 
-| ID  | Objetivo | Pergunta | Resposta | Versão |
-|-----|----------|----------|----------|------|
+| ID  | Objetivo | Pergunta | Resposta | Versão | Data e Hora |
+|-----|----------|----------|----------|--------|-------------|
 | 1   | Definir identidade | O nome e sobrenome da persona estão definidos? | Conforme | 1.0 | 03/02/2025, 20h40|
 | 2   | Definir idade | A idade da persona foi especificada? | Conforme | 1.0 | 03/02/2025, 20h40|
 | 3   | Representatividade | Os dados demográficos representativos do perfil da persona foram incluídos? | Não conforme | 1.0 | 03/02/2025, 20h40|
@@ -32,8 +32,8 @@
 
 ## Tabela 2- Verificação do Grupo+1 
 
-| ID  | Objetivo | Pergunta | Resposta | Versão |
-|-----|----------|----------|----------|------|
+| ID  | Objetivo | Pergunta | Resposta | Versão | Data e Hora |
+|-----|----------|----------|----------|--------|-------------|
 | 1   | Definir identidade | O nome e sobrenome da persona estão definidos? | Conforme | 1.0 | 03/02/2025, 20h50|
 | 2   | Definir idade | A idade da persona foi especificada? | Conforme | 1.0 | 03/02/2025, 20h50|
 | 3   | Representatividade | Os dados demográficos representativos do perfil da persona foram incluídos? | Não conforme | 1.0 | 03/02/2025, 20h50|
