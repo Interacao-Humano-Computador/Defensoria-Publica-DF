@@ -38,6 +38,8 @@
 ### Figura 2 - Dados obtidos do grupo +1 
 ![Figura 1 - Dados obtidos do grupo +1 ](../assets/images/veri10.png)
 
+## Resultados
+
 As figuras 1 e 2 Dados obtidos do grupo e do grupo +1, respectivamente, mostram os dados iniciais obtidos pelo grupo e pelo grupo +1 durante a análise de conformidade da verificação sobre Planejamento do Resultado e o Resultado de uma Avaliação. Nessas imagens, os itens são organizados e apresentados de acordo com sua situação, classificados em Conforme, Não Conforme e Não se Aplica. Essa estrutura visual permite que os membros do grupo acompanhem facilmente o status de cada item, facilitando o processo de verificação e identificação de eventuais discrepâncias ou conformidades, o que é essencial para garantir a precisão e qualidade da análise. 
 
 
