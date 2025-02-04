@@ -16,11 +16,23 @@ A tabela a seguir apresenta a lista de verificação, contendo todas as pergunta
 
 ### Tabela 01 - Lista para verficação 
 
-| ID  | Objetivo | Pergunta | Resposta | Versão | Fonte | Autor |
-|-----|----------|----------|----------|--------|-------|-------|     
-| 1   | Planejamento da avaliação | O planejamento da avaliação inclui a decisão de quando ela será realizada? |  | 1.0 |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |   [Karolina Vieira](https://github.com/Karolina91)   |
-| 2   | Relatório de avaliação | O relatório de avaliação inclui o método empregado, os participantes, dados coletados e problemas encontrados? |  | 1.0 |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |  [Karolina Vieira](https://github.com/Karolina91)    |
-| 3   | Consolidação de resultados | Os resultados individuais dos avaliadores e participantes são consolidados antes da análise? |  | 1.0 |[1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.      |  [Karolina Vieira](https://github.com/Karolina91)    |
+| ID  | Objetivo | Pergunta | Resposta | Versão | Data e Hora | Fonte | Autor |
+|-----|----------|----------|----------|--------|-------------|-------|-------|     
+|   1  |          |     O material de apoio foi impresso antes da entrevista?     |            |     |     |  Página: 260, Capítulo 8. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO
+BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
+Publicado em: 03/05/2021.      |   [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)   |
+|   2  |          |     No planejamento da avaliação foi realizado o teste-piloto?     |            |     |     |  Página: 260, Capítulo 8. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO
+BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
+Publicado em: 03/05/2021.      |   [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)   |
+|   3  |          |     Para recrutar participantes o perfil desejado foi avaliado?     |            |     |     |  Página: 261, Capítulo 8. Organização do Espaço de Problema. Livro: SIMONE DINIZ JUNQUEIRO
+BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
+Publicado em: 03/05/2021.      |   [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)   |
+| 4   | Planejamento da avaliação | O planejamento da avaliação inclui a decisão de quando ela será realizada? |  |   |   |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    |   [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)   |
+| 5   | Relatório de avaliação | O relatório de avaliação inclui o método empregado, os participantes, dados coletados e problemas encontrados? |  |   |   |  [1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.    | [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)   |
+| 6   | Consolidação de resultados | Os resultados individuais dos avaliadores e participantes são consolidados antes da análise? |  |   |   |[1] BARBOSA, Simone, et al. Interação Humano-Computador e Experiência do Usuário. Leanpub, p.303 cap 12, 2022.      |  [Karolina Vieira](https://github.com/Karolina91) e [Paola Nascimento](https://github.com/paolaalim)    |
+
+
+
 
 
 

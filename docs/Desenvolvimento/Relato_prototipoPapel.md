@@ -106,6 +106,7 @@ Não foram identificadas violações em nenhuma das heurísticas avaliadas. Toda
 ### Participantes
 
 O participante selecionado para a avaliação enquadra-se no perfil de usuário estabelecido, com idade entre 18 e 65 anos. Além disso, demonstra uma boa afinidade com tecnologia, o que o torna apto a interagir de maneira eficiente com o protótipo e fornecer feedback relevante sobre aspectos de interação e usabilidade do sistema.
+Devido a intercorrências e situações externas imprevistas, foi possível realizar os testes com apenas uma participante. Krug, em sua obra, menciona que, embora o ideal seja testar com três ou quatro usuários, é sempre melhor realizar os testes com um único participante do que não realizare.
 
 ### Sugestão de Melhorias 
 

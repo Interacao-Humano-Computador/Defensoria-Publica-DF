@@ -120,6 +120,7 @@ No Video 2 e Tabela 3 é possível verificar os registros feitos durante a avali
 
 
 ## Sumário de Avaliadores e Participantes
+Os testes de usabilidade foram planejados com a participação de três usuários, conforme recomendado por Krug. No entanto, devido a circunstâncias imprevistas, apenas uma participante pôde ser envolvida. Krug destaca que, embora o ideal seja testar com três ou quatro usuários, realizar o teste com um é mais vantajoso do que não realizá-lo.
 A seleção da entrevistada foi baseada em critérios que atendem ao perfil desejado. A participante escolhido está na faixa etária compatível com o perfil do público-alvo que utiliza o sitema, por mais que não realizem a ação específica. Além disso, ela possui uma boa relação com a tecnologia e demonstra familiaridade com a situação apresentada pelo sistema avaliado. 
 
 ## Sumário dos Dados Coletados
